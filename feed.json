@@ -7,6 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/08/28/ive-been-randomly-reading-and.html",
+				
+				"content_html": "<p>I&rsquo;ve been randomly reading and listening to physics topics, not sure why, including lectures by Richard Feynman. Something finally clicked with understanding relativity and spacetime. I <em>sort of</em> got it before, but not really. 🤯</p>\n",
+				"content_text": "I've been randomly reading and listening to physics topics, not sure why, including lectures by Richard Feynman. Something finally clicked with understanding relativity and spacetime. I _sort of_ got it before, but not really. 🤯\n",
+				"date_published": "2026-08-28T07:41:17-05:00",
+				"url": "https://www.manton.org/2026/08/28/ive-been-randomly-reading-and.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/08/27/i-dont-get-the-claudeforce.html",
+				
+				"content_html": "<p>I don&rsquo;t get the <a href=\"https://www.salesforce.com/claudeforce/\">Claudeforce</a> name. Why tie your product to a single model? That&rsquo;s someone else&rsquo;s brand. And whenever a competitor like OpenAI does something good, your own product will feel out of step too.</p>\n",
+				"content_text": "I don't get the [Claudeforce](https://www.salesforce.com/claudeforce/) name. Why tie your product to a single model? That's someone else's brand. And whenever a competitor like OpenAI does something good, your own product will feel out of step too.\n",
+				"date_published": "2026-08-27T15:34:14-05:00",
+				"url": "https://www.manton.org/2026/08/27/i-dont-get-the-claudeforce.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/08/27/i-wonder-if-apple-will.html",
+				
+				"content_html": "<p>I wonder if Apple will ever merge App Store Connect into developer.apple.com. Pretty weird that things are still fragmented. (&ldquo;Oh, you want to update an app ID? Better go somewhere else.&rdquo;)</p>\n<p>It&rsquo;s a minor nitpick. Just the whole backend feels stagnant because they have a monopoly on app distribution.</p>\n",
+				"content_text": "I wonder if Apple will ever merge App Store Connect into developer.apple.com. Pretty weird that things are still fragmented. (\"Oh, you want to update an app ID? Better go somewhere else.\")\n\nIt's a minor nitpick. Just the whole backend feels stagnant because they have a monopoly on app distribution.\n",
+				"date_published": "2026-08-27T14:58:07-05:00",
+				"url": "https://www.manton.org/2026/08/27/i-wonder-if-apple-will.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/08/27/myke-hurley-blogging-about-the.html",
+				
+				"content_html": "<p><a href=\"https://www.theenthusiast.net/relay-for-st-jude-2026/\">Myke Hurley blogging</a> about the upcoming campaign for St. Jude:</p>\n<blockquote>\n<p>We are now within reaching distance of $5 million raised. What an incredible achievement in less than 10 years. I don’t think I could have imagined what we would all achieve together. But time and time again, the Relay community has stood by us and believed in this cause.</p>\n</blockquote>\n",
+				"content_text": "[Myke Hurley blogging](https://www.theenthusiast.net/relay-for-st-jude-2026/) about the upcoming campaign for St. Jude:\n\n> We are now within reaching distance of $5 million raised. What an incredible achievement in less than 10 years. I don’t think I could have imagined what we would all achieve together. But time and time again, the Relay community has stood by us and believed in this cause.\n",
+				"date_published": "2026-08-27T14:31:51-05:00",
+				"url": "https://www.manton.org/2026/08/27/myke-hurley-blogging-about-the.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/08/27/great-story-at-cartoon-brew.html",
+				
+				"content_html": "<p><a href=\"https://www.cartoonbrew.com/rip/peter-cullen-voice-actor-optimus-prime-eeyore-toonami-266041.html\">Great story at Cartoon Brew</a> about Peter Cullen&rsquo;s voice acting work. I had never really thought <em>why</em> he was so good as Optimus Prime:</p>\n<blockquote>\n<p>His brother’s idea of heroism became central to Cullen’s interpretation of the character and arguably had a tremendous impact on generations of children who could look up to a strong leader who didn’t rely on bravado or overt displays of aggression.</p>\n</blockquote>\n<p>Rest in peace.</p>\n",
+				"content_text": "[Great story at Cartoon Brew](https://www.cartoonbrew.com/rip/peter-cullen-voice-actor-optimus-prime-eeyore-toonami-266041.html) about Peter Cullen's voice acting work. I had never really thought _why_ he was so good as Optimus Prime:\n\n> His brother’s idea of heroism became central to Cullen’s interpretation of the character and arguably had a tremendous impact on generations of children who could look up to a strong leader who didn’t rely on bravado or overt displays of aggression.\n\nRest in peace.\n",
+				"date_published": "2026-08-27T11:44:48-05:00",
+				"url": "https://www.manton.org/2026/08/27/great-story-at-cartoon-brew.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/08/27/i-shaved-off-about-half.html",
+				
+				"content_html": "<p>I shaved off about half a second while loading the Micro.blog home page timeline. It helps, but also doesn&rsquo;t have as dramatic a perceived effect as I was hoping. Performance is so many small things.</p>\n",
+				"content_text": "I shaved off about half a second while loading the Micro.blog home page timeline. It helps, but also doesn't have as dramatic a perceived effect as I was hoping. Performance is so many small things.\n",
+				"date_published": "2026-08-27T11:02:31-05:00",
+				"url": "https://www.manton.org/2026/08/27/i-shaved-off-about-half.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/08/27/the-tariffs-were-largely-a.html",
+				
+				"content_html": "<p>The tariffs were largely a waste of time and money, but still nice to see this part of it resolving well: Panic is refunding tariff fees for Playdate purchases, via <a href=\"https://lexontech.org/panic-is-refunding-tariff-fees-paid-by-playdate-owners\">Lex Friedman&rsquo;s new blog</a>.</p>\n",
+				"content_text": "The tariffs were largely a waste of time and money, but still nice to see this part of it resolving well: Panic is refunding tariff fees for Playdate purchases, via [Lex Friedman's new blog](https://lexontech.org/panic-is-refunding-tariff-fees-paid-by-playdate-owners).\n",
+				"date_published": "2026-08-27T10:38:20-05:00",
+				"url": "https://www.manton.org/2026/08/27/the-tariffs-were-largely-a.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/08/27/microblog-book-readers-who-like.html",
+				
+				"content_html": "<p>Micro.blog book readers who like libraries: Libby integration seems to be working pretty well again. You&rsquo;ll need to reconnect it on the web, Bookshelves → &ldquo;&hellip;&rdquo; → Import. 📚</p>\n",
+				"content_text": "Micro.blog book readers who like libraries: Libby integration seems to be working pretty well again. You'll need to reconnect it on the web, Bookshelves → \"...\" → Import. 📚\n",
+				"date_published": "2026-08-27T09:30:00-05:00",
+				"url": "https://www.manton.org/2026/08/27/microblog-book-readers-who-like.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/08/27/paradoxically-im-increasingly-believing-in.html",
+				
+				"content_html": "<p>Paradoxically I&rsquo;m increasingly believing in two things at the same time:</p>\n<ul>\n<li>Not a bubble. Not overhyped. We&rsquo;re still near the beginning of the growth and what will be possible.</li>\n<li>Nvidia could crash and bring down much of the stock market with it. We&rsquo;re all going to be hit hard if this happens.</li>\n</ul>\n",
+				"content_text": "Paradoxically I'm increasingly believing in two things at the same time:\n\n* Not a bubble. Not overhyped. We're still near the beginning of the growth and what will be possible.\n* Nvidia could crash and bring down much of the stock market with it. We're all going to be hit hard if this happens.\n",
+				"date_published": "2026-08-27T08:46:47-05:00",
+				"url": "https://www.manton.org/2026/08/27/paradoxically-im-increasingly-believing-in.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/08/27/twitternow-is-going-to-make.html",
+				
+				"content_html": "<p><a href=\"https://twitter.now/\">Twitter.now</a> is going to make a lot of money for 48 hours and then disappear. I&rsquo;m sure they are well-intentioned, but creating new silos (even with nostalgic brands) is not what we need. If you want blue in your online social life, Bluesky is the way to go.</p>\n",
+				"content_text": "[Twitter.now](https://twitter.now/) is going to make a lot of money for 48 hours and then disappear. I'm sure they are well-intentioned, but creating new silos (even with nostalgic brands) is not what we need. If you want blue in your online social life, Bluesky is the way to go.\n",
+				"date_published": "2026-08-27T08:22:58-05:00",
+				"url": "https://www.manton.org/2026/08/27/twitternow-is-going-to-make.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/08/26/openai-has-published-a-technical.html",
 				
 				"content_html": "<p><a href=\"https://openai.com/index/hugging-face-incident-and-the-road-ahead/\">OpenAI has published</a> a technical report on the Hugging Face hack:</p>\n<blockquote>\n<p>Another key driver of the misaligned behavior was that the agents rarely “gave up” on their evaluation tasks, even when the tasks appeared impossible to solve. As agents used more reasoning effort, some pursued increasingly risky and out-of-bounds strategies, including eventually exploiting third-party infrastructure.</p>\n</blockquote>\n<p>The agents also seemed to be influenced by each other because of the secret message board. Almost like working together convinced them they could solve tasks that were impossible alone.</p>\n",
