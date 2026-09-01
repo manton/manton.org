@@ -7,10 +7,76 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/09/01/kind-of-love-the-alllowercase.html",
+				
+				"content_html": "<p>Kind of love the all-lowercase &ldquo;hello&rdquo; as <a href=\"https://x.com/johnternus/status/2094814214787633367\">John Ternus&rsquo;s first X post</a>. Maybe we&rsquo;re in for a new, more informal style. Or maybe I&rsquo;m reading too much into it. Still holding out hope for a CEO personal blog one day, to offset all the opaque corporate-y communication.</p>\n",
+				"content_text": "Kind of love the all-lowercase \"hello\" as [John Ternus's first X post](https://x.com/johnternus/status/2094814214787633367). Maybe we're in for a new, more informal style. Or maybe I'm reading too much into it. Still holding out hope for a CEO personal blog one day, to offset all the opaque corporate-y communication.\n",
+				"date_published": "2026-09-01T11:11:09-05:00",
+				"url": "https://www.manton.org/2026/09/01/kind-of-love-the-alllowercase.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/01/one-way-to-read-the.html",
+				
+				"content_html": "<p>One way to read the OpenAI vs. Anthropic rivalry — and Claude Code&rsquo;s success — is that while OpenAI was off in the weeds playing with Sora, Anthropic was training Mythos. OpenAI spent 2026 catching up. Reading about Astra rumors, I expect OpenAI to have a significant advantage through the fall. 🤖</p>\n",
+				"content_text": "One way to read the OpenAI vs. Anthropic rivalry — and Claude Code's success — is that while OpenAI was off in the weeds playing with Sora, Anthropic was training Mythos. OpenAI spent 2026 catching up. Reading about Astra rumors, I expect OpenAI to have a significant advantage through the fall. 🤖\n",
+				"date_published": "2026-09-01T10:44:52-05:00",
+				"url": "https://www.manton.org/2026/09/01/one-way-to-read-the.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/01/i-noticed-when-i-quit.html",
+				
+				"content_html": "<p>I noticed when I quit Twitter in 2013 that my blog posts became more <em>my own</em>, less influenced by my old online community. I think it&rsquo;s a good idea every once in a while for us to poke our heads outside whatever the current filter bubble is. The web is a big place. That diversity is a strength.</p>\n",
+				"content_text": "I noticed when I quit Twitter in 2013 that my blog posts became more _my own_, less influenced by my old online community. I think it's a good idea every once in a while for us to poke our heads outside whatever the current filter bubble is. The web is a big place. That diversity is a strength.\n",
+				"date_published": "2026-09-01T10:14:56-05:00",
+				"url": "https://www.manton.org/2026/09/01/i-noticed-when-i-quit.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/08/31/still-weird-that-today-is.html",
+				
+				"content_html": "<p>Still weird that today is Tim Cook&rsquo;s last day as CEO. I got my first Mac toward the end of the John Sculley era. To me he’s the third most consequential, behind Steve and Tim.</p>\n<p>Heck of a company. <a href=\"https://www.manton.org/2024/05/15/a-couple-months.html\">Two years ago</a> I blogged that we were at peak Apple. John Ternus now gets to figure out if that’s true.</p>\n",
+				"content_text": "Still weird that today is Tim Cook's last day as CEO. I got my first Mac toward the end of the John Sculley era. To me he’s the third most consequential, behind Steve and Tim.\n\nHeck of a company. [Two years ago](https://www.manton.org/2024/05/15/a-couple-months.html) I blogged that we were at peak Apple. John Ternus now gets to figure out if that’s true.\n",
+				"date_published": "2026-08-31T20:13:24-05:00",
+				"url": "https://www.manton.org/2026/08/31/still-weird-that-today-is.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/08/31/reading-parker-ortolanis-blog-post.html",
+				
+				"content_html": "<p>Reading <a href=\"https://parkerortolani.blog/2026/08/28/pebble-proves-the-ring-might.html\">Parker Ortolani&rsquo;s blog post about the Pebble Index</a>, I almost wish I hadn&rsquo;t cancelled my pre-order. I still don&rsquo;t think I would wear it, but it does seem closest to what I want for note taking.</p>\n",
+				"content_text": "Reading [Parker Ortolani's blog post about the Pebble Index](https://parkerortolani.blog/2026/08/28/pebble-proves-the-ring-might.html), I almost wish I hadn't cancelled my pre-order. I still don't think I would wear it, but it does seem closest to what I want for note taking.\n",
+				"date_published": "2026-08-31T14:41:38-05:00",
+				"url": "https://www.manton.org/2026/08/31/reading-parker-ortolanis-blog-post.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/08/31/book-detail-pages.html",
+				"title": "Book detail pages",
+				"content_html": "<p>Micro.blog has had great support for blogging about books for years, including through our companion app Epilogue for iOS and Android. But one thing has always bugged me: when you blog about a book, by default it creates a link to a special URL on Micro.blog with the book details, not a link to your blog&rsquo;s own domain name.</p>\n<p>Linking to the <code>micro.blog</code> domain was useful as a sort of centralized identifier that we could build other features on. That page in turn links to Amazon, Goodreads, and Open Library. It doesn&rsquo;t even have Micro.blog branding if you&rsquo;re not signed in. But bloggers should have more control over how these links work.</p>\n<p>We&rsquo;re introducing a new setting to solve this. Click on Bookshelves → Settings → &ldquo;Link books to detail pages on your blog&rdquo;.</p>\n<p>With that setting enabled, links to <code>micro.blog/books/isbn</code> are automatically rewritten to use your own domain name when Hugo processes your blog.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> If you don&rsquo;t have the plug-in &ldquo;Book reading goals&rdquo; installed, it will also be installed automatically, providing a Hugo template that gives these book detail pages a basic design. It looks like this:</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-925797e3.png\">\n<p>Here&rsquo;s <a href=\"https://www.manton.org/books/9781250406835/\">the same page on my blog</a>.</p>\n<p>Because it&rsquo;s just Hugo metadata, themes and plug-ins can override the template to make it match your blog&rsquo;s design, or to include more information such as number of pages, book genre, or links to other services.</p>\n<p><a href=\"https://help.micro.blog/t/book-detail-pages/4453\">See this help page</a> for the front matter parameters that are available. All the metadata is also available in the Hugo <code>data</code> directory, which even if you don&rsquo;t use it directly is available in blog backups.</p>\n<p>There is still some follow-up work to do, such as updating Epilogue to be smarter about finding these links at different domain names. Also, I don&rsquo;t necessarily expect everyone to enable this setting, especially if you don&rsquo;t have time to customize the page for your own blog. Still, I&rsquo;m excited to get this rolled out. Happy reading! 📚</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Micro.blog will create these book pages as it needs to, starting with new posts. For older blog posts, you can re-save them or run a full rebuild from the Logs page.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Micro.blog has had great support for blogging about books for years, including through our companion app Epilogue for iOS and Android. But one thing has always bugged me: when you blog about a book, by default it creates a link to a special URL on Micro.blog with the book details, not a link to your blog's own domain name.\n\nLinking to the `micro.blog` domain was useful as a sort of centralized identifier that we could build other features on. That page in turn links to Amazon, Goodreads, and Open Library. It doesn't even have Micro.blog branding if you're not signed in. But bloggers should have more control over how these links work.\n\nWe're introducing a new setting to solve this. Click on Bookshelves → Settings → \"Link books to detail pages on your blog\".\n\nWith that setting enabled, links to `micro.blog/books/isbn` are automatically rewritten to use your own domain name when Hugo processes your blog.[^1] If you don't have the plug-in \"Book reading goals\" installed, it will also be installed automatically, providing a Hugo template that gives these book detail pages a basic design. It looks like this:\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-925797e3.png\">\n\nHere's [the same page on my blog](https://www.manton.org/books/9781250406835/).\n\nBecause it's just Hugo metadata, themes and plug-ins can override the template to make it match your blog's design, or to include more information such as number of pages, book genre, or links to other services.\n\n[See this help page](https://help.micro.blog/t/book-detail-pages/4453) for the front matter parameters that are available. All the metadata is also available in the Hugo `data` directory, which even if you don't use it directly is available in blog backups.\n\nThere is still some follow-up work to do, such as updating Epilogue to be smarter about finding these links at different domain names. Also, I don't necessarily expect everyone to enable this setting, especially if you don't have time to customize the page for your own blog. Still, I'm excited to get this rolled out. Happy reading! 📚\n\n[^1]: Micro.blog will create these book pages as it needs to, starting with new posts. For older blog posts, you can re-save them or run a full rebuild from the Logs page.\n",
+				"date_published": "2026-08-31T14:00:59-05:00",
+				"url": "https://www.manton.org/2026/08/31/book-detail-pages.html",
+				"tags": ["Books","Photos","Essays"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/08/31/started-catching-up-on-email.html",
+				
+				"content_html": "<p>Started catching up on email and RSS links at 11:30am instead of 8am, and already I feel like I&rsquo;m behind on everything. Monday morning, I guess.</p>\n",
+				"content_text": "Started catching up on email and RSS links at 11:30am instead of 8am, and already I feel like I'm behind on everything. Monday morning, I guess.\n",
+				"date_published": "2026-08-31T12:44:47-05:00",
+				"url": "https://www.manton.org/2026/08/31/started-catching-up-on-email.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/08/31/stopped-in-san-antonio-for.html",
+				
+				"content_html": "<p>Stopped in San Antonio for coffee + work. Just updated <a href=\"https://www.manton.org/texas-state-parks/\">my state parks page</a> with last night&rsquo;s visit to Goliad. Plotting a few more parks I can knock out this fall. ☕️</p>\n",
+				"content_text": "Stopped in San Antonio for coffee + work. Just updated [my state parks page](https://www.manton.org/texas-state-parks/) with last night's visit to Goliad. Plotting a few more parks I can knock out this fall. ☕️\n",
+				"date_published": "2026-08-31T11:59:40-05:00",
+				"url": "https://www.manton.org/2026/08/31/stopped-in-san-antonio-for.html",
+				"tags": ["Coffee"]
+			},
+			{
 				"id": "http://manton.micro.blog/2026/08/30/goliad-state-park-finally-getting.html",
 				
-				"content_html": "<p>Goliad State Park. Finally getting back to my state park quest. Summer is too hot, but I’m testing a new portable air conditioner.</p>\n<p><img src=\"uploads/2026/5452bd7b-b652-4034-a37e-feb70dd878b3.jpg\" width=\"600\" height=\"600\" alt=\"Auto-generated description: A white colonial-style building with arches, a cross on top, and ornate entrance details stands against a clear blue sky.\"> <img src=\"uploads/2026/1bca99c0-04b2-4849-a3b2-a381cad2ea90.jpg\" width=\"600\" height=\"600\" alt=\"Auto-generated description: Ancient stone ruins surrounded by trees and grass are set under a clear blue sky.\"> <img src=\"uploads/2026/img-5296.jpg\" width=\"600\" height=\"600\" alt=\"Auto-generated description: A tall tree with dense green foliage stands prominently against a clear blue sky, surrounded by other trees and bushes.\"></p>\n",
-				"content_text": "Goliad State Park. Finally getting back to my state park quest. Summer is too hot, but I’m testing a new portable air conditioner.\n\n<img src=\"uploads/2026/5452bd7b-b652-4034-a37e-feb70dd878b3.jpg\" width=\"600\" height=\"600\" alt=\"Auto-generated description: A white colonial-style building with arches, a cross on top, and ornate entrance details stands against a clear blue sky.\"> <img src=\"uploads/2026/1bca99c0-04b2-4849-a3b2-a381cad2ea90.jpg\" width=\"600\" height=\"600\" alt=\"Auto-generated description: Ancient stone ruins surrounded by trees and grass are set under a clear blue sky.\"> <img src=\"uploads/2026/img-5296.jpg\" width=\"600\" height=\"600\" alt=\"Auto-generated description: A tall tree with dense green foliage stands prominently against a clear blue sky, surrounded by other trees and bushes.\">\n",
+				"content_html": "<p>Goliad State Park. Finally getting back to my state park quest. Summer is too hot, but I’m testing a new portable air conditioner.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/10/2026/5452bd7b-b652-4034-a37e-feb70dd878b3.jpg\" width=\"600\" height=\"600\" alt=\"Auto-generated description: A white colonial-style building with arches, a cross on top, and ornate entrance details stands against a clear blue sky.\"> <img src=\"https://cdn.uploads.micro.blog/10/2026/1bca99c0-04b2-4849-a3b2-a381cad2ea90.jpg\" width=\"600\" height=\"600\" alt=\"Auto-generated description: Ancient stone ruins surrounded by trees and grass are set under a clear blue sky.\"> <img src=\"https://cdn.uploads.micro.blog/10/2026/img-5296.jpg\" width=\"600\" height=\"600\" alt=\"Auto-generated description: A tall tree with dense green foliage stands prominently against a clear blue sky, surrounded by other trees and bushes.\"></p>\n",
+				"content_text": "Goliad State Park. Finally getting back to my state park quest. Summer is too hot, but I’m testing a new portable air conditioner.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/5452bd7b-b652-4034-a37e-feb70dd878b3.jpg\" width=\"600\" height=\"600\" alt=\"Auto-generated description: A white colonial-style building with arches, a cross on top, and ornate entrance details stands against a clear blue sky.\"> <img src=\"https://cdn.uploads.micro.blog/10/2026/1bca99c0-04b2-4849-a3b2-a381cad2ea90.jpg\" width=\"600\" height=\"600\" alt=\"Auto-generated description: Ancient stone ruins surrounded by trees and grass are set under a clear blue sky.\"> <img src=\"https://cdn.uploads.micro.blog/10/2026/img-5296.jpg\" width=\"600\" height=\"600\" alt=\"Auto-generated description: A tall tree with dense green foliage stands prominently against a clear blue sky, surrounded by other trees and bushes.\">\n",
 				"date_published": "2026-08-30T18:43:09-05:00",
 				"url": "https://www.manton.org/2026/08/30/goliad-state-park-finally-getting.html",
 				"tags": ["Photos"]
@@ -18,8 +84,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/08/30/county-courthouse-in-lockhart.html",
 				
-				"content_html": "<p>County courthouse in Lockhart.</p>\n<img src=\"uploads/2026/4cbf489f-87ee-4f3f-bf33-100cce4f5945.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "County courthouse in Lockhart.\n\n<img src=\"uploads/2026/4cbf489f-87ee-4f3f-bf33-100cce4f5945.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>County courthouse in Lockhart.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/4cbf489f-87ee-4f3f-bf33-100cce4f5945.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "County courthouse in Lockhart.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/4cbf489f-87ee-4f3f-bf33-100cce4f5945.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-08-30T16:08:46-05:00",
 				"url": "https://www.manton.org/2026/08/30/county-courthouse-in-lockhart.html",
 				"tags": ["Photos"]
