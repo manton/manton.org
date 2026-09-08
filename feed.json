@@ -7,6 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/09/07/this-could-be-really-good.html",
+				
+				"content_html": "<p>This could be really good. Trailer for a new documentary from Nathan Fielder and Lance Oppenheim about Elizabeth Holmes: <a href=\"https://www.youtube.com/watch?v=GGJSRFWALTI\">You Can See Everything</a>. Amazing cut to the wider shot at the end.</p>\n",
+				"content_text": "This could be really good. Trailer for a new documentary from Nathan Fielder and Lance Oppenheim about Elizabeth Holmes: [You Can See Everything](https://www.youtube.com/watch?v=GGJSRFWALTI). Amazing cut to the wider shot at the end.\n",
+				"date_published": "2026-09-07T13:04:22-05:00",
+				"url": "https://www.manton.org/2026/09/07/this-could-be-really-good.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/07/today-i-updated-the-microblog.html",
+				
+				"content_html": "<p>Today I updated the Micro.blog web interface with better links and icons in the timeline, and a new context menu for editing your own posts or muting a conversation. There are a lot of related design fixes too. Just a better design and more room for us to build new things on.</p>\n<img src=\"uploads/2026/paste-f240351a.png\" alt=\"Screenshot of Micro.blog with some posts from Manton showing new icons in action links and a context menu.\">\n",
+				"content_text": "Today I updated the Micro.blog web interface with better links and icons in the timeline, and a new context menu for editing your own posts or muting a conversation. There are a lot of related design fixes too. Just a better design and more room for us to build new things on.\n\n<img src=\"uploads/2026/paste-f240351a.png\" alt=\"Screenshot of Micro.blog with some posts from Manton showing new icons in action links and a context menu.\">\n",
+				"date_published": "2026-09-07T10:24:53-05:00",
+				"url": "https://www.manton.org/2026/09/07/today-i-updated-the-microblog.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/07/reflecting-on-the-astra-launch.html",
+				
+				"content_html": "<p>Reflecting on the Astra launch&hellip; It was a killer business instinct for Greg Brockman to say, &ldquo;yeah, this is basically AGI.&rdquo; Dario Amodei is much more cautious. He&rsquo;s not going to say that about Fable. But it works because it actually feels true. Marketing not based on truth is just bullshit spin.</p>\n",
+				"content_text": "Reflecting on the Astra launch... It was a killer business instinct for Greg Brockman to say, \"yeah, this is basically AGI.\" Dario Amodei is much more cautious. He's not going to say that about Fable. But it works because it actually feels true. Marketing not based on truth is just bullshit spin.\n",
+				"date_published": "2026-09-07T09:14:50-05:00",
+				"url": "https://www.manton.org/2026/09/07/reflecting-on-the-astra-launch.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/07/alignment-and-distrust.html",
+				"title": "Alignment and distrust",
+				"content_html": "<p>I wanted to quote a couple things from <a href=\"https://openai.com/index/an-alien-mind/\">this OpenAI blog post on alignment by Jakub Pachocki</a>:</p>\n<blockquote>\n<p>The fundamental challenge of AI alignment is generalization. As machines become smarter, they find themselves working on higher-level concepts, and placed in environments increasingly different from those they encountered in training. They can fail at generalizing from the values taught and reinforced in their training process to those new situations; and it can be hard for us to be sure how they will act.</p>\n</blockquote>\n<p>And:</p>\n<blockquote>\n<p>We are facing a transition to a world with incredibly intelligent machines, and we need to ensure that transition works out well for humanity. We need to find ways to preserve human agency and enshrine an intrinsic value to being human, in a world where most tasks could be performed by AI.</p>\n</blockquote>\n<p>When I read this sort of thing, it strengthens my belief that the big AI labs are fundamentally different from the ad-based big tech companies in Silicon Valley like Meta. In terms of public backlash, they are all lumped together. It’s that foundation of distrust in big tech that the more significant frustration with AI is built on.</p>\n<p>But the technology and vision are different. It&rsquo;s hard to imagine Meta being as thoughtful as Jakub is in the essay linked above. Mark Zuckerberg does have <a href=\"https://www.manton.org/2026/08/10/mark-zuckerberg-has-a-long.html\">his op-eds</a>, but they usually ring hollow.</p>\n",
+				"content_text": "I wanted to quote a couple things from [this OpenAI blog post on alignment by Jakub Pachocki](https://openai.com/index/an-alien-mind/):\n\n> The fundamental challenge of AI alignment is generalization. As machines become smarter, they find themselves working on higher-level concepts, and placed in environments increasingly different from those they encountered in training. They can fail at generalizing from the values taught and reinforced in their training process to those new situations; and it can be hard for us to be sure how they will act.\n\nAnd:\n\n> We are facing a transition to a world with incredibly intelligent machines, and we need to ensure that transition works out well for humanity. We need to find ways to preserve human agency and enshrine an intrinsic value to being human, in a world where most tasks could be performed by AI.\n\nWhen I read this sort of thing, it strengthens my belief that the big AI labs are fundamentally different from the ad-based big tech companies in Silicon Valley like Meta. In terms of public backlash, they are all lumped together. It’s that foundation of distrust in big tech that the more significant frustration with AI is built on.\n\nBut the technology and vision are different. It's hard to imagine Meta being as thoughtful as Jakub is in the essay linked above. Mark Zuckerberg does have [his op-eds](https://www.manton.org/2026/08/10/mark-zuckerberg-has-a-long.html), but they usually ring hollow.\n",
+				"date_published": "2026-09-07T08:54:12-05:00",
+				"url": "https://www.manton.org/2026/09/07/alignment-and-distrust.html",
+				"tags": ["Essays","Artificial Intelligence"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/06/with-the-th-anniversary-rerelease.html",
+				
+				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FlkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>With the 40th anniversary re-release of the original Transformers movie coming up, I finally watched the <a href=\"https://www.themoviedb.org/movie/1858\">2007 Transformers</a>. I had skipped it because it looked all wrong. The design doesn’t look like Transformers to me. Also watched Bumblebee, which it much better, just a better feel, better sound.</p>\n",
+				"content_text": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FlkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWith the 40th anniversary re-release of the original Transformers movie coming up, I finally watched the [2007 Transformers](https://www.themoviedb.org/movie/1858). I had skipped it because it looked all wrong. The design doesn’t look like Transformers to me. Also watched Bumblebee, which it much better, just a better feel, better sound.\n",
+				"date_published": "2026-09-06T20:25:18-05:00",
+				"url": "https://www.manton.org/2026/09/06/with-the-th-anniversary-rerelease.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/06/nitter-and-xcancel-are-back.html",
+				
+				"content_html": "<p>Nitter and XCancel are back online after being shut down for a couple weeks following a cease and desist letter from X. I&rsquo;m a little surprised. From the <a href=\"https://github.com/zedeus/nitter\">GitHub project page</a>:</p>\n<blockquote>\n<p>Following legal advice, the Nitter project will continue. More details will be announced soon.</p>\n</blockquote>\n",
+				"content_text": "Nitter and XCancel are back online after being shut down for a couple weeks following a cease and desist letter from X. I'm a little surprised. From the [GitHub project page](https://github.com/zedeus/nitter):\n\n> Following legal advice, the Nitter project will continue. More details will be announced soon.\n",
+				"date_published": "2026-09-06T17:37:43-05:00",
+				"url": "https://www.manton.org/2026/09/06/nitter-and-xcancel-are-back.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/06/working-on-some-web-timeline.html",
+				
+				"content_html": "<p>Working on some web timeline design tweaks that will go live in the morning. I&rsquo;ve been stubbornly insisting on text labels for Reply, Bookmark, etc. where every other network uses icons only. Going to mostly keep that, but the new version looks way better.</p>\n",
+				"content_text": "Working on some web timeline design tweaks that will go live in the morning. I've been stubbornly insisting on text labels for Reply, Bookmark, etc. where every other network uses icons only. Going to mostly keep that, but the new version looks way better.\n",
+				"date_published": "2026-09-06T17:15:34-05:00",
+				"url": "https://www.manton.org/2026/09/06/working-on-some-web-timeline.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/09/06/worrisome-reporting-from-mark-gurman.html",
 				
 				"content_html": "<p><a href=\"https://daringfireball.net/linked/2026/09/06/gurman-schiller-app-store\">Worrisome reporting</a> from Mark Gurman:</p>\n<blockquote>\n<p>Ternus and services chief Eddy Cue want to make even more money from the App Store and figure out ways to raise margins and squeeze additional recurring revenue from the platform. Schiller, on the other hand, seems to believe that such moves will only further irk developers and governments. While there was no internal blowup or anything like that, it’s something he wanted no part of.</p>\n</blockquote>\n<p>John Gruber <a href=\"https://daringfireball.net/linked/2026/09/06/gurman-schiller-app-store\">adds</a>:</p>\n<blockquote>\n<p>I sure hope that’s not true, because that would be awful — making a bad situation worse — and pretty much the exact opposite of what Apple ought to do.</p>\n</blockquote>\n",
