@@ -7,6 +7,65 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/09/14/john-gruber-blogged-about-xcancel.html",
+				
+				"content_html": "<p><a href=\"https://daringfireball.net/linked/2026/09/14/xcancel-shuts-down-again\">John Gruber blogged</a> about XCancel shutting down yet again, adding this in a parenthetical:</p>\n<blockquote>\n<p>&hellip;let’s admit it at this point, there’s not just a lot posted on X, it’s resurgent in popularity</p>\n</blockquote>\n<p>It&rsquo;s true. Just telling folks what we&rsquo;re <em>against</em> has not been enough to rebalance the web to open platforms.</p>\n",
+				"content_text": "[John Gruber blogged](https://daringfireball.net/linked/2026/09/14/xcancel-shuts-down-again) about XCancel shutting down yet again, adding this in a parenthetical:\n\n> ...let’s admit it at this point, there’s not just a lot posted on X, it’s resurgent in popularity\n\nIt's true. Just telling folks what we're _against_ has not been enough to rebalance the web to open platforms.\n",
+				"date_published": "2026-09-14T09:57:45-05:00",
+				"url": "https://www.manton.org/2026/09/14/john-gruber-blogged-about-xcancel.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/13/finished-reading-children-of-time.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316452502/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://www.manton.org/books/9780316452502/\">Children of Time</a> by Adrian Tchaikovsky. Fascinating and at times brilliant. I never quite got over being creeped out by the spiders, though. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316452502/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Children of Time](https://www.manton.org/books/9780316452502/) by Adrian Tchaikovsky. Fascinating and at times brilliant. I never quite got over being creeped out by the spiders, though. 📚\n",
+				"date_published": "2026-09-13T18:35:21-05:00",
+				"url": "https://www.manton.org/2026/09/13/finished-reading-children-of-time.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/13/congrats-to-the-usa-womens.html",
+				
+				"content_html": "<p>Congrats to the USA women&rsquo;s team at FIBA! Forgot the game was a little early, now watching the highlights. 🏀</p>\n",
+				"content_text": "Congrats to the USA women's team at FIBA! Forgot the game was a little early, now watching the highlights. 🏀\n",
+				"date_published": "2026-09-13T15:51:39-05:00",
+				"url": "https://www.manton.org/2026/09/13/congrats-to-the-usa-womens.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/13/added-a-new-page-in.html",
+				
+				"content_html": "<p>Added a new page in Micro.blog on the web today to highlight The New York Times best sellers. We usually avoid popularity contests, but this one feels right, like a shelf you&rsquo;d see in a bookstore. I want to add more collections later, like nominees for the Booker Prize, Hugo Awards, and others.</p>\n<img src=\"uploads/2026/paste-a53e8d72.png\" alt=\"Screenshot with best-selling combined print and e-book fiction titles from The New York Times Best Sellers for September 20, 2026.\">\n",
+				"content_text": "Added a new page in Micro.blog on the web today to highlight The New York Times best sellers. We usually avoid popularity contests, but this one feels right, like a shelf you'd see in a bookstore. I want to add more collections later, like nominees for the Booker Prize, Hugo Awards, and others.\n\n<img src=\"uploads/2026/paste-a53e8d72.png\" alt=\"Screenshot with best-selling combined print and e-book fiction titles from The New York Times Best Sellers for September 20, 2026.\">\n",
+				"date_published": "2026-09-13T15:28:06-05:00",
+				"url": "https://www.manton.org/2026/09/13/added-a-new-page-in.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/13/since-enabling-threads-crossposting-for.html",
+				
+				"content_html": "<p>Since enabling Threads cross-posting for my own blog yesterday, I&rsquo;ve already found and fixed two bugs in Micro.blog&rsquo;s Threads support. Little things that maybe a user would overlook and not bother to report. Just a reminder of the value of dogfooding.</p>\n",
+				"content_text": "Since enabling Threads cross-posting for my own blog yesterday, I've already found and fixed two bugs in Micro.blog's Threads support. Little things that maybe a user would overlook and not bother to report. Just a reminder of the value of dogfooding.\n",
+				"date_published": "2026-09-13T12:00:00-05:00",
+				"url": "https://www.manton.org/2026/09/13/since-enabling-threads-crossposting-for.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/13/i-dont-think-ive-shown.html",
+				
+				"content_html": "<p>I don&rsquo;t think I&rsquo;ve shown off the author books sheet in our book blogging app Epilogue. Here&rsquo;s a very short video of how it looks.</p>\n<p><video src=\"https://cdn.uploads.micro.mov/10/2026/epilogue-authorsr/playlist.m3u8\" poster=\"https://cdn.uploads.micro.blog/10/2026/frames/1857442-0-fece47.jpg\" width=\"1206\" height=\"2622\" controls=\"controls\" preload=\"metadata\" style=\"max-width: 350px;\"></video></p>\n",
+				"content_text": "I don't think I've shown off the author books sheet in our book blogging app Epilogue. Here's a very short video of how it looks.\n\n<video src=\"https://cdn.uploads.micro.mov/10/2026/epilogue-authorsr/playlist.m3u8\" poster=\"https://cdn.uploads.micro.blog/10/2026/frames/1857442-0-fece47.jpg\" width=\"1206\" height=\"2622\" controls=\"controls\" preload=\"metadata\" style=\"max-width: 350px;\"></video>\n",
+				"date_published": "2026-09-13T10:58:09-05:00",
+				"url": "https://www.manton.org/2026/09/13/i-dont-think-ive-shown.html",
+				"tags": ["Videos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/13/i-understand-apple-wanting-to.html",
+				
+				"content_html": "<p>I understand Apple wanting to get through the iOS 27 final releases before giving us a new Xcode to play with Duo sizing, but it&rsquo;s still a bit of a letdown. Developers want to play with the new shiny things.</p>\n",
+				"content_text": "I understand Apple wanting to get through the iOS 27 final releases before giving us a new Xcode to play with Duo sizing, but it's still a bit of a letdown. Developers want to play with the new shiny things.\n",
+				"date_published": "2026-09-13T10:39:50-05:00",
+				"url": "https://www.manton.org/2026/09/13/i-understand-apple-wanting-to.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/09/12/wow-this-longhorns-game-getting.html",
 				
 				"content_html": "<p>Wow, this Longhorns game getting interesting late. 🏈</p>\n",
@@ -43,8 +102,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/09/12/microblog-was-founded-on-the.html",
 				
-				"content_html": "<p>Micro.blog was founded on the idea that more people should have their own domain name, and yet the UI to actually do that has been clunky for years. I&rsquo;m working on improving that, starting today with a little &ldquo;Edit Domain&rdquo; button to help walk people through the change.</p>\n<img src=\"uploads/2026/paste-0171e344.png\" alt=\"Screenshot shows options for registering a new domain name with Micro.blog or using an existing domain name by editing DNS records.\">\n",
-				"content_text": "Micro.blog was founded on the idea that more people should have their own domain name, and yet the UI to actually do that has been clunky for years. I'm working on improving that, starting today with a little \"Edit Domain\" button to help walk people through the change.\n\n<img src=\"uploads/2026/paste-0171e344.png\" alt=\"Screenshot shows options for registering a new domain name with Micro.blog or using an existing domain name by editing DNS records.\">\n",
+				"content_html": "<p>Micro.blog was founded on the idea that more people should have their own domain name, and yet the UI to actually do that has been clunky for years. I&rsquo;m working on improving that, starting today with a little &ldquo;Edit Domain&rdquo; button to help walk people through the change.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-0171e344.png\" alt=\"Screenshot shows options for registering a new domain name with Micro.blog or using an existing domain name by editing DNS records.\">\n",
+				"content_text": "Micro.blog was founded on the idea that more people should have their own domain name, and yet the UI to actually do that has been clunky for years. I'm working on improving that, starting today with a little \"Edit Domain\" button to help walk people through the change.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-0171e344.png\" alt=\"Screenshot shows options for registering a new domain name with Micro.blog or using an existing domain name by editing DNS records.\">\n",
 				"date_published": "2026-09-12T13:00:00-05:00",
 				"url": "https://www.manton.org/2026/09/12/microblog-was-founded-on-the.html",
 				"tags": ["Photos"]
