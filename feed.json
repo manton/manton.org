@@ -7,6 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/09/18/remember-in-old-emails-and.html",
+				
+				"content_html": "<p>Remember in old emails and usenet posts how people would put quotes in their signatures? Kind of miss that. I wonder if there&rsquo;s a modern IndieWeb replacement for that.</p>\n",
+				"content_text": "Remember in old emails and usenet posts how people would put quotes in their signatures? Kind of miss that. I wonder if there's a modern IndieWeb replacement for that.\n",
+				"date_published": "2026-09-18T10:00:00-05:00",
+				"url": "https://www.manton.org/2026/09/18/remember-in-old-emails-and.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/18/its-silly-how-excited-i.html",
+				
+				"content_html": "<p>It&rsquo;s silly how excited I am to see the 40th anniversary release of <em>Transformers: The Movie</em> tonight. Feels like I&rsquo;m 11 years old again. Also hope my wife enjoys it at least for the 1980s music!</p>\n",
+				"content_text": "It's silly how excited I am to see the 40th anniversary release of _Transformers: The Movie_ tonight. Feels like I'm 11 years old again. Also hope my wife enjoys it at least for the 1980s music!\n",
+				"date_published": "2026-09-18T09:15:00-05:00",
+				"url": "https://www.manton.org/2026/09/18/its-silly-how-excited-i.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/18/theres-a-great-list-of.html",
+				
+				"content_html": "<p>There&rsquo;s a great list of all flagship iPhone releases at the beginning of John Gruber&rsquo;s new <a href=\"https://daringfireball.net/2026/09/the_iphones_18_pro\">iPhone 18 Pro review</a>. The only thing I&rsquo;d add is the 3GS was the first with video recording. Big deal, especially for me because at the time I had my little video Mac app Clipstart. <strong>Update:</strong> He added it.</p>\n",
+				"content_text": "There's a great list of all flagship iPhone releases at the beginning of John Gruber's new [iPhone 18 Pro review](https://daringfireball.net/2026/09/the_iphones_18_pro). The only thing I'd add is the 3GS was the first with video recording. Big deal, especially for me because at the time I had my little video Mac app Clipstart. **Update:** He added it.\n",
+				"date_published": "2026-09-18T08:40:50-05:00",
+				"url": "https://www.manton.org/2026/09/18/theres-a-great-list-of.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/18/welcome-news-for-the-environment.html",
+				
+				"content_html": "<p><a href=\"https://www.carbonbrief.org/analysis-clean-energy-just-put-chinas-co2-emissions-into-reverse-for-first-time\">Welcome news</a> for the environment, via <a href=\"https://snarfed.org/2026-09-17_57601\">Ryan Barrett</a>:</p>\n<blockquote>\n<p>For the first time, the growth in China’s clean power generation has caused the nation’s carbon dioxide (CO2) emissions to fall despite rapid power demand growth.</p>\n</blockquote>\n<p>See also: Texas wind and solar combined generation is now about the same as gas.</p>\n",
+				"content_text": "[Welcome news](https://www.carbonbrief.org/analysis-clean-energy-just-put-chinas-co2-emissions-into-reverse-for-first-time) for the environment, via [Ryan Barrett](https://snarfed.org/2026-09-17_57601):\n\n> For the first time, the growth in China’s clean power generation has caused the nation’s carbon dioxide (CO2) emissions to fall despite rapid power demand growth.\n\nSee also: Texas wind and solar combined generation is now about the same as gas.\n",
+				"date_published": "2026-09-18T08:29:19-05:00",
+				"url": "https://www.manton.org/2026/09/18/welcome-news-for-the-environment.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/17/listening-to-the-decoder-interview.html",
+				
+				"content_html": "<p>Listening to <a href=\"https://overcast.fm/+AAQLdsrcYxs\">the Decoder interview with Mustafa Suleyman</a>. I find his arguments very compelling. If we tell AI that it might be conscious or have feelings, it’s going to be harder to control it. You can’t have “alignment” with another conscious being.</p>\n",
+				"content_text": "Listening to [the Decoder interview with Mustafa Suleyman](https://overcast.fm/+AAQLdsrcYxs). I find his arguments very compelling. If we tell AI that it might be conscious or have feelings, it’s going to be harder to control it. You can’t have “alignment” with another conscious being.\n",
+				"date_published": "2026-09-17T14:39:21-05:00",
+				"url": "https://www.manton.org/2026/09/17/listening-to-the-decoder-interview.html",
+				"tags": ["Artificial Intelligence"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/17/this-apple-developer-page-has.html",
+				
+				"content_html": "<p><a href=\"https://developer.apple.com/app-store/user-privacy-and-data-use/\">This Apple developer page</a> has a screenshot of what the new App Tracking Transparency screens can look like in the EU. Apple should make this change worldwide. It&rsquo;s more clear. The &ldquo;Ask App Not to Track&rdquo; button is just too long anyway.</p>\n",
+				"content_text": "[This Apple developer page](https://developer.apple.com/app-store/user-privacy-and-data-use/) has a screenshot of what the new App Tracking Transparency screens can look like in the EU. Apple should make this change worldwide. It's more clear. The \"Ask App Not to Track\" button is just too long anyway.\n",
+				"date_published": "2026-09-17T11:38:00-05:00",
+				"url": "https://www.manton.org/2026/09/17/this-apple-developer-page-has.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/09/17/switching-gears-to-do-some.html",
 				
 				"content_html": "<p>Switching gears to do some server maintenance. It&rsquo;s always tempting to put off, because I could be using every minute to make the platform and apps better instead. But inching closer to a forced reboot of some servers on Linode in a couple weeks.</p>\n",
