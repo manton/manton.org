@@ -7,6 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/09/20/another-shot-of-austin-a.html",
+				
+				"content_html": "<p>Another shot of Austin, a little later in the morning from the Lamar pedestrian bridge. Love this city and don’t actually go downtown often enough.</p>\n<img src=\"uploads/2026/668fe228-750d-49eb-bbf2-d5e6c5f26f1e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Another shot of Austin, a little later in the morning from the Lamar pedestrian bridge. Love this city and don’t actually go downtown often enough.\n\n<img src=\"uploads/2026/668fe228-750d-49eb-bbf2-d5e6c5f26f1e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-09-20T12:02:57-05:00",
+				"url": "https://www.manton.org/2026/09/20/another-shot-of-austin-a.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/20/morning-in-austin-from-the.html",
+				
+				"content_html": "<p>Morning in Austin. From the bridge looking east.</p>\n<img src=\"uploads/2026/21954285-c41d-46ca-b93d-33245dbf4100.jpg\" width=\"600\" height=\"600\" alt=\"A city skyline with tall buildings is reflected in a calm body of water, with trees lining the waterfront under a partly cloudy sky.\">\n",
+				"content_text": "Morning in Austin. From the bridge looking east.\n\n<img src=\"uploads/2026/21954285-c41d-46ca-b93d-33245dbf4100.jpg\" width=\"600\" height=\"600\" alt=\"A city skyline with tall buildings is reflected in a calm body of water, with trees lining the waterfront under a partly cloudy sky.\">\n",
+				"date_published": "2026-09-20T08:10:58-05:00",
+				"url": "https://www.manton.org/2026/09/20/morning-in-austin-from-the.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/19/went-to-see-come-from.html",
+				
+				"content_html": "<p>Went to see <em>Come From Away</em> tonight at Zach. I love musicals but had been avoiding it over the years, felt too close to 9/11. Glad to finally see it. It’s good. 🎭</p>\n",
+				"content_text": "Went to see _Come From Away_ tonight at Zach. I love musicals but had been avoiding it over the years, felt too close to 9/11. Glad to finally see it. It’s good. 🎭\n",
+				"date_published": "2026-09-19T22:26:20-05:00",
+				"url": "https://www.manton.org/2026/09/19/went-to-see-come-from.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/19/a-long-wellresearched-blog-post.html",
+				
+				"content_html": "<p><a href=\"https://sharptext.net/2026/some-of-all-fears/\">A long, well-researched blog post</a> from Andrew Sharp that attempts to pour some cold water on the accelerating “AI is going to kill us all” narrative:</p>\n<blockquote>\n<p>The vague and unfalsifiable fears expressed by AI leaders are predicated on leaps in the technology that may well be foreseeable, but also on the assumption that humans will be completely powerless to intervene and mitigate harms, or perhaps use technology themselves to innovate solutions.</p>\n</blockquote>\n",
+				"content_text": "[A long, well-researched blog post](https://sharptext.net/2026/some-of-all-fears/) from Andrew Sharp that attempts to pour some cold water on the accelerating “AI is going to kill us all” narrative:\n\n> The vague and unfalsifiable fears expressed by AI leaders are predicated on leaps in the technology that may well be foreseeable, but also on the assumption that humans will be completely powerless to intervene and mitigate harms, or perhaps use technology themselves to innovate solutions.\n",
+				"date_published": "2026-09-19T13:40:58-05:00",
+				"url": "https://www.manton.org/2026/09/19/a-long-wellresearched-blog-post.html",
+				"tags": ["Artificial Intelligence"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/19/hls-video-podcasting.html",
+				"title": "HLS video podcasting",
+				"content_html": "<p>This is a streamlined version of Justin Jackson&rsquo;s <a href=\"https://podstandards.org/2025/06/28/hls-video-podcast-demo/\">original page about HLS video and podcasts</a>. This is all you need to know to create video podcasts that use open standards.</p>\n<ol>\n<li>Publish the audio version of your podcast.</li>\n<li>Publish the video version as HLS video streaming with a .m3u8 file.</li>\n<li>Add an element to your RSS feed that connects the audio to the video.</li>\n</ol>\n<pre tabindex=\"0\"><code>&lt;podcast:alternateEnclosure type=&#34;application/x-mpegURL&#34; \n\theight=&#34;1080&#34; \n\tlang=&#34;en&#34; \n\ttitle=&#34;HD Video Stream&#34; \n\trel=&#34;alternate&#34;&gt;\n\t&lt;podcast:source uri=&#34;manifest.m3u8&#34; /&gt;\n&lt;/podcast:alternateEnclosure&gt;\n</code></pre><p>That&rsquo;s it. Now compatible podcast players can switch between audio and video. <a href=\"https://www.manton.org/2026/07/27/expanded-video-and-podcasting-in.html\">I&rsquo;ve also written a longer post</a> specifically about Micro.blog.</p>\n",
+				"content_text": "This is a streamlined version of Justin Jackson's [original page about HLS video and podcasts](https://podstandards.org/2025/06/28/hls-video-podcast-demo/). This is all you need to know to create video podcasts that use open standards.\n\n1. Publish the audio version of your podcast.\n2. Publish the video version as HLS video streaming with a .m3u8 file.\n3. Add an element to your RSS feed that connects the audio to the video.\n\n```\n<podcast:alternateEnclosure type=\"application/x-mpegURL\" \n\theight=\"1080\" \n\tlang=\"en\" \n\ttitle=\"HD Video Stream\" \n\trel=\"alternate\">\n\t<podcast:source uri=\"manifest.m3u8\" />\n</podcast:alternateEnclosure>\n```\n\nThat's it. Now compatible podcast players can switch between audio and video. [I've also written a longer post](https://www.manton.org/2026/07/27/expanded-video-and-podcasting-in.html) specifically about Micro.blog.\n",
+				"date_published": "2026-09-19T12:22:23-05:00",
+				"url": "https://www.manton.org/2026/09/19/hls-video-podcasting.html",
+				"tags": ["Essays"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/19/i-dont-think-my-little.html",
+				
+				"content_html": "<p>I don&rsquo;t think my little $14/month server for OpenClaw is cutting it anymore. But Hetzner seems to have doubled their prices, so not sure about upgrading in place. Maybe everyone ordering Mac minis had the right idea. Even with new Apple prices, a Mac mini is a better deal over 1-2 years.</p>\n",
+				"content_text": "I don't think my little $14/month server for OpenClaw is cutting it anymore. But Hetzner seems to have doubled their prices, so not sure about upgrading in place. Maybe everyone ordering Mac minis had the right idea. Even with new Apple prices, a Mac mini is a better deal over 1-2 years.\n",
+				"date_published": "2026-09-19T11:23:08-05:00",
+				"url": "https://www.manton.org/2026/09/19/i-dont-think-my-little.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/09/19/had-my-first-uh-oh.html",
 				
 				"content_html": "<p>Had my first &ldquo;uh oh&rdquo; moment using OpenClaw. It accidentally had access to my GitHub account, instead of its own more sandboxed GitHub account. Not sure how this happened. Hopefully human error.</p>\n",
