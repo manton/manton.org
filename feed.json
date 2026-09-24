@@ -7,6 +7,63 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/09/24/weve-got-the-track-list.html",
+				
+				"content_html": "<p>We’ve got the track list for <a href=\"https://www.u2.com/blogs/news/carnaval-de-luz-new-album-coming-in-november\">U2’s next album</a>, coming out in November, including this surprise:</p>\n<blockquote>\n<p>The song connecting the album and two EPs is the final track on the new album, &lsquo;Torn&rsquo;, a duet between Bono and the late, great Dolly Parton, in what has sadly turned out to be her last recorded vocal performance.</p>\n</blockquote>\n",
+				"content_text": "We’ve got the track list for [U2’s next album](https://www.u2.com/blogs/news/carnaval-de-luz-new-album-coming-in-november), coming out in November, including this surprise:\n\n> The song connecting the album and two EPs is the final track on the new album, 'Torn', a duet between Bono and the late, great Dolly Parton, in what has sadly turned out to be her last recorded vocal performance.\n",
+				"date_published": "2026-09-24T15:18:43-05:00",
+				"url": "https://www.manton.org/2026/09/24/weve-got-the-track-list.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/24/screenshot-of-the-redesigned-theme.html",
+				
+				"content_html": "<p>Screenshot of the redesigned theme editor for Micro.blog going live now. It&rsquo;s better in pretty much every way. Nicer folder and file list, brand new syntax highlighting editor with support for Hugo and HTML, and other improvements.</p>\n<img src=\"uploads/2026/paste-fa923f3e.png\" alt=\"Screenshot of web text editor showing Hugo and HTML tags, with sidebar of hierarchical file list on the left.\">\n",
+				"content_text": "Screenshot of the redesigned theme editor for Micro.blog going live now. It's better in pretty much every way. Nicer folder and file list, brand new syntax highlighting editor with support for Hugo and HTML, and other improvements.\n\n<img src=\"uploads/2026/paste-fa923f3e.png\" alt=\"Screenshot of web text editor showing Hugo and HTML tags, with sidebar of hierarchical file list on the left.\">\n",
+				"date_published": "2026-09-24T14:15:00-05:00",
+				"url": "https://www.manton.org/2026/09/24/screenshot-of-the-redesigned-theme.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/24/bad-wifi-today-so-im.html",
+				
+				"content_html": "<p>Bad wi-fi today, so I&rsquo;m tethering, but bad cell signal too&hellip; So much of my work depends on the web, even simple coding and testing slows to a crawl. I&rsquo;m usually spoiled. It&rsquo;s a weird disconnect when internet in downtown Austin is worse than it was via Starlink in the middle of the ocean.</p>\n",
+				"content_text": "Bad wi-fi today, so I'm tethering, but bad cell signal too... So much of my work depends on the web, even simple coding and testing slows to a crawl. I'm usually spoiled. It's a weird disconnect when internet in downtown Austin is worse than it was via Starlink in the middle of the ocean.\n",
+				"date_published": "2026-09-24T10:31:18-05:00",
+				"url": "https://www.manton.org/2026/09/24/bad-wifi-today-so-im.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/24/theres-a-bug-fix-update.html",
+				
+				"content_html": "<p>There&rsquo;s a <a href=\"https://jimmitchell.org/2026/09/24/outpost-for-mac-update/\">bug fix update to the OutPost beta for Mac</a>. It&rsquo;s shaping up to be a nice Micropub client. Good app to have around for Micro.blog blogs.</p>\n",
+				"content_text": "There's a [bug fix update to the OutPost beta for Mac](https://jimmitchell.org/2026/09/24/outpost-for-mac-update/). It's shaping up to be a nice Micropub client. Good app to have around for Micro.blog blogs.\n",
+				"date_published": "2026-09-24T09:34:56-05:00",
+				"url": "https://www.manton.org/2026/09/24/theres-a-bug-fix-update.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/24/a-couple-more-thoughts-on.html",
+				
+				"content_html": "<p>A couple more thoughts on Meta Connect: Mark Zuckerberg seems pretty happy with the company&rsquo;s position right now. For the moment, they are ahead of everyone on glasses and personal agents. Meta does a lot, yet in a way they are more focused than OpenAI because Meta doesn&rsquo;t need to compete on coding.</p>\n",
+				"content_text": "A couple more thoughts on Meta Connect: Mark Zuckerberg seems pretty happy with the company's position right now. For the moment, they are ahead of everyone on glasses and personal agents. Meta does a lot, yet in a way they are more focused than OpenAI because Meta doesn't need to compete on coding.\n",
+				"date_published": "2026-09-24T09:12:35-05:00",
+				"url": "https://www.manton.org/2026/09/24/a-couple-more-thoughts-on.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/23/mark-zuckerberg-has-a-short.html",
+				
+				"content_html": "<p>Mark Zuckerberg <a href=\"https://www.threads.com/@zuck/post/Ddpj4YZkd3P\">has a short thread</a> on, uhm, Threads that highlights the announcements from Meta Connect today. The no-camera glasses look good, and the Muse Charm is fun. I just wish another company was shipping this stuff.</p>\n",
+				"content_text": "Mark Zuckerberg [has a short thread](https://www.threads.com/@zuck/post/Ddpj4YZkd3P) on, uhm, Threads that highlights the announcements from Meta Connect today. The no-camera glasses look good, and the Muse Charm is fun. I just wish another company was shipping this stuff.\n",
+				"date_published": "2026-09-23T19:52:12-05:00",
+				"url": "https://www.manton.org/2026/09/23/mark-zuckerberg-has-a-short.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/23/john-gruber-linked-to-this.html",
+				
+				"content_html": "<p><a href=\"https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a\">John Gruber linked to</a> this iPhone 4 Antennagate Q&amp;A and it really is extraordinary. A look back into an old version of Apple, sitting somewhere between the classic Mac days of the 1990s and today&rsquo;s Apple.</p>\n",
+				"content_text": "[John Gruber linked to](https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a) this iPhone 4 Antennagate Q&A and it really is extraordinary. A look back into an old version of Apple, sitting somewhere between the classic Mac days of the 1990s and today's Apple.\n",
+				"date_published": "2026-09-23T18:39:47-05:00",
+				"url": "https://www.manton.org/2026/09/23/john-gruber-linked-to-this.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/09/23/another-trailer-for-nathan-fielders.html",
 				
 				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=HvW_N5p1q44\">Another trailer</a> for Nathan Fielder&rsquo;s <em>You Can See Everything</em>. Amazing. I don&rsquo;t know what kind of story this is going to tell, but it&rsquo;s obviously going to be a totally different kind of documentary.</p>\n",
