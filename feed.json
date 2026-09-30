@@ -7,6 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/09/30/openais-dots-product-is-pretty.html",
+				
+				"content_html": "<p>OpenAI&rsquo;s Dots product is pretty interesting. Soon after I configured my dot and gave it a name, it suggested something it could help with. It already had a connection to GitHub and memory of all the things ChatGPT knew about my work.</p>\n<img src=\"uploads/2026/paste-4a35e0b2.png\" alt=\"A conversation with a bot investigating and fixing a Search Page plug-in's compatibility issue with Hugo, testing the fix, preparing a pull request, and passing test builds across multiple Hugo versions.\">\n",
+				"content_text": "OpenAI's Dots product is pretty interesting. Soon after I configured my dot and gave it a name, it suggested something it could help with. It already had a connection to GitHub and memory of all the things ChatGPT knew about my work.\n\n<img src=\"uploads/2026/paste-4a35e0b2.png\" alt=\"A conversation with a bot investigating and fixing a Search Page plug-in's compatibility issue with Hugo, testing the fix, preparing a pull request, and passing test builds across multiple Hugo versions.\">\n",
+				"date_published": "2026-09-30T10:14:52-05:00",
+				"url": "https://www.manton.org/2026/09/30/openais-dots-product-is-pretty.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/29/casey-newton-writing-about-dots.html",
+				
+				"content_html": "<p>Casey Newton <a href=\"https://www.platformer.news/openai-dots-agents-devday-2026/\">writing about Dots</a> for Platformer:</p>\n<blockquote>\n<p>As someone who plans to use Dots for work, though, paying for the product builds my trust in it. Zuckerberg says Meta plans to fund Muse by taking a cut of transactions, which means that it will soon be some team&rsquo;s job to massively increase the number of transactions that take place within Muse.</p>\n</blockquote>\n",
+				"content_text": "Casey Newton [writing about Dots](https://www.platformer.news/openai-dots-agents-devday-2026/) for Platformer:\n\n> As someone who plans to use Dots for work, though, paying for the product builds my trust in it. Zuckerberg says Meta plans to fund Muse by taking a cut of transactions, which means that it will soon be some team's job to massively increase the number of transactions that take place within Muse.\n",
+				"date_published": "2026-09-29T21:44:06-05:00",
+				"url": "https://www.manton.org/2026/09/29/casey-newton-writing-about-dots.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/29/catching-up-on-the-white.html",
+				
+				"content_html": "<p>Catching up on the White House meeting and related video with AI company leaders. Something odd about seeing these folks together instead of individually on a stage. I can&rsquo;t tell yet who is the most annoyed about having to say SI instead of AI in front of Trump.</p>\n",
+				"content_text": "Catching up on the White House meeting and related video with AI company leaders. Something odd about seeing these folks together instead of individually on a stage. I can't tell yet who is the most annoyed about having to say SI instead of AI in front of Trump.\n",
+				"date_published": "2026-09-29T21:10:23-05:00",
+				"url": "https://www.manton.org/2026/09/29/catching-up-on-the-white.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/29/we-had-quite-the-microblog.html",
+				
+				"content_html": "<p>We had quite the Micro.blog server meltdown tonight. So sorry to everyone. We&rsquo;ve had some blips this year, but it&rsquo;s been a long time since there has been this bad of an outage. I think everything is good now. 🤞</p>\n",
+				"content_text": "We had quite the Micro.blog server meltdown tonight. So sorry to everyone. We've had some blips this year, but it's been a long time since there has been this bad of an outage. I think everything is good now. 🤞\n",
+				"date_published": "2026-09-29T18:33:23-05:00",
+				"url": "https://www.manton.org/2026/09/29/we-had-quite-the-microblog.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/29/openai-really-did-pack-a.html",
+				
+				"content_html": "<p>OpenAI really did pack a lot into DevDay. The most interesting features for me are Dots and the Jev-like Decisions API. That will be super useful.</p>\n",
+				"content_text": "OpenAI really did pack a lot into DevDay. The most interesting features for me are Dots and the Jev-like Decisions API. That will be super useful.\n",
+				"date_published": "2026-09-29T13:44:07-05:00",
+				"url": "https://www.manton.org/2026/09/29/openai-really-did-pack-a.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/29/watching-the-devday-livestream-there.html",
+				
+				"content_html": "<p>Watching the DevDay livestream. There is nothing like a live demo. Even when things are slow or go slightly wrong, it feels so much more real.</p>\n<p>For a live presentation, everyone in the audience is rooting for the speaker. For a pre-recorded video, everyone is just waiting for it to be over.</p>\n",
+				"content_text": "Watching the DevDay livestream. There is nothing like a live demo. Even when things are slow or go slightly wrong, it feels so much more real.\n\nFor a live presentation, everyone in the audience is rooting for the speaker. For a pre-recorded video, everyone is just waiting for it to be over.\n",
+				"date_published": "2026-09-29T12:17:34-05:00",
+				"url": "https://www.manton.org/2026/09/29/watching-the-devday-livestream-there.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/29/john-voorhees-is-livetweeting-devday.html",
+				
+				"content_html": "<p>John Voorhees is live-tweeting DevDay <a href=\"https://x.com/johnvoorhees\">over on X</a>. Nice look inside the venue. We need to make it more appealing to do this kind of coverage from indie microblogs, not silos.</p>\n",
+				"content_text": "John Voorhees is live-tweeting DevDay [over on X](https://x.com/johnvoorhees). Nice look inside the venue. We need to make it more appealing to do this kind of coverage from indie microblogs, not silos.\n",
+				"date_published": "2026-09-29T11:55:00-05:00",
+				"url": "https://www.manton.org/2026/09/29/john-voorhees-is-livetweeting-devday.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/29/mark-gurman-has-a-blog.html",
+				
+				"content_html": "<p><a href=\"https://www.bloomberg.com/news/articles/2026-09-29/apple-s-new-ceo-moves-to-overhaul-company-to-run-faster-and-leaner\">Mark Gurman has a blog post</a> about John Ternus attempting to streamline Apple:</p>\n<blockquote>\n<p>The early ideas under consideration include relying less on traditional spring and fall product release schedules&hellip; [&hellip;] Ternus wants the company to introduce products more frequently — throughout the year.</p>\n</blockquote>\n<p>Sounds great! But:</p>\n<blockquote>\n<p>They have discussed launching new services and extracting more revenue from existing products and offerings.</p>\n</blockquote>\n<p>Not great.</p>\n",
+				"content_text": "[Mark Gurman has a blog post](https://www.bloomberg.com/news/articles/2026-09-29/apple-s-new-ceo-moves-to-overhaul-company-to-run-faster-and-leaner) about John Ternus attempting to streamline Apple:\n\n> The early ideas under consideration include relying less on traditional spring and fall product release schedules... [...] Ternus wants the company to introduce products more frequently — throughout the year.\n\nSounds great! But:\n\n> They have discussed launching new services and extracting more revenue from existing products and offerings.\n\nNot great.\n",
+				"date_published": "2026-09-29T11:45:00-05:00",
+				"url": "https://www.manton.org/2026/09/29/mark-gurman-has-a-blog.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/29/dave-winer-reflects-on-the.html",
+				
+				"content_html": "<p><a href=\"http://scripting.com/2026/09/29/134006.html?title=omsGrace\">Dave Winer reflects</a> on the passing of Om Malik too young, and the work left to do for the open web.</p>\n",
+				"content_text": "[Dave Winer reflects](http://scripting.com/2026/09/29/134006.html?title=omsGrace) on the passing of Om Malik too young, and the work left to do for the open web.\n",
+				"date_published": "2026-09-29T11:15:00-05:00",
+				"url": "https://www.manton.org/2026/09/29/dave-winer-reflects-on-the.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/09/29/reuters-on-anthropics-ipo-filing.html",
+				
+				"content_html": "<p><a href=\"https://www.reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29/\">Reuters</a> on Anthropic&rsquo;s IPO filing:</p>\n<blockquote>\n<p>Anthropic plans to caution potential investors in its ​IPO that advanced AI could pose &ldquo;catastrophic or existential risks to humanity,&rdquo; an extraordinary warning by a company seeking to profit from the same ‌technology.</p>\n</blockquote>\n<p>Yawn. There will be hacks and there will be other big problems, but I&rsquo;m increasingly of the opinion that the risk to humanity is 0%. We are resilient and won&rsquo;t be wiped out by robots. I&rsquo;m so burned out on the extreme rhetoric.</p>\n<p>That doesn&rsquo;t mean we shouldn&rsquo;t be careful. Of course we should. OpenAI scrapping GPT-6.1 over safety is a good sign.</p>\n",
+				"content_text": "[Reuters](https://www.reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29/) on Anthropic's IPO filing:\n\n> Anthropic plans to caution potential investors in its ​IPO that advanced AI could pose \"catastrophic or existential risks to humanity,\" an extraordinary warning by a company seeking to profit from the same ‌technology.\n\nYawn. There will be hacks and there will be other big problems, but I'm increasingly of the opinion that the risk to humanity is 0%. We are resilient and won't be wiped out by robots. I'm so burned out on the extreme rhetoric.\n\nThat doesn't mean we shouldn't be careful. Of course we should. OpenAI scrapping GPT-6.1 over safety is a good sign.\n",
+				"date_published": "2026-09-29T11:00:00-05:00",
+				"url": "https://www.manton.org/2026/09/29/reuters-on-anthropics-ipo-filing.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/09/29/my-openclaw-server-mostly-just.html",
 				
 				"content_html": "<p>My OpenClaw server mostly just sits there idle, but one thing I love is it automatically updates Micro.blog&rsquo;s <a href=\"https://help.micro.blog/t/latest-app-versions/4415\">latest app versions help page</a>. It checks what the current shipped version is and also if there&rsquo;s an app in review. I still maintain the release notes by hand, for now.</p>\n",
