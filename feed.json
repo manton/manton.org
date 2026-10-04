@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/10/03/watched-digger-well-that-was.html",
+				
+				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2F1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/movie/1248832\">Digger</a>. Well, that was insane and unexpected. Just got home from the theater and kind of stunned. Really good. 🍿</p>\n",
+				"content_text": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2F1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWatched: [Digger](https://www.themoviedb.org/movie/1248832). Well, that was insane and unexpected. Just got home from the theater and kind of stunned. Really good. 🍿\n",
+				"date_published": "2026-10-03T21:38:17-05:00",
+				"url": "https://www.manton.org/2026/10/03/watched-digger-well-that-was.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/03/experimenting-with-a-new-transcription.html",
+				
+				"content_html": "<p>Experimenting with a new transcription feature in <a href=\"https://help.micro.blog/t/notes-api-and-encryption/2564\">the notes API</a>. I originally wanted this for making a dictation gadget that creates Micro.blog notes, but it&rsquo;ll show up in other apps too. It uses the same OpenAI model as our podcast transcriptions.</p>\n",
+				"content_text": "Experimenting with a new transcription feature in [the notes API](https://help.micro.blog/t/notes-api-and-encryption/2564). I originally wanted this for making a dictation gadget that creates Micro.blog notes, but it'll show up in other apps too. It uses the same OpenAI model as our podcast transcriptions.\n",
+				"date_published": "2026-10-03T16:10:09-05:00",
+				"url": "https://www.manton.org/2026/10/03/experimenting-with-a-new-transcription.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/03/sometimes-youtube-will-show-me.html",
+				
+				"content_html": "<p>Sometimes YouTube will show me <a href=\"https://www.youtube.com/watch?v=BBESkRYCUEc\">Lara de Wit&rsquo;s performance</a> of <em>The Land Before Time</em> and it&rsquo;ll take me to a completely different world for a few minutes. Beautiful. 🎶</p>\n",
+				"content_text": "Sometimes YouTube will show me [Lara de Wit's performance](https://www.youtube.com/watch?v=BBESkRYCUEc) of _The Land Before Time_ and it'll take me to a completely different world for a few minutes. Beautiful. 🎶\n",
+				"date_published": "2026-10-03T15:00:00-05:00",
+				"url": "https://www.manton.org/2026/10/03/sometimes-youtube-will-show-me.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/03/john-gruber-blogging-about-the.html",
+				
+				"content_html": "<p><a href=\"https://daringfireball.net/linked/2026/10/03/iphone-18-pro-max-att-issues\">John Gruber blogging</a> about the weird iPhone 18 Pro Max + AT&amp;T bug:</p>\n<blockquote>\n<p>I’d love to understand how a software update can prevent existing devices from being affected, but a software update cannot restore service to existing devices that have already been affected.</p>\n</blockquote>\n<p>Me too. And it says something about Apple quality control that nothing like this has ever really happened in the history of the iPhone that I can remember. Antennagate was overblown compared to actually bricked cell service.</p>\n",
+				"content_text": "[John Gruber blogging](https://daringfireball.net/linked/2026/10/03/iphone-18-pro-max-att-issues) about the weird iPhone 18 Pro Max + AT&T bug:\n\n> I’d love to understand how a software update can prevent existing devices from being affected, but a software update cannot restore service to existing devices that have already been affected.\n\nMe too. And it says something about Apple quality control that nothing like this has ever really happened in the history of the iPhone that I can remember. Antennagate was overblown compared to actually bricked cell service.\n",
+				"date_published": "2026-10-03T14:10:00-05:00",
+				"url": "https://www.manton.org/2026/10/03/john-gruber-blogging-about-the.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/03/outpost-for-mac-a-fullfeatured.html",
+				
+				"content_html": "<p><a href=\"https://jimmitchell.dev/outpost/\">OutPost for Mac</a> — a full-featured Micropub editor that works with Micro.blog and other blog platforms — is out of beta. Feel like Micropub is seeing a lot of new activity and I love it.</p>\n",
+				"content_text": "[OutPost for Mac](https://jimmitchell.dev/outpost/) — a full-featured Micropub editor that works with Micro.blog and other blog platforms — is out of beta. Feel like Micropub is seeing a lot of new activity and I love it.\n",
+				"date_published": "2026-10-03T13:47:52-05:00",
+				"url": "https://www.manton.org/2026/10/03/outpost-for-mac-a-fullfeatured.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/10/03/great-thing-about-working-with.html",
 				
 				"content_html": "<p>Great thing about working with other people like Vincent is sometimes they go behind your back and do crazy things you wouldn&rsquo;t have done like port Wavelength to the Mac. 🤪 I still need to figure out how best we can officially support and maintain this. Focus! But in the meantime <a href=\"https://github.com/microdotblog/wavelength-mac\">it&rsquo;s open source</a>.</p>\n",
