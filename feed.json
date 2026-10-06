@@ -7,6 +7,73 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/10/06/toni-schneider-revealed-that-bluesky.html",
+				
+				"content_html": "<p><a href=\"https://bsky.app/profile/toni.bsky.team/post/3mx52dkz4u22w\">Toni Schneider revealed</a> that Bluesky is trying to make a <code>.bsky</code> top-level domain. Interesting strategy. Hopefully they can monetize this while keeping it open for anyone to use, like Automattic did with <code>.blog</code>.</p>\n",
+				"content_text": "[Toni Schneider revealed](https://bsky.app/profile/toni.bsky.team/post/3mx52dkz4u22w) that Bluesky is trying to make a `.bsky` top-level domain. Interesting strategy. Hopefully they can monetize this while keeping it open for anyone to use, like Automattic did with `.blog`.\n",
+				"date_published": "2026-10-06T10:31:45-05:00",
+				"url": "https://www.manton.org/2026/10/06/toni-schneider-revealed-that-bluesky.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/06/i-know-im-late-to.html",
+				
+				"content_html": "<p>I know I&rsquo;m late to the party, but I&rsquo;m getting into listening to Golden from <em>KPop Demon Hunters</em>. Catchy. &ldquo;We&rsquo;re going up, up, up, it&rsquo;s our moment&hellip;&rdquo; 🎶</p>\n",
+				"content_text": "I know I'm late to the party, but I'm getting into listening to Golden from _KPop Demon Hunters_. Catchy. \"We're going up, up, up, it's our moment...\" 🎶\n",
+				"date_published": "2026-10-06T09:52:53-05:00",
+				"url": "https://www.manton.org/2026/10/06/i-know-im-late-to.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/06/rewrote-the-css-editor-in.html",
+				
+				"content_html": "<p>Rewrote the CSS editor in Micro.blog. Much better now, with nicer colors. Here&rsquo;s a screenshot.</p>\n<img src=\"uploads/2026/paste-31538670.png\" alt=\"Screenshot of CSS code inside Micro.blog defining styles for ordered lists, horizontal rules, and other classes.\" style=\"max-width: 450px;\">\n",
+				"content_text": "Rewrote the CSS editor in Micro.blog. Much better now, with nicer colors. Here's a screenshot.\n\n<img src=\"uploads/2026/paste-31538670.png\" alt=\"Screenshot of CSS code inside Micro.blog defining styles for ordered lists, horizontal rules, and other classes.\" style=\"max-width: 450px;\">\n",
+				"date_published": "2026-10-06T09:30:00-05:00",
+				"url": "https://www.manton.org/2026/10/06/rewrote-the-css-editor-in.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/06/i-feel-like-im-drowning.html",
+				
+				"content_html": "<p>I feel like I&rsquo;m drowning in managing multiple app releases, so I&rsquo;m trying something new: letting AI (my OpenAI dot for now) update a single <a href=\"https://gist.github.com/manton/a9529fcee27ebc6ca47a54c7168cb7a5\">releases.md document</a> that has high-level notes about what has shipped recently and what&rsquo;s being worked on. Making it public because it might be interesting.</p>\n",
+				"content_text": "I feel like I'm drowning in managing multiple app releases, so I'm trying something new: letting AI (my OpenAI dot for now) update a single [releases.md document](https://gist.github.com/manton/a9529fcee27ebc6ca47a54c7168cb7a5) that has high-level notes about what has shipped recently and what's being worked on. Making it public because it might be interesting.\n",
+				"date_published": "2026-10-06T09:15:00-05:00",
+				"url": "https://www.manton.org/2026/10/06/i-feel-like-im-drowning.html",
+				"tags": ["Artificial Intelligence"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/06/ja-westenberg-if-you-spend.html",
+				
+				"content_html": "<p><a href=\"https://www.joanwestenberg.com/p/how-to-stop-being-outraged\">JA Westenberg</a>:</p>\n<blockquote>\n<p>If you spend 45 minutes a day angry at strangers online, you’ll give them about 270 hours this year. That’s nearly seven full 40-hour work weeks, handed to people you’ll never meet, about events you can’t change.</p>\n</blockquote>\n<p>Sobering. 🙁</p>\n",
+				"content_text": "[JA Westenberg](https://www.joanwestenberg.com/p/how-to-stop-being-outraged):\n\n> If you spend 45 minutes a day angry at strangers online, you’ll give them about 270 hours this year. That’s nearly seven full 40-hour work weeks, handed to people you’ll never meet, about events you can’t change.\n\nSobering. 🙁\n",
+				"date_published": "2026-10-06T09:00:00-05:00",
+				"url": "https://www.manton.org/2026/10/06/ja-westenberg-if-you-spend.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/06/perhaps-as-the-value-of.html",
+				
+				"content_html": "<p>Perhaps as the value of individual apps decreases, with many more apps being released, the value of complex systems will go up. It&rsquo;s still relatively hard to build and run a platform that combines many different services and databases.</p>\n",
+				"content_text": "Perhaps as the value of individual apps decreases, with many more apps being released, the value of complex systems will go up. It's still relatively hard to build and run a platform that combines many different services and databases.\n",
+				"date_published": "2026-10-06T08:41:44-05:00",
+				"url": "https://www.manton.org/2026/10/06/perhaps-as-the-value-of.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/05/app-development-is-clearly-accelerating.html",
+				
+				"content_html": "<p>App development is clearly accelerating. There are so many new apps being developed <em>and shipped</em> that before wouldn&rsquo;t have existed or would&rsquo;ve stayed hobby projects.</p>\n<p>It&rsquo;s cool! There are fewer barriers. But it&rsquo;s also noisy and will require new ways of thinking about competition and getting noticed.</p>\n",
+				"content_text": "App development is clearly accelerating. There are so many new apps being developed _and shipped_ that before wouldn't have existed or would've stayed hobby projects.\n\nIt's cool! There are fewer barriers. But it's also noisy and will require new ways of thinking about competition and getting noticed.\n",
+				"date_published": "2026-10-05T16:41:33-05:00",
+				"url": "https://www.manton.org/2026/10/05/app-development-is-clearly-accelerating.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/05/heres-a-quick-video-demo.html",
+				
+				"content_html": "<p>Here&rsquo;s a quick video demo of the new version of Micro.blog for Mac that we released a couple days ago. It shows the book calendar and note dictation. Enjoy!</p>\n<p><video src=\"https://cdn.uploads.micro.mov/10/2026/mb-dictate-note/playlist.m3u8\" poster=\"https://cdn.uploads.micro.blog/10/2026/frames/1872535-0-9a7727.jpg\" width=\"1280\" height=\"1152\" controls=\"controls\" playsinline=\"playsinline\" preload=\"metadata\"></video></p>\n",
+				"content_text": "Here's a quick video demo of the new version of Micro.blog for Mac that we released a couple days ago. It shows the book calendar and note dictation. Enjoy!\n\n<video src=\"https://cdn.uploads.micro.mov/10/2026/mb-dictate-note/playlist.m3u8\" poster=\"https://cdn.uploads.micro.blog/10/2026/frames/1872535-0-9a7727.jpg\" width=\"1280\" height=\"1152\" controls=\"controls\" playsinline=\"playsinline\" preload=\"metadata\"></video>\n",
+				"date_published": "2026-10-05T15:02:10-05:00",
+				"url": "https://www.manton.org/2026/10/05/heres-a-quick-video-demo.html",
+				"tags": ["Videos"]
+			},
+			{
 				"id": "http://manton.micro.blog/2026/10/05/openai-will-add-text-watermarking.html",
 				
 				"content_html": "<p>OpenAI <a href=\"https://openai.com/index/eu-text-provenance/\">will add text watermarking too</a>, but only in the EU, compared to Anthropic&rsquo;s global rollout:</p>\n<blockquote>\n<p>Over the coming weeks, we will introduce text watermarking to eligible ChatGPT and Codex users across all plans in the EU only. We are not making text watermarking a global default at launch. This regional approach gives us room to learn from real-world use and feedback.</p>\n</blockquote>\n<p>I think this whole thing is largely misguided. Hope it is not expanded.</p>\n",
