@@ -7,6 +7,65 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/10/07/i-like-to-hide-tabs.html",
+				
+				"content_html": "<p>I like to hide tabs in GitHub projects that I don&rsquo;t need. Finally figured out how to get rid of the Agents tab on the web. Go to your profile → Copilot settings → Visibility.</p>\n",
+				"content_text": "I like to hide tabs in GitHub projects that I don't need. Finally figured out how to get rid of the Agents tab on the web. Go to your profile → Copilot settings → Visibility.\n",
+				"date_published": "2026-10-07T11:37:47-05:00",
+				"url": "https://www.manton.org/2026/10/07/i-like-to-hide-tabs.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/07/maybe-i-shouldve-clarified-in.html",
+				
+				"content_html": "<p>Maybe I should&rsquo;ve clarified <a href=\"https://www.manton.org/2026/10/07/watching-x.html\">in my post today</a> that I stopped posting to Twitter ages ago, won&rsquo;t be posting there again no matter what happens. Micro.blog supports several platforms that I don&rsquo;t personally use. LinkedIn, for example.</p>\n",
+				"content_text": "Maybe I should've clarified [in my post today](https://www.manton.org/2026/10/07/watching-x.html) that I stopped posting to Twitter ages ago, won't be posting there again no matter what happens. Micro.blog supports several platforms that I don't personally use. LinkedIn, for example.\n",
+				"date_published": "2026-10-07T10:49:52-05:00",
+				"url": "https://www.manton.org/2026/10/07/maybe-i-shouldve-clarified-in.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/07/watching-x.html",
+				"title": "Watching X",
+				"content_html": "<p>Casey Newton plans to return to X in the coming days. He wrote <a href=\"https://www.platformer.news/does-intelligence-need-a-hard-cap/\">in Platformer this week</a>:</p>\n<blockquote>\n<p>The community of people working in and around artificial intelligence product and policy simply refuses to move away from X, no matter how bad it gets.</p>\n</blockquote>\n<p>And:</p>\n<blockquote>\n<p>I am among those who believe that the next year will be decisive in shaping the future of AI policy, regulation, and safety. And increasingly, attempting to influence the AI policy conversation without participating on X (or Substack) has made me feel like I am fighting with both hands tied behind my back.</p>\n</blockquote>\n<p>Three months ago, <a href=\"https://www.manton.org/2026/07/13/reevaluating-the-twitter-x-api.html\">I blogged about reevaluating support for X</a> in Micro.blog. I got mixed feedback about it, but ultimately decided that the negative feedback was enough for me to shelve the rollout. It was not worth the controversy.</p>\n<p>Since that blog post, Federico Viticci and John Voorhees returned to X. Other people started posting to X who had never even posted to Twitter before, like Jensen Huang and Jeffrey Katzenberg. While I still believe X is doomed in the long run — closed, rudderless, and toxic to many — the AI community has held on to a remnant of the old Twitter, and in fact that community is growing, apparently immune to the decay of a platform that has no soul.</p>\n<p>I should&rsquo;ve followed my gut back in July. If I had brought back X cross-posting, I could now reach out to Federico or Casey and pitch them on posting simultaneously to their microblogs and X. Instead, I&rsquo;ll watch from the sidelines as the most pivotal discussions about AI remain heavily centered around X instead of the open web.</p>\n",
+				"content_text": "Casey Newton plans to return to X in the coming days. He wrote [in Platformer this week](https://www.platformer.news/does-intelligence-need-a-hard-cap/):\n\n> The community of people working in and around artificial intelligence product and policy simply refuses to move away from X, no matter how bad it gets.\n\nAnd:\n\n> I am among those who believe that the next year will be decisive in shaping the future of AI policy, regulation, and safety. And increasingly, attempting to influence the AI policy conversation without participating on X (or Substack) has made me feel like I am fighting with both hands tied behind my back.\n\nThree months ago, [I blogged about reevaluating support for X](https://www.manton.org/2026/07/13/reevaluating-the-twitter-x-api.html) in Micro.blog. I got mixed feedback about it, but ultimately decided that the negative feedback was enough for me to shelve the rollout. It was not worth the controversy.\n\nSince that blog post, Federico Viticci and John Voorhees returned to X. Other people started posting to X who had never even posted to Twitter before, like Jensen Huang and Jeffrey Katzenberg. While I still believe X is doomed in the long run — closed, rudderless, and toxic to many — the AI community has held on to a remnant of the old Twitter, and in fact that community is growing, apparently immune to the decay of a platform that has no soul.\n\nI should've followed my gut back in July. If I had brought back X cross-posting, I could now reach out to Federico or Casey and pitch them on posting simultaneously to their microblogs and X. Instead, I'll watch from the sidelines as the most pivotal discussions about AI remain heavily centered around X instead of the open web.\n",
+				"date_published": "2026-10-07T08:50:44-05:00",
+				"url": "https://www.manton.org/2026/10/07/watching-x.html",
+				"tags": ["Essays","Artificial Intelligence"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/06/surely-the-problems-with-christa.html",
+				
+				"content_html": "<p>Surely <a href=\"https://www.cnn.com/2026/10/06/us/tennessee-execution-christa-pike\">the problems with Christa Pike’s failed execution</a> rise to the level of cruel and unusual punishment set in the constitution. Can’t believe in 2026 we are still even debating this.</p>\n",
+				"content_text": "Surely [the problems with Christa Pike’s failed execution](https://www.cnn.com/2026/10/06/us/tennessee-execution-christa-pike) rise to the level of cruel and unusual punishment set in the constitution. Can’t believe in 2026 we are still even debating this.\n",
+				"date_published": "2026-10-06T23:20:25-05:00",
+				"url": "https://www.manton.org/2026/10/06/surely-the-problems-with-christa.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/06/if-you-squint-there-are.html",
+				
+				"content_html": "<p>If you squint, there are parallels this week between PhotoCraft, an AI re-implementation of Photoshop, and <a href=\"https://github.com/openai/math\">OpenAI dropping a GitHub repo</a> with hundreds of solutions to open math problems. There are some professions that will need to be continuously rethought.</p>\n",
+				"content_text": "If you squint, there are parallels this week between PhotoCraft, an AI re-implementation of Photoshop, and [OpenAI dropping a GitHub repo](https://github.com/openai/math) with hundreds of solutions to open math problems. There are some professions that will need to be continuously rethought.\n",
+				"date_published": "2026-10-06T22:05:57-05:00",
+				"url": "https://www.manton.org/2026/10/06/if-you-squint-there-are.html",
+				"tags": ["Artificial Intelligence"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/06/fascinating-online-magazine-from-microsoft.html",
+				
+				"content_html": "<p><a href=\"https://humanistreview.ai/issue-1/\">Fascinating online magazine</a> from Microsoft. Looks like some thoughtful essays in this:</p>\n<blockquote>\n<p><em>The Humanist Review of AI</em> is a quarterly publication funded by Microsoft AI. We bring together thinkers from different fields to explore the impact of AI on society</p>\n</blockquote>\n",
+				"content_text": "[Fascinating online magazine](https://humanistreview.ai/issue-1/) from Microsoft. Looks like some thoughtful essays in this:\n\n> _The Humanist Review of AI_ is a quarterly publication funded by Microsoft AI. We bring together thinkers from different fields to explore the impact of AI on society\n",
+				"date_published": "2026-10-06T12:45:00-05:00",
+				"url": "https://www.manton.org/2026/10/06/fascinating-online-magazine-from-microsoft.html",
+				"tags": ["Artificial Intelligence"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/06/great-start-to-fediforum-really.html",
+				
+				"content_html": "<p>Great start to FediForum. Really enjoyed Anil Dash&rsquo;s talk, and now Daniel Holmgren is just wrapping up on AT Proto Spaces. Lots more for me to dig into with Spaces.</p>\n",
+				"content_text": "Great start to FediForum. Really enjoyed Anil Dash's talk, and now Daniel Holmgren is just wrapping up on AT Proto Spaces. Lots more for me to dig into with Spaces.\n",
+				"date_published": "2026-10-06T12:32:37-05:00",
+				"url": "https://www.manton.org/2026/10/06/great-start-to-fediforum-really.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/10/06/toni-schneider-revealed-that-bluesky.html",
 				
 				"content_html": "<p><a href=\"https://bsky.app/profile/toni.bsky.team/post/3mx52dkz4u22w\">Toni Schneider revealed</a> that Bluesky is trying to make a <code>.bsky</code> top-level domain. Interesting strategy. Hopefully they can monetize this while keeping it open for anyone to use, like Automattic did with <code>.blog</code>.</p>\n",
@@ -25,8 +84,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/10/06/rewrote-the-css-editor-in.html",
 				
-				"content_html": "<p>Rewrote the CSS editor in Micro.blog. Much better now, with nicer colors. Here&rsquo;s a screenshot.</p>\n<img src=\"uploads/2026/paste-31538670.png\" alt=\"Screenshot of CSS code inside Micro.blog defining styles for ordered lists, horizontal rules, and other classes.\" style=\"max-width: 450px;\">\n",
-				"content_text": "Rewrote the CSS editor in Micro.blog. Much better now, with nicer colors. Here's a screenshot.\n\n<img src=\"uploads/2026/paste-31538670.png\" alt=\"Screenshot of CSS code inside Micro.blog defining styles for ordered lists, horizontal rules, and other classes.\" style=\"max-width: 450px;\">\n",
+				"content_html": "<p>Rewrote the CSS editor in Micro.blog. Much better now, with nicer colors. Here&rsquo;s a screenshot.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-31538670.png\" alt=\"Screenshot of CSS code inside Micro.blog defining styles for ordered lists, horizontal rules, and other classes.\" style=\"max-width: 450px;\">\n",
+				"content_text": "Rewrote the CSS editor in Micro.blog. Much better now, with nicer colors. Here's a screenshot.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-31538670.png\" alt=\"Screenshot of CSS code inside Micro.blog defining styles for ordered lists, horizontal rules, and other classes.\" style=\"max-width: 450px;\">\n",
 				"date_published": "2026-10-06T09:30:00-05:00",
 				"url": "https://www.manton.org/2026/10/06/rewrote-the-css-editor-in.html",
 				"tags": ["Photos"]
