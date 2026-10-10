@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/10/10/settling-into-how-openais-dots.html",
+				
+				"content_html": "<p>Settling into how OpenAI&rsquo;s dots are best used. My dot is a replacement for regular ChatGPT. It&rsquo;s a single thread that knows everything and can be my go-to for any random question. For coding, I use Codex directly, but I think the future is multiple dots that delegate to Codex.</p>\n",
+				"content_text": "Settling into how OpenAI's dots are best used. My dot is a replacement for regular ChatGPT. It's a single thread that knows everything and can be my go-to for any random question. For coding, I use Codex directly, but I think the future is multiple dots that delegate to Codex.\n",
+				"date_published": "2026-10-10T11:15:00-05:00",
+				"url": "https://www.manton.org/2026/10/10/settling-into-how-openais-dots.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/10/continuing-to-think-about-how.html",
+				
+				"content_html": "<p>Continuing to think about how to stay competitive when software is abundant. Support and trust are a big part of it. But also there are still things that take a lot of time to build or money to run.</p>\n",
+				"content_text": "Continuing to think about how to stay competitive when software is abundant. Support and trust are a big part of it. But also there are still things that take a lot of time to build or money to run.\n",
+				"date_published": "2026-10-10T10:26:25-05:00",
+				"url": "https://www.manton.org/2026/10/10/continuing-to-think-about-how.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/10/ive-been-working-on-something.html",
+				
+				"content_html": "<p>I&rsquo;ve been working on something new that I&rsquo;m calling Blog Audit. It&rsquo;ll ship on Monday, here&rsquo;s a sneak peek screenshot from a test blog. It costs us more to run so will require Micro.blog Premium for now. (Not shown, the magic is the &ldquo;Repair&rdquo; button.)</p>\n<img src=\"uploads/2026/paste-7b2b4120.png\" alt=\"Screenshot showing audit sections like Links, Images, Accessibility, Security, Feeds, Plug-ins, and their statuses.\">\n",
+				"content_text": "I've been working on something new that I'm calling Blog Audit. It'll ship on Monday, here's a sneak peek screenshot from a test blog. It costs us more to run so will require Micro.blog Premium for now. (Not shown, the magic is the \"Repair\" button.)\n\n<img src=\"uploads/2026/paste-7b2b4120.png\" alt=\"Screenshot showing audit sections like Links, Images, Accessibility, Security, Feeds, Plug-ins, and their statuses.\">\n",
+				"date_published": "2026-10-10T09:36:06-05:00",
+				"url": "https://www.manton.org/2026/10/10/ive-been-working-on-something.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/10/thinking-about-the-last-time.html",
+				
+				"content_html": "<p>Thinking about the last time I seriously ran Linux at home, I found <a href=\"https://www.manton.org/2003/11/15/g-vs-power.html\">this old blog posts from 2003</a>. I can barely remember some of this. Good thing I wrote it down.</p>\n",
+				"content_text": "Thinking about the last time I seriously ran Linux at home, I found [this old blog posts from 2003](https://www.manton.org/2003/11/15/g-vs-power.html). I can barely remember some of this. Good thing I wrote it down.\n",
+				"date_published": "2026-10-10T09:05:15-05:00",
+				"url": "https://www.manton.org/2026/10/10/thinking-about-the-last-time.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/09/this-astra-launch-video-spoof.html",
+				
+				"content_html": "<p>This <a href=\"https://www.youtube.com/watch?v=ofdMfljL360\">Astra launch video spoof</a> is so well done — &ldquo;ChatGPT for Dishwashing&rdquo;. 🙂</p>\n",
+				"content_text": "This [Astra launch video spoof](https://www.youtube.com/watch?v=ofdMfljL360) is so well done — \"ChatGPT for Dishwashing\". 🙂\n",
+				"date_published": "2026-10-09T15:52:48-05:00",
+				"url": "https://www.manton.org/2026/10/09/this-astra-launch-video-spoof.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/10/09/this-video-on-x-from.html",
 				
 				"content_html": "<p><a href=\"https://x.com/mxstbr/status/2108600018789634370\">This video on X from OpenAI&rsquo;s Max Stoiber</a> about ChatGPT plugin review is a reminder of just how much better and more transparent Apple could be with managing the App Store. Sounds like Max is actually on the side of developers, not against us, while still balancing the needs of users.</p>\n",
@@ -92422,8 +92463,8 @@
 			{
 				"id": "http://manton.micro.blog/2003/11/15/g-vs-power.html",
 				"title": "G5 vs. Power Mac 9600",
-				"content_html": "<p>My new G5 arrived last week. This machine replaces (supplements) my old TiBook, which was really showing signs of age even with Panther. It is an understatement to say the G5 is a fast machine, and it makes programming a joy again.</p>\n<p>Of all the machines in my office now, the new G5 most resembles another machine I got just a few months ago: an old Power Mac 9600. That machine was a monster in its day too. As a Linux server, it does the job quite nicely. I finally finished migrated this site and email to it last night. (If you&rsquo;re wondering why I would move this site to such an old machine, I should point out that this site used to run on a Power Mac 7600, even more ancient and running an extremely old Linux Kernel. Both run <a href=\"http://www.yellowdoglinuxcancel.com/\">Yellow Dog Linux</a>.)</p>\n<p>In the process I learned something valuable: <a href=\"http://www.webmin.com/\">Webmin</a> is your friend. I had heard of this web-based unix administration suite years ago, but finally tried it yesterday. I configured a bunch of stuff that I didn&rsquo;t know how to touch before now. I like the power of the command line, but using Webmin probably shaved two hours off of what I was doing. The only real problem I ran into was with Postfix, and I had to do a little troubleshooting with netstat and friends. Overall the migration went very well.</p>\n",
-				"content_text": "My new G5 arrived last week. This machine replaces (supplements) my old TiBook, which was really showing signs of age even with Panther. It is an understatement to say the G5 is a fast machine, and it makes programming a joy again.\n\nOf all the machines in my office now, the new G5 most resembles another machine I got just a few months ago: an old Power Mac 9600. That machine was a monster in its day too. As a Linux server, it does the job quite nicely. I finally finished migrated this site and email to it last night. (If you're wondering why I would move this site to such an old machine, I should point out that this site used to run on a Power Mac 7600, even more ancient and running an extremely old Linux Kernel. Both run <a href=\"http://www.yellowdoglinuxcancel.com/\">Yellow Dog Linux</a>.)\n\nIn the process I learned something valuable: <a href=\"http://www.webmin.com/\">Webmin</a> is your friend. I had heard of this web-based unix administration suite years ago, but finally tried it yesterday. I configured a bunch of stuff that I didn't know how to touch before now. I like the power of the command line, but using Webmin probably shaved two hours off of what I was doing. The only real problem I ran into was with Postfix, and I had to do a little troubleshooting with netstat and friends. Overall the migration went very well.\n",
+				"content_html": "<p>My new G5 arrived last week. This machine replaces (supplements) my old TiBook, which was really showing signs of age even with Panther. It is an understatement to say the G5 is a fast machine, and it makes programming a joy again.</p>\n<p>Of all the machines in my office now, the new G5 most resembles another machine I got just a few months ago: an old Power Mac 9600. That machine was a monster in its day too. As a Linux server, it does the job quite nicely. I finally finished migrated this site and email to it last night. (If you&rsquo;re wondering why I would move this site to such an old machine, I should point out that this site used to run on a Power Mac 7600, even more ancient and running an extremely old Linux Kernel. Both run <a href=\"https://web.archive.org/web/20031208045606/http://yellowdoglinux.com/\">Yellow Dog Linux</a>.)</p>\n<p>In the process I learned something valuable: <a href=\"http://www.webmin.com/\">Webmin</a> is your friend. I had heard of this web-based unix administration suite years ago, but finally tried it yesterday. I configured a bunch of stuff that I didn&rsquo;t know how to touch before now. I like the power of the command line, but using Webmin probably shaved two hours off of what I was doing. The only real problem I ran into was with Postfix, and I had to do a little troubleshooting with netstat and friends. Overall the migration went very well.</p>\n",
+				"content_text": "My new G5 arrived last week. This machine replaces (supplements) my old TiBook, which was really showing signs of age even with Panther. It is an understatement to say the G5 is a fast machine, and it makes programming a joy again.\n\nOf all the machines in my office now, the new G5 most resembles another machine I got just a few months ago: an old Power Mac 9600. That machine was a monster in its day too. As a Linux server, it does the job quite nicely. I finally finished migrated this site and email to it last night. (If you're wondering why I would move this site to such an old machine, I should point out that this site used to run on a Power Mac 7600, even more ancient and running an extremely old Linux Kernel. Both run <a href=\"https://web.archive.org/web/20031208045606/http://yellowdoglinux.com/\">Yellow Dog Linux</a>.)\n\nIn the process I learned something valuable: <a href=\"http://www.webmin.com/\">Webmin</a> is your friend. I had heard of this web-based unix administration suite years ago, but finally tried it yesterday. I configured a bunch of stuff that I didn't know how to touch before now. I like the power of the command line, but using Webmin probably shaved two hours off of what I was doing. The only real problem I ran into was with Postfix, and I had to do a little troubleshooting with netstat and friends. Overall the migration went very well.\n",
 				"date_published": "2003-11-15T10:36:10-05:00",
 				"url": "https://www.manton.org/2003/11/15/g-vs-power.html",
 				"tags": ["Essays"]
