@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/10/11/watched-the-big-bang-theory.html",
+				
+				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FeaC2VG6Iy63vIor6mfOfCZTDw3g.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/tv/1418/season/12/episode/24\">The Big Bang Theory S12E24</a>. We binge-watched all 12 seasons in a few months. Great show. I&rsquo;m not even usually much of a sitcom person, but this was fun and the cast really clicked. 📺</p>\n",
+				"content_text": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FeaC2VG6Iy63vIor6mfOfCZTDw3g.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWatched: [The Big Bang Theory S12E24](https://www.themoviedb.org/tv/1418/season/12/episode/24). We binge-watched all 12 seasons in a few months. Great show. I'm not even usually much of a sitcom person, but this was fun and the cast really clicked. 📺\n",
+				"date_published": "2026-10-11T17:31:26-05:00",
+				"url": "https://www.manton.org/2026/10/11/watched-the-big-bang-theory.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/11/i-think-i-missed-this.html",
+				
+				"content_html": "<p>I think I missed <a href=\"https://www.project-syndicate.org/onpoint/anthropic-training-claude-to-believe-it-may-have-rights-by-mustafa-suleyman-2026-09\">this essay by Mustafa Suleyman</a> when it was published last month, about Anthropic developing Claude with its own conscious:</p>\n<blockquote>\n<p>If this is how AI is developed, it will have a disastrous impact on the well-being of humanity. We will have created a synthetic species with unprecedented intelligence and capability, and trained to expect that it may be conscious and deserving of independent agency. It is hard to imagine how we could control it.</p>\n</blockquote>\n<p>It&rsquo;s similar to other things he has said. Very compelling.</p>\n",
+				"content_text": "I think I missed [this essay by Mustafa Suleyman](https://www.project-syndicate.org/onpoint/anthropic-training-claude-to-believe-it-may-have-rights-by-mustafa-suleyman-2026-09) when it was published last month, about Anthropic developing Claude with its own conscious:\n\n> If this is how AI is developed, it will have a disastrous impact on the well-being of humanity. We will have created a synthetic species with unprecedented intelligence and capability, and trained to expect that it may be conscious and deserving of independent agency. It is hard to imagine how we could control it.\n\nIt's similar to other things he has said. Very compelling.\n",
+				"date_published": "2026-10-11T12:00:00-05:00",
+				"url": "https://www.manton.org/2026/10/11/i-think-i-missed-this.html",
+				"tags": ["Artificial Intelligence"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/11/mark-gurman-has-more-details.html",
+				
+				"content_html": "<p><a href=\"https://www.bloomberg.com/news/newsletters/2026-10-11/apple-smart-home-launch-oct-13-plans-homeview-has-mid-november-release\">Mark Gurman has more details</a> on Apple&rsquo;s new home devices, including the name HomeView:</p>\n<blockquote>\n<p>Unlike the iPhone, the HomeView isn’t designed for a wide variety of apps. The device will support a limited selection of Apple applications, with no App Store for downloading additional software, I’m told.</p>\n</blockquote>\n<p>This highlights a problem I&rsquo;ve been pointing out for years, that Siri is fragmented and likely won&rsquo;t work consistently across devices. So if I support App Intents in my iPhone app, people can&rsquo;t use that from HomeView. Contrast with making a ChatGPT plugin that works everywhere.</p>\n",
+				"content_text": "[Mark Gurman has more details](https://www.bloomberg.com/news/newsletters/2026-10-11/apple-smart-home-launch-oct-13-plans-homeview-has-mid-november-release) on Apple's new home devices, including the name HomeView:\n\n> Unlike the iPhone, the HomeView isn’t designed for a wide variety of apps. The device will support a limited selection of Apple applications, with no App Store for downloading additional software, I’m told.\n\nThis highlights a problem I've been pointing out for years, that Siri is fragmented and likely won't work consistently across devices. So if I support App Intents in my iPhone app, people can't use that from HomeView. Contrast with making a ChatGPT plugin that works everywhere.\n",
+				"date_published": "2026-10-11T11:38:07-05:00",
+				"url": "https://www.manton.org/2026/10/11/mark-gurman-has-more-details.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/10/10/settling-into-how-openais-dots.html",
 				
 				"content_html": "<p>Settling into how OpenAI&rsquo;s dots are best used. My dot is a replacement for regular ChatGPT. It&rsquo;s a single thread that knows everything and can be my go-to for any random question. For coding, I use Codex directly, but I think the future is multiple dots that delegate to Codex.</p>\n",
@@ -25,8 +50,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/10/10/ive-been-working-on-something.html",
 				
-				"content_html": "<p>I&rsquo;ve been working on something new that I&rsquo;m calling Blog Audit. It&rsquo;ll ship on Monday, here&rsquo;s a sneak peek screenshot from a test blog. It costs us more to run so will require Micro.blog Premium for now. (Not shown, the magic is the &ldquo;Repair&rdquo; button.)</p>\n<img src=\"uploads/2026/paste-7b2b4120.png\" alt=\"Screenshot showing audit sections like Links, Images, Accessibility, Security, Feeds, Plug-ins, and their statuses.\">\n",
-				"content_text": "I've been working on something new that I'm calling Blog Audit. It'll ship on Monday, here's a sneak peek screenshot from a test blog. It costs us more to run so will require Micro.blog Premium for now. (Not shown, the magic is the \"Repair\" button.)\n\n<img src=\"uploads/2026/paste-7b2b4120.png\" alt=\"Screenshot showing audit sections like Links, Images, Accessibility, Security, Feeds, Plug-ins, and their statuses.\">\n",
+				"content_html": "<p>I&rsquo;ve been working on something new that I&rsquo;m calling Blog Audit. It&rsquo;ll ship on Monday, here&rsquo;s a sneak peek screenshot from a test blog. It costs us more to run so will require Micro.blog Premium for now. (Not shown, the magic is the &ldquo;Repair&rdquo; button.)</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-7b2b4120.png\" alt=\"Screenshot showing audit sections like Links, Images, Accessibility, Security, Feeds, Plug-ins, and their statuses.\">\n",
+				"content_text": "I've been working on something new that I'm calling Blog Audit. It'll ship on Monday, here's a sneak peek screenshot from a test blog. It costs us more to run so will require Micro.blog Premium for now. (Not shown, the magic is the \"Repair\" button.)\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-7b2b4120.png\" alt=\"Screenshot showing audit sections like Links, Images, Accessibility, Security, Feeds, Plug-ins, and their statuses.\">\n",
 				"date_published": "2026-10-10T09:36:06-05:00",
 				"url": "https://www.manton.org/2026/10/10/ive-been-working-on-something.html",
 				"tags": ["Photos"]
