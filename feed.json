@@ -7,11 +7,52 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/10/14/reading-more-details-in-the.html",
+				
+				"content_html": "<p>Reading <a href=\"https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/\">more details in the story of an OpenAI engineer getting arrested</a> after bugging a conference room:</p>\n<blockquote>\n<p>Abdulrahman Alfozan, 35, a Saudi national, was arrested Friday and charged with using or attempting to use a device to intercept oral communications. He made his initial appearance in federal court Tuesday and remains in custody.</p>\n</blockquote>\n<p>He seems to have had a fairly normal career, so what caused this flip to espionage? Strange. Not the obvious &ldquo;he was a Chinese spy&rdquo; that people might guess.</p>\n",
+				"content_text": "Reading [more details in the story of an OpenAI engineer getting arrested](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/) after bugging a conference room:\n\n> Abdulrahman Alfozan, 35, a Saudi national, was arrested Friday and charged with using or attempting to use a device to intercept oral communications. He made his initial appearance in federal court Tuesday and remains in custody.\n\nHe seems to have had a fairly normal career, so what caused this flip to espionage? Strange. Not the obvious \"he was a Chinese spy\" that people might guess.\n",
+				"date_published": "2026-10-14T15:00:11-07:00",
+				"url": "https://www.manton.org/2026/10/14/reading-more-details-in-the.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/14/sometimes-a-business-has-to.html",
+				
+				"content_html": "<p>Sometimes a business has to make difficult decisions to stay profitable. But I can&rsquo;t accept that major layoffs are needed at companies that make literal billions of dollars in revenue. Often these companies are <em>still hiring</em> even as layoffs are announced. <a href=\"https://www.forbes.com/sites/maryroeloffs/2026/10/14/netflix-cuts-1000-jobs-in-biggest-layoffs-since-2022/\">📺</a></p>\n",
+				"content_text": "Sometimes a business has to make difficult decisions to stay profitable. But I can't accept that major layoffs are needed at companies that make literal billions of dollars in revenue. Often these companies are _still hiring_ even as layoffs are announced. [📺](https://www.forbes.com/sites/maryroeloffs/2026/10/14/netflix-cuts-1000-jobs-in-biggest-layoffs-since-2022/)\n",
+				"date_published": "2026-10-14T14:11:58-07:00",
+				"url": "https://www.manton.org/2026/10/14/sometimes-a-business-has-to.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/14/tacoma-narrows-bridge.html",
+				
+				"content_html": "<p>Tacoma Narrows Bridge.</p>\n<img src=\"uploads/2026/1dc18337-fc22-4a97-91ad-70870c057305.jpg\" alt=\"A suspension bridge stretches across a clear blue sky with a few white clouds, supporting vehicles traveling along the roadway.\">\n",
+				"content_text": "Tacoma Narrows Bridge.\n\n<img src=\"uploads/2026/1dc18337-fc22-4a97-91ad-70870c057305.jpg\" alt=\"A suspension bridge stretches across a clear blue sky with a few white clouds, supporting vehicles traveling along the roadway.\">\n",
+				"date_published": "2026-10-14T13:33:46-07:00",
+				"url": "https://www.manton.org/2026/10/14/tacoma-narrows-bridge.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/14/lots-of-travel-this-week.html",
+				
+				"content_html": "<p>Lots of travel this week. Hoping to fix some bugs and read a bunch. Packed a print book and my Kindle.</p>\n",
+				"content_text": "Lots of travel this week. Hoping to fix some bugs and read a bunch. Packed a print book and my Kindle.\n",
+				"date_published": "2026-10-14T05:26:20-07:00",
+				"url": "https://www.manton.org/2026/10/14/lots-of-travel-this-week.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/13/watched-a-few-good-men.html",
+				
+				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FrLOk4z9zL1tTukIYV56P94aZXKk.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/movie/881\">A Few Good Men</a>. This movie is still so good. 🍿</p>\n",
+				"content_text": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FrLOk4z9zL1tTukIYV56P94aZXKk.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWatched: [A Few Good Men](https://www.themoviedb.org/movie/881). This movie is still so good. 🍿\n",
+				"date_published": "2026-10-13T20:35:44-07:00",
+				"url": "https://www.manton.org/2026/10/13/watched-a-few-good-men.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/10/13/jason-snell-blogs-about-siri.html",
 				
 				"content_html": "<p><a href=\"https://sixcolors.com/post/2026/10/third-party-homeview-apps-think-carplay/\">Jason Snell blogs</a> about Siri AI from the HomeView, which is better than what I assumed earlier. Is this going to be fast enough, though?</p>\n<blockquote>\n<p>Apple does say that if you make a Siri AI query for your personal content, it will search everything on your iPhone or iPad—and that includes apps that aren’t the HomeView. So you should be able to query your iPhone apps, but not actually run them.</p>\n</blockquote>\n",
 				"content_text": "[Jason Snell blogs](https://sixcolors.com/post/2026/10/third-party-homeview-apps-think-carplay/) about Siri AI from the HomeView, which is better than what I assumed earlier. Is this going to be fast enough, though?\n\n> Apple does say that if you make a Siri AI query for your personal content, it will search everything on your iPhone or iPad—and that includes apps that aren’t the HomeView. So you should be able to query your iPhone apps, but not actually run them.\n",
-				"date_published": "2026-10-13T19:42:06-05:00",
+				"date_published": "2026-10-13T17:42:06-07:00",
 				"url": "https://www.manton.org/2026/10/13/jason-snell-blogs-about-siri.html",
 				"tags": ["Artificial Intelligence"]
 			},
@@ -20,7 +61,7 @@
 				
 				"content_html": "<p>I added a new plug-in to Micro.blog’s plug-in directory that implements the about.md and contact.vcf parts of <a href=\"https://socialspec.org/\">SocialSpec</a>. It’s an experiment, we’ll see where it goes!</p>\n",
 				"content_text": "I added a new plug-in to Micro.blog’s plug-in directory that implements the about.md and contact.vcf parts of [SocialSpec](https://socialspec.org/). It’s an experiment, we’ll see where it goes!\n",
-				"date_published": "2026-10-13T15:44:36-05:00",
+				"date_published": "2026-10-13T13:44:36-07:00",
 				"url": "https://www.manton.org/2026/10/13/i-added-a-new-plugin.html"
 			},
 			{
@@ -28,7 +69,7 @@
 				
 				"content_html": "<p><a href=\"https://calebhailey.com/links/socialspec/\">Caleb Hailey has announced</a> socialspec.org, a suite of recommendations for making websites more social. Following lists, about pages, and contact info. &ldquo;The future of social media is websites.&rdquo;</p>\n",
 				"content_text": "[Caleb Hailey has announced](https://calebhailey.com/links/socialspec/) socialspec.org, a suite of recommendations for making websites more social. Following lists, about pages, and contact info. \"The future of social media is websites.\"\n",
-				"date_published": "2026-10-13T14:00:00-05:00",
+				"date_published": "2026-10-13T12:00:00-07:00",
 				"url": "https://www.manton.org/2026/10/13/caleb-hailey-has-announced-socialspecorg.html"
 			},
 			{
