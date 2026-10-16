@@ -7,6 +7,56 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/10/16/john-gruber-blogging-about-the.html",
+				
+				"content_html": "<p><a href=\"https://daringfireball.net/linked/2026/10/16/duo-preorders-sellout\">John Gruber blogging</a> about the Duo pre-orders:</p>\n<blockquote>\n<p>&hellip;pre-orders always start before reviews appear. People are left to guess whether they’re going to like it without any word from people who’ve used it.</p>\n</blockquote>\n<p>At least Apple is generous with returns. $2k is a lot to put down on faith, though.</p>\n",
+				"content_text": "[John Gruber blogging](https://daringfireball.net/linked/2026/10/16/duo-preorders-sellout) about the Duo pre-orders:\n\n> ...pre-orders always start before reviews appear. People are left to guess whether they’re going to like it without any word from people who’ve used it.\n\nAt least Apple is generous with returns. $2k is a lot to put down on faith, though.\n",
+				"date_published": "2026-10-16T09:53:05-07:00",
+				"url": "https://www.manton.org/2026/10/16/john-gruber-blogging-about-the.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/16/at-the-hotel-lobby-a.html",
+				
+				"content_html": "<p>At the hotel lobby, a bunch of LEGOs to play with.</p>\n<img src=\"uploads/2026/img-5424.jpg\" alt=\"A partially constructed white LEGO structure resembling architectural buildings is placed on a large baseplate, with numerous small white LEGO pieces scattered around and stored in containers nearby.\">\n",
+				"content_text": "At the hotel lobby, a bunch of LEGOs to play with.\n\n<img src=\"uploads/2026/img-5424.jpg\" alt=\"A partially constructed white LEGO structure resembling architectural buildings is placed on a large baseplate, with numerous small white LEGO pieces scattered around and stored in containers nearby.\">\n",
+				"date_published": "2026-10-16T08:00:00-07:00",
+				"url": "https://www.manton.org/2026/10/16/at-the-hotel-lobby-a.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/16/happy-iphone-duo-preorder-day.html",
+				
+				"content_html": "<p>Happy iPhone Duo pre-order day. I&rsquo;m skipping it, and looks like serious delays anyway. Current expected delivery is well into January. I&rsquo;ll be updating the Micro.blog suite of apps with <em>very</em> basic folding screen support in the next minor updates.</p>\n",
+				"content_text": "Happy iPhone Duo pre-order day. I'm skipping it, and looks like serious delays anyway. Current expected delivery is well into January. I'll be updating the Micro.blog suite of apps with _very_ basic folding screen support in the next minor updates.\n",
+				"date_published": "2026-10-16T07:45:46-07:00",
+				"url": "https://www.manton.org/2026/10/16/happy-iphone-duo-preorder-day.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/15/hood-canal.html",
+				
+				"content_html": "<p>Hood Canal.</p>\n<img src=\"uploads/2026/8dfb6b5d-549e-4757-9f53-7148788678f1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hood Canal.\n\n\n<img src=\"uploads/2026/8dfb6b5d-549e-4757-9f53-7148788678f1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-10-15T20:21:02-07:00",
+				"url": "https://www.manton.org/2026/10/15/hood-canal.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/15/automattic-has-a-clever-and.html",
+				
+				"content_html": "<p>Automattic has <a href=\"https://ma.tt/2026/10/rip-eric/\">a clever and touching memorial to Eric Binnion</a>, hidden in the HTTP response from WordPress.com.</p>\n",
+				"content_text": "Automattic has [a clever and touching memorial to Eric Binnion](https://ma.tt/2026/10/rip-eric/), hidden in the HTTP response from WordPress.com.\n",
+				"date_published": "2026-10-15T17:00:00-07:00",
+				"url": "https://www.manton.org/2026/10/15/automattic-has-a-clever-and.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/15/interesting-to-see-meta-working.html",
+				
+				"content_html": "<p>Interesting to see Meta working directly with Apple to run Muse Spark Open on Macs efficiently. John Voorhees has a good summary <a href=\"https://www.macstories.net/news/meta-releases-muse-spark-open-an-over-800-billion-parameter-model-that-can-run-locally-on-multiple-m5-ultra-mac-studios/\">at MacStories</a>. But the cost is still pretty insane&hellip; Spending well over $10k to get &ldquo;only&rdquo; an 800-billion parameter model when the frontier is still a ways ahead of that.</p>\n",
+				"content_text": "Interesting to see Meta working directly with Apple to run Muse Spark Open on Macs efficiently. John Voorhees has a good summary [at MacStories](https://www.macstories.net/news/meta-releases-muse-spark-open-an-over-800-billion-parameter-model-that-can-run-locally-on-multiple-m5-ultra-mac-studios/). But the cost is still pretty insane... Spending well over $10k to get \"only\" an 800-billion parameter model when the frontier is still a ways ahead of that.\n",
+				"date_published": "2026-10-15T16:14:02-07:00",
+				"url": "https://www.manton.org/2026/10/15/interesting-to-see-meta-working.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/10/14/reading-more-details-in-the.html",
 				
 				"content_html": "<p>Reading <a href=\"https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/\">more details in the story of an OpenAI engineer getting arrested</a> after bugging a conference room:</p>\n<blockquote>\n<p>Abdulrahman Alfozan, 35, a Saudi national, was arrested Friday and charged with using or attempting to use a device to intercept oral communications. He made his initial appearance in federal court Tuesday and remains in custody.</p>\n</blockquote>\n<p>He seems to have had a fairly normal career, so what caused this flip to espionage? Strange. Not the obvious &ldquo;he was a Chinese spy&rdquo; that people might guess.</p>\n",
@@ -25,8 +75,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/10/14/tacoma-narrows-bridge.html",
 				
-				"content_html": "<p>Tacoma Narrows Bridge.</p>\n<img src=\"uploads/2026/1dc18337-fc22-4a97-91ad-70870c057305.jpg\" alt=\"A suspension bridge stretches across a clear blue sky with a few white clouds, supporting vehicles traveling along the roadway.\">\n",
-				"content_text": "Tacoma Narrows Bridge.\n\n<img src=\"uploads/2026/1dc18337-fc22-4a97-91ad-70870c057305.jpg\" alt=\"A suspension bridge stretches across a clear blue sky with a few white clouds, supporting vehicles traveling along the roadway.\">\n",
+				"content_html": "<p>Tacoma Narrows Bridge.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/1dc18337-fc22-4a97-91ad-70870c057305.jpg\" alt=\"A suspension bridge stretches across a clear blue sky with a few white clouds, supporting vehicles traveling along the roadway.\">\n",
+				"content_text": "Tacoma Narrows Bridge.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/1dc18337-fc22-4a97-91ad-70870c057305.jpg\" alt=\"A suspension bridge stretches across a clear blue sky with a few white clouds, supporting vehicles traveling along the roadway.\">\n",
 				"date_published": "2026-10-14T13:33:46-07:00",
 				"url": "https://www.manton.org/2026/10/14/tacoma-narrows-bridge.html",
 				"tags": ["Photos"]
@@ -69,7 +119,7 @@
 				
 				"content_html": "<p><a href=\"https://calebhailey.com/links/socialspec/\">Caleb Hailey has announced</a> socialspec.org, a suite of recommendations for making websites more social. Following lists, about pages, and contact info. &ldquo;The future of social media is websites.&rdquo;</p>\n",
 				"content_text": "[Caleb Hailey has announced](https://calebhailey.com/links/socialspec/) socialspec.org, a suite of recommendations for making websites more social. Following lists, about pages, and contact info. \"The future of social media is websites.\"\n",
-				"date_published": "2026-10-13T12:00:00-07:00",
+				"date_published": "2026-10-13T14:00:00-05:00",
 				"url": "https://www.manton.org/2026/10/13/caleb-hailey-has-announced-socialspecorg.html"
 			},
 			{
