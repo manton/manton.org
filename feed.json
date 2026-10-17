@@ -7,19 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/10/17/no-wifi-and-intermittent-cell.html",
+				
+				"content_html": "<p>No wi-fi and intermittent cell coverage for this trip, as expected. Somehow I managed to <a href=\"https://www.manton.org/2026/10/17/morning-in-montana.html\">upload a video</a> when we got back near a town. I used the offline time to write some code by hand (gasp!) and do yet more editing on the book.</p>\n",
+				"content_text": "No wi-fi and intermittent cell coverage for this trip, as expected. Somehow I managed to [upload a video](https://www.manton.org/2026/10/17/morning-in-montana.html) when we got back near a town. I used the offline time to write some code by hand (gasp!) and do yet more editing on the book.\n",
+				"date_published": "2026-10-17T11:00:00-06:00",
+				"url": "https://www.manton.org/2026/10/17/no-wifi-and-intermittent-cell.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/17/morning-in-montana.html",
+				
+				"content_html": "<p>Morning in Montana. 🚂</p>\n<p><video src=\"https://cdn.uploads.micro.mov/10/2026/montana/playlist.m3u8\" poster=\"https://cdn.uploads.micro.blog/10/2026/frames/1879535-0-047c1f.jpg\" width=\"1080\" height=\"1080\" controls=\"controls\" playsinline=\"playsinline\" preload=\"metadata\"></video></p>\n",
+				"content_text": "Morning in Montana. 🚂\n\n<video src=\"https://cdn.uploads.micro.mov/10/2026/montana/playlist.m3u8\" poster=\"https://cdn.uploads.micro.blog/10/2026/frames/1879535-0-047c1f.jpg\" width=\"1080\" height=\"1080\" controls=\"controls\" playsinline=\"playsinline\" preload=\"metadata\"></video>\n",
+				"date_published": "2026-10-17T10:38:26-06:00",
+				"url": "https://www.manton.org/2026/10/17/morning-in-montana.html",
+				"tags": ["Videos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/16/on-the-empire-builder-starting.html",
+				
+				"content_html": "<p>On the Empire Builder. Starting to turn east, with the moon in the sky. 🚂</p>\n<p><video src=\"https://cdn.uploads.micro.mov/10/2026/58c2/playlist.m3u8\" poster=\"https://cdn.uploads.micro.blog/10/2026/frames/1879036-0-1373d2.jpg\" width=\"2160\" height=\"2160\" controls=\"controls\" playsinline=\"playsinline\" preload=\"metadata\"></video></p>\n",
+				"content_text": "On the Empire Builder. Starting to turn east, with the moon in the sky. 🚂\n\n<video src=\"https://cdn.uploads.micro.mov/10/2026/58c2/playlist.m3u8\" poster=\"https://cdn.uploads.micro.blog/10/2026/frames/1879036-0-1373d2.jpg\" width=\"2160\" height=\"2160\" controls=\"controls\" playsinline=\"playsinline\" preload=\"metadata\"></video>\n",
+				"date_published": "2026-10-16T19:46:33-06:00",
+				"url": "https://www.manton.org/2026/10/16/on-the-empire-builder-starting.html",
+				"tags": ["Videos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/16/seattle-light-rail.html",
+				
+				"content_html": "<p>Seattle light rail.</p>\n<p><video controls src=\"https://cdn.uploads.micro.mov/10/2026/img-5443/playlist.m3u8\" width=\"2160\" height=\"2160\" poster=\"https://cdn.uploads.micro.blog/10/2026/frames/1878998-0-42fe67.jpg\"></video></p>\n",
+				"content_text": "Seattle light rail.\n\n<video controls src=\"https://cdn.uploads.micro.mov/10/2026/img-5443/playlist.m3u8\" width=\"2160\" height=\"2160\" poster=\"https://cdn.uploads.micro.blog/10/2026/frames/1878998-0-42fe67.jpg\"></video>\n",
+				"date_published": "2026-10-16T17:30:00-06:00",
+				"url": "https://www.manton.org/2026/10/16/seattle-light-rail.html",
+				"tags": ["Videos"]
+			},
+			{
 				"id": "http://manton.micro.blog/2026/10/16/john-gruber-blogging-about-the.html",
 				
 				"content_html": "<p><a href=\"https://daringfireball.net/linked/2026/10/16/duo-preorders-sellout\">John Gruber blogging</a> about the Duo pre-orders:</p>\n<blockquote>\n<p>&hellip;pre-orders always start before reviews appear. People are left to guess whether they’re going to like it without any word from people who’ve used it.</p>\n</blockquote>\n<p>At least Apple is generous with returns. $2k is a lot to put down on faith, though.</p>\n",
 				"content_text": "[John Gruber blogging](https://daringfireball.net/linked/2026/10/16/duo-preorders-sellout) about the Duo pre-orders:\n\n> ...pre-orders always start before reviews appear. People are left to guess whether they’re going to like it without any word from people who’ve used it.\n\nAt least Apple is generous with returns. $2k is a lot to put down on faith, though.\n",
-				"date_published": "2026-10-16T09:53:05-07:00",
+				"date_published": "2026-10-16T10:53:05-06:00",
 				"url": "https://www.manton.org/2026/10/16/john-gruber-blogging-about-the.html"
 			},
 			{
 				"id": "http://manton.micro.blog/2026/10/16/at-the-hotel-lobby-a.html",
 				
-				"content_html": "<p>At the hotel lobby, a bunch of LEGOs to play with.</p>\n<img src=\"uploads/2026/img-5424.jpg\" alt=\"A partially constructed white LEGO structure resembling architectural buildings is placed on a large baseplate, with numerous small white LEGO pieces scattered around and stored in containers nearby.\">\n",
-				"content_text": "At the hotel lobby, a bunch of LEGOs to play with.\n\n<img src=\"uploads/2026/img-5424.jpg\" alt=\"A partially constructed white LEGO structure resembling architectural buildings is placed on a large baseplate, with numerous small white LEGO pieces scattered around and stored in containers nearby.\">\n",
-				"date_published": "2026-10-16T08:00:00-07:00",
+				"content_html": "<p>At the hotel lobby, a bunch of LEGOs to play with.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/img-5424.jpg\" alt=\"A partially constructed white LEGO structure resembling architectural buildings is placed on a large baseplate, with numerous small white LEGO pieces scattered around and stored in containers nearby.\">\n",
+				"content_text": "At the hotel lobby, a bunch of LEGOs to play with.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/img-5424.jpg\" alt=\"A partially constructed white LEGO structure resembling architectural buildings is placed on a large baseplate, with numerous small white LEGO pieces scattered around and stored in containers nearby.\">\n",
+				"date_published": "2026-10-16T09:00:00-06:00",
 				"url": "https://www.manton.org/2026/10/16/at-the-hotel-lobby-a.html",
 				"tags": ["Photos"]
 			},
