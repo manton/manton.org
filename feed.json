@@ -7,11 +7,36 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/10/24/i-dont-usually-enjoy-flying.html",
+				
+				"content_html": "<p>I don’t usually enjoy flying, and we had a couple hours of delays because of everyone arriving for F1, but it’s still amazing to have coffee and breakfast with family in NYC and then the same night be back in Austin for the Spurs / Rockets game. 🏀</p>\n<img src=\"uploads/2026/b1de59a3-df27-46bf-a952-468f41671b77.jpg\" width=\"600\" height=\"600\" alt=\"A large crowd is gathered in Moody Center for a basketball game with the Coyote on the court waving a Texas state flag with the Spurs logo.\">\n",
+				"content_text": "I don’t usually enjoy flying, and we had a couple hours of delays because of everyone arriving for F1, but it’s still amazing to have coffee and breakfast with family in NYC and then the same night be back in Austin for the Spurs / Rockets game. 🏀\n\n<img src=\"uploads/2026/b1de59a3-df27-46bf-a952-468f41671b77.jpg\" width=\"600\" height=\"600\" alt=\"A large crowd is gathered in Moody Center for a basketball game with the Coyote on the court waving a Texas state flag with the Spurs logo.\">\n",
+				"date_published": "2026-10-24T00:27:25-05:00",
+				"url": "https://www.manton.org/2026/10/24/i-dont-usually-enjoy-flying.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/23/nice-post-by-jason-snell.html",
+				
+				"content_html": "<p><a href=\"https://sixcolors.com/post/2026/10/the-ipod-which-set-apple-on-its-course-turns-25/\">Nice post by Jason Snell</a> on the iPod&rsquo;s 25th anniversary. Amazing that it has been that long. I had the original iPod at launch and it really was a special device. On how quickly the iPod was developed, Jason blogs:</p>\n<blockquote>\n<p>Not every product can, or should, be made at a breakneck pace. But Apple should have the ability to shift into that higher gear from time to time, when the opportunity arises. I’m not sure today’s Apple is wired that way, and maybe remembering how quickly the iPod came to fruition could serve as a little bit of a prod for Apple to work on getting that capability back.</p>\n</blockquote>\n",
+				"content_text": "[Nice post by Jason Snell](https://sixcolors.com/post/2026/10/the-ipod-which-set-apple-on-its-course-turns-25/) on the iPod's 25th anniversary. Amazing that it has been that long. I had the original iPod at launch and it really was a special device. On how quickly the iPod was developed, Jason blogs:\n\n> Not every product can, or should, be made at a breakneck pace. But Apple should have the ability to shift into that higher gear from time to time, when the opportunity arises. I’m not sure today’s Apple is wired that way, and maybe remembering how quickly the iPod came to fruition could serve as a little bit of a prod for Apple to work on getting that capability back.\n",
+				"date_published": "2026-10-23T19:30:00-05:00",
+				"url": "https://www.manton.org/2026/10/23/nice-post-by-jason-snell.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/23/michael-tsai-has-a-rundown.html",
+				
+				"content_html": "<p>Michael Tsai has <a href=\"https://mjtsai.com/blog/2026/10/23/mastodon-5/\">a rundown of links about the Mastodon 5 design</a>, closing with this:</p>\n<blockquote>\n<p>My first choice would be to see more people blogging on their own sites. But having longer and richer posts on Mastodon would be preferable to many of the alternatives. I still wish it supported RSS for my timeline and replies.</p>\n</blockquote>\n<p>If only there was a social network that actually prioritized blogging and had <a href=\"https://help.micro.blog/t/feeds/94\">RSS feeds for the timeline</a>, mentions, and everything else. I&rsquo;m quite biased but there really isn&rsquo;t anything else like it.</p>\n",
+				"content_text": "Michael Tsai has [a rundown of links about the Mastodon 5 design](https://mjtsai.com/blog/2026/10/23/mastodon-5/), closing with this:\n\n> My first choice would be to see more people blogging on their own sites. But having longer and richer posts on Mastodon would be preferable to many of the alternatives. I still wish it supported RSS for my timeline and replies.\n\nIf only there was a social network that actually prioritized blogging and had [RSS feeds for the timeline](https://help.micro.blog/t/feeds/94), mentions, and everything else. I'm quite biased but there really isn't anything else like it.\n",
+				"date_published": "2026-10-23T18:50:35-05:00",
+				"url": "https://www.manton.org/2026/10/23/michael-tsai-has-a-rundown.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/10/22/midnight-was-great-love-a.html",
 				
 				"content_html": "<p><a href=\"https://www.broadway.com/shows/midnight/\">Midnight</a> was great. Love a musical that leaves you stunned at intermission, with no idea what to expect next. 🎭</p>\n",
 				"content_text": "[Midnight](https://www.broadway.com/shows/midnight/) was great. Love a musical that leaves you stunned at intermission, with no idea what to expect next. 🎭\n",
-				"date_published": "2026-10-22T23:38:14-04:00",
+				"date_published": "2026-10-22T22:38:14-05:00",
 				"url": "https://www.manton.org/2026/10/22/midnight-was-great-love-a.html"
 			},
 			{
@@ -19,16 +44,16 @@
 				
 				"content_html": "<p>The Met Cloisters.</p>\n<img src=\"uploads/2026/5707268e-d070-4419-8108-de54ae96a37a.jpg\" alt=\"A stone pathway leads through a lush garden courtyard with various plants and flowers, framed by ancient stone columns and arches under a clear blue sky.\">\n",
 				"content_text": "The Met Cloisters.\n\n<img src=\"uploads/2026/5707268e-d070-4419-8108-de54ae96a37a.jpg\" alt=\"A stone pathway leads through a lush garden courtyard with various plants and flowers, framed by ancient stone columns and arches under a clear blue sky.\">\n",
-				"date_published": "2026-10-22T17:37:40-04:00",
+				"date_published": "2026-10-22T16:37:40-05:00",
 				"url": "https://www.manton.org/2026/10/22/the-met-cloisters.html",
 				"tags": ["Photos"]
 			},
 			{
 				"id": "http://manton.micro.blog/2026/10/22/th-street-station.html",
 				
-				"content_html": "<p>168th street station.</p>\n<img src=\"uploads/2026/fa0b390e-a1cb-4860-8ca5-977c08cf0a21.jpg\" width=\"600\" height=\"600\" alt=\"An empty subway station platform with two tracks running through the middle is shown from an elevated central viewpoint.\">\n",
-				"content_text": "168th street station.\n\n<img src=\"uploads/2026/fa0b390e-a1cb-4860-8ca5-977c08cf0a21.jpg\" width=\"600\" height=\"600\" alt=\"An empty subway station platform with two tracks running through the middle is shown from an elevated central viewpoint.\">\n",
-				"date_published": "2026-10-22T11:57:49-04:00",
+				"content_html": "<p>168th street station.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/fa0b390e-a1cb-4860-8ca5-977c08cf0a21.jpg\" width=\"600\" height=\"600\" alt=\"An empty subway station platform with two tracks running through the middle is shown from an elevated central viewpoint.\">\n",
+				"content_text": "168th street station.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/fa0b390e-a1cb-4860-8ca5-977c08cf0a21.jpg\" width=\"600\" height=\"600\" alt=\"An empty subway station platform with two tracks running through the middle is shown from an elevated central viewpoint.\">\n",
+				"date_published": "2026-10-22T10:57:49-05:00",
 				"url": "https://www.manton.org/2026/10/22/th-street-station.html",
 				"tags": ["Photos"]
 			},
@@ -37,14 +62,14 @@
 				
 				"content_html": "<p>Back before the Duo announcement, <a href=\"https://www.manton.org/2026/08/23/mark-gurman-has-talked-to.html\">I blogged</a>:</p>\n<blockquote>\n<p>I still think what I&rsquo;d really want is a foldable iPad mini with no outer screen.</p>\n</blockquote>\n<p>I&rsquo;m only halfway through <a href=\"https://daringfireball.net/2026/10/the_iphone_duo\">John Gruber&rsquo;s review</a>, and I&rsquo;m even more convinced that&rsquo;s what I want:</p>\n<blockquote>\n<p>The outer device is, by far, the worst iPhone Apple has ever made. It’s a miserable fat little thing. The inner device is a splendid, joyful, beautiful tablet, with a UI that out-iPads the iPad.</p>\n</blockquote>\n",
 				"content_text": "Back before the Duo announcement, [I blogged](https://www.manton.org/2026/08/23/mark-gurman-has-talked-to.html):\n\n> I still think what I'd really want is a foldable iPad mini with no outer screen.\n\nI'm only halfway through [John Gruber's review](https://daringfireball.net/2026/10/the_iphone_duo), and I'm even more convinced that's what I want:\n\n> The outer device is, by far, the worst iPhone Apple has ever made. It’s a miserable fat little thing. The inner device is a splendid, joyful, beautiful tablet, with a UI that out-iPads the iPad.\n",
-				"date_published": "2026-10-22T08:16:04-04:00",
+				"date_published": "2026-10-22T07:16:04-05:00",
 				"url": "https://www.manton.org/2026/10/22/back-before-the-duo-announcement.html"
 			},
 			{
 				"id": "http://manton.micro.blog/2026/10/21/never-seen-this-before-iced.html",
 				
-				"content_html": "<p>Never seen this before. Iced coffee in a bag at 787 Coffee. I guess handy for keeping it tightly closed, but pretty awkward for everything else. ☕️</p>\n<img src=\"uploads/2026/c8b1367b-c680-46a9-8cfe-0fbe6d5f333f.jpg\" width=\"600\" height=\"600\" alt=\"A clear plastic pouch with iced coffee and a green straw is placed next to an open laptop showing Codex with some projects in the sidebar.\">\n",
-				"content_text": "Never seen this before. Iced coffee in a bag at 787 Coffee. I guess handy for keeping it tightly closed, but pretty awkward for everything else. ☕️\n\n<img src=\"uploads/2026/c8b1367b-c680-46a9-8cfe-0fbe6d5f333f.jpg\" width=\"600\" height=\"600\" alt=\"A clear plastic pouch with iced coffee and a green straw is placed next to an open laptop showing Codex with some projects in the sidebar.\">\n",
+				"content_html": "<p>Never seen this before. Iced coffee in a bag at 787 Coffee. I guess handy for keeping it tightly closed, but pretty awkward for everything else. ☕️</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/c8b1367b-c680-46a9-8cfe-0fbe6d5f333f.jpg\" width=\"600\" height=\"600\" alt=\"A clear plastic pouch with iced coffee and a green straw is placed next to an open laptop showing Codex with some projects in the sidebar.\">\n",
+				"content_text": "Never seen this before. Iced coffee in a bag at 787 Coffee. I guess handy for keeping it tightly closed, but pretty awkward for everything else. ☕️\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/c8b1367b-c680-46a9-8cfe-0fbe6d5f333f.jpg\" width=\"600\" height=\"600\" alt=\"A clear plastic pouch with iced coffee and a green straw is placed next to an open laptop showing Codex with some projects in the sidebar.\">\n",
 				"date_published": "2026-10-21T16:21:07-04:00",
 				"url": "https://www.manton.org/2026/10/21/never-seen-this-before-iced.html",
 				"tags": ["Photos","Coffee"]
@@ -136,8 +161,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/10/19/mohawk-river-in-schenectady.html",
 				
-				"content_html": "<p>Mohawk River in Schenectady. 🚂</p>\n<img src=\"uploads/2026/2f205886-266d-45dd-bd0a-d6f0af4be1ef.jpg\" alt=\"A calm river reflects the clear blue sky, autumn-colored trees, and distant buildings.\">\n",
-				"content_text": "Mohawk River in Schenectady. 🚂\n\n<img src=\"uploads/2026/2f205886-266d-45dd-bd0a-d6f0af4be1ef.jpg\" alt=\"A calm river reflects the clear blue sky, autumn-colored trees, and distant buildings.\">\n",
+				"content_html": "<p>Mohawk River in Schenectady. 🚂</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/2f205886-266d-45dd-bd0a-d6f0af4be1ef.jpg\" alt=\"A calm river reflects the clear blue sky, autumn-colored trees, and distant buildings.\">\n",
+				"content_text": "Mohawk River in Schenectady. 🚂\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/2f205886-266d-45dd-bd0a-d6f0af4be1ef.jpg\" alt=\"A calm river reflects the clear blue sky, autumn-colored trees, and distant buildings.\">\n",
 				"date_published": "2026-10-19T14:25:56-04:00",
 				"url": "https://www.manton.org/2026/10/19/mohawk-river-in-schenectady.html",
 				"tags": ["Photos"]
@@ -272,7 +297,7 @@
 				
 				"content_html": "<p>No wi-fi and intermittent cell coverage for this trip, as expected. Somehow I managed to <a href=\"https://www.manton.org/2026/10/17/morning-in-montana.html\">upload a video</a> when we got back near a town. I used the offline time to write some code by hand (gasp!) and do yet more editing on the book.</p>\n",
 				"content_text": "No wi-fi and intermittent cell coverage for this trip, as expected. Somehow I managed to [upload a video](https://www.manton.org/2026/10/17/morning-in-montana.html) when we got back near a town. I used the offline time to write some code by hand (gasp!) and do yet more editing on the book.\n",
-				"date_published": "2026-10-17T11:00:00-06:00",
+				"date_published": "2026-10-17T12:00:00-05:00",
 				"url": "https://www.manton.org/2026/10/17/no-wifi-and-intermittent-cell.html"
 			},
 			{
@@ -315,7 +340,7 @@
 				
 				"content_html": "<p>At the hotel lobby, a bunch of LEGOs to play with.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/img-5424.jpg\" alt=\"A partially constructed white LEGO structure resembling architectural buildings is placed on a large baseplate, with numerous small white LEGO pieces scattered around and stored in containers nearby.\">\n",
 				"content_text": "At the hotel lobby, a bunch of LEGOs to play with.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/img-5424.jpg\" alt=\"A partially constructed white LEGO structure resembling architectural buildings is placed on a large baseplate, with numerous small white LEGO pieces scattered around and stored in containers nearby.\">\n",
-				"date_published": "2026-10-16T08:00:00-07:00",
+				"date_published": "2026-10-16T09:00:00-06:00",
 				"url": "https://www.manton.org/2026/10/16/at-the-hotel-lobby-a.html",
 				"tags": ["Photos"]
 			},
@@ -330,8 +355,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/10/15/hood-canal.html",
 				
-				"content_html": "<p>Hood Canal.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/8dfb6b5d-549e-4757-9f53-7148788678f1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "Hood Canal.\n\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/8dfb6b5d-549e-4757-9f53-7148788678f1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Hood Canal.</p>\n<img src=\"uploads/2026/8dfb6b5d-549e-4757-9f53-7148788678f1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hood Canal.\n\n\n<img src=\"uploads/2026/8dfb6b5d-549e-4757-9f53-7148788678f1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-10-15T20:21:02-07:00",
 				"url": "https://www.manton.org/2026/10/15/hood-canal.html",
 				"tags": ["Photos"]
@@ -415,7 +440,7 @@
 				
 				"content_html": "<p><a href=\"https://calebhailey.com/links/socialspec/\">Caleb Hailey has announced</a> socialspec.org, a suite of recommendations for making websites more social. Following lists, about pages, and contact info. &ldquo;The future of social media is websites.&rdquo;</p>\n",
 				"content_text": "[Caleb Hailey has announced](https://calebhailey.com/links/socialspec/) socialspec.org, a suite of recommendations for making websites more social. Following lists, about pages, and contact info. \"The future of social media is websites.\"\n",
-				"date_published": "2026-10-13T12:00:00-07:00",
+				"date_published": "2026-10-13T14:00:00-05:00",
 				"url": "https://www.manton.org/2026/10/13/caleb-hailey-has-announced-socialspecorg.html"
 			},
 			{
@@ -506,7 +531,7 @@
 				"title": "New feature: Blog Audit",
 				"content_html": "<p>Today I&rsquo;m rolling out a new feature in Micro.blog called Blog Audit. You can find it under Posts → &ldquo;&hellip;&rdquo; → Blog Audit. It will go through all of your blog posts looking for broken links, missing images, and other problems that tend to pop up after blogging for a while, especially if you&rsquo;ve migrated from another platform.</p>\n<p>I made this short video where I show the feature on my own blog:</p>\n<p><video src=\"https://cdn.uploads.micro.mov/10/2026/blog-audit-demo/playlist.m3u8\" poster=\"https://cdn.uploads.micro.blog/10/2026/frames/1876260-0-88d90d.jpg\" width=\"1280\" height=\"868\" controls=\"controls\" playsinline=\"playsinline\" preload=\"metadata\"></video></p>\n<p>Learn more about Blog Audit <a href=\"https://help.micro.blog/t/blog-audit/4503\">on the help page</a>. Note that we do require a Micro.blog Premium subscription for this feature. There are new costs for us running the background work, and Blog Audit also pairs nicely with Premium&rsquo;s other feature of saving a copy of every link you blog about.</p>\n<p>Happy blogging!</p>\n",
 				"content_text": "Today I'm rolling out a new feature in Micro.blog called Blog Audit. You can find it under Posts → \"...\" → Blog Audit. It will go through all of your blog posts looking for broken links, missing images, and other problems that tend to pop up after blogging for a while, especially if you've migrated from another platform.\n\nI made this short video where I show the feature on my own blog:\n\n<video src=\"https://cdn.uploads.micro.mov/10/2026/blog-audit-demo/playlist.m3u8\" poster=\"https://cdn.uploads.micro.blog/10/2026/frames/1876260-0-88d90d.jpg\" width=\"1280\" height=\"868\" controls=\"controls\" playsinline=\"playsinline\" preload=\"metadata\"></video>\n\nLearn more about Blog Audit [on the help page](https://help.micro.blog/t/blog-audit/4503). Note that we do require a Micro.blog Premium subscription for this feature. There are new costs for us running the background work, and Blog Audit also pairs nicely with Premium's other feature of saving a copy of every link you blog about.\n\nHappy blogging!\n",
-				"date_published": "2026-10-12T17:31:22-04:00",
+				"date_published": "2026-10-12T16:31:22-05:00",
 				"url": "https://www.manton.org/2026/10/12/new-feature-blog-audit.html",
 				"tags": ["Videos","Essays"]
 			},
