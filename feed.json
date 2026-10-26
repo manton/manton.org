@@ -7,6 +7,48 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/10/26/apple-chose-to-make-the.html",
+				
+				"content_html": "<p>Apple chose to make the screen slightly larger on the iPad Mini while reducing the overall size and bezels. I might&rsquo;ve been interested in a smaller screen, lighter, but perhaps it&rsquo;s a no-go at that price and when the iPhone Pro Max and Duo exist.</p>\n",
+				"content_text": "Apple chose to make the screen slightly larger on the iPad Mini while reducing the overall size and bezels. I might've been interested in a smaller screen, lighter, but perhaps it's a no-go at that price and when the iPhone Pro Max and Duo exist.\n",
+				"date_published": "2026-10-26T14:19:59-05:00",
+				"url": "https://www.manton.org/2026/10/26/apple-chose-to-make-the.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/25/in-the-future-our-job.html",
+				
+				"content_html": "<p>In the future, our job as programmers will be nothing except reviewing auto-generated slop grenades. There won&rsquo;t be time for new features, but all of our servers will be <em>really secure</em>. 🤪</p>\n",
+				"content_text": "In the future, our job as programmers will be nothing except reviewing auto-generated slop grenades. There won't be time for new features, but all of our servers will be _really secure_. 🤪\n",
+				"date_published": "2026-10-25T20:06:27-05:00",
+				"url": "https://www.manton.org/2026/10/25/in-the-future-our-job.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/25/inkwells-reading-recap-feature-premiumonly.html",
+				
+				"content_html": "<p>Inkwell&rsquo;s Reading Recap feature (Premium-only) continues to churn in the background, doing what it was designed to do. Nice to use when traveling to catch up. Here&rsquo;s a screenshot showing my own blog&rsquo;s recap from the last week. It&rsquo;s a unique and underrated feature.</p>\n<img src=\"uploads/2026/paste-435a2915.png\" alt=\"Screenshot of web page showing Manton's blog discussing the iPhone Duo's software issues and potential of its foldable tablet screen, shares a reflective quote about arriving in NYC, and lists recent blog posts with corresponding dates.\">\n",
+				"content_text": "Inkwell's Reading Recap feature (Premium-only) continues to churn in the background, doing what it was designed to do. Nice to use when traveling to catch up. Here's a screenshot showing my own blog's recap from the last week. It's a unique and underrated feature.\n\n<img src=\"uploads/2026/paste-435a2915.png\" alt=\"Screenshot of web page showing Manton's blog discussing the iPhone Duo's software issues and potential of its foldable tablet screen, shares a reflective quote about arriving in NYC, and lists recent blog posts with corresponding dates.\">\n",
+				"date_published": "2026-10-25T16:06:55-05:00",
+				"url": "https://www.manton.org/2026/10/25/inkwells-reading-recap-feature-premiumonly.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/25/with-foursquare-acquired-by-private.html",
+				
+				"content_html": "<p>With Foursquare acquired by private equity, Swarm probably isn&rsquo;t long for this world, so I&rsquo;m getting serious about adding location check-ins to our iOS app Sunlit. The <a href=\"https://help.micro.blog/t/location-api-data/106\">Micropub APIs</a> have been there forever. First pass will use Apple Maps, then a custom places db later.</p>\n<img src=\"uploads/2026/paste-387c807c.png\" alt=\"A mobile app interface shows a list of previously visited places on the left and a new check-in screen searching for Whataburger locations in Austin, TX on the right.\">\n",
+				"content_text": "With Foursquare acquired by private equity, Swarm probably isn't long for this world, so I'm getting serious about adding location check-ins to our iOS app Sunlit. The [Micropub APIs](https://help.micro.blog/t/location-api-data/106) have been there forever. First pass will use Apple Maps, then a custom places db later.\n\n<img src=\"uploads/2026/paste-387c807c.png\" alt=\"A mobile app interface shows a list of previously visited places on the left and a new check-in screen searching for Whataburger locations in Austin, TX on the right.\">\n",
+				"date_published": "2026-10-25T15:10:19-05:00",
+				"url": "https://www.manton.org/2026/10/25/with-foursquare-acquired-by-private.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/25/went-to-church-for-the.html",
+				
+				"content_html": "<p>Went to church for the one-year memorial service for my mom this morning. The last year has been a blur. So much has happened, yet it also feels like almost no time has passed.</p>\n",
+				"content_text": "Went to church for the one-year memorial service for my mom this morning. The last year has been a blur. So much has happened, yet it also feels like almost no time has passed.\n",
+				"date_published": "2026-10-25T13:22:28-05:00",
+				"url": "https://www.manton.org/2026/10/25/went-to-church-for-the.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/10/24/watched-klara-and-the-sun.html",
 				
 				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2Fxqovj2p6HRsgHxN81qYAYF4StgM.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/movie/858035\">Klara and the Sun</a>. Beautiful. It lives up to the book. 🍿</p>\n",
