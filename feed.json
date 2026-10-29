@@ -7,6 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/10/29/i-cant-imagine-ever-officially.html",
+				
+				"content_html": "<p>&ldquo;I can’t imagine ever officially &lsquo;retiring&rsquo;. I’ll always and forever be an actor.&rdquo; — <a href=\"https://www.tvinsider.com/1273694/patrick-stewart-star-trek-60th-anniversary-exclusive-interview-picard-next-generation/\">Patrick Stewart</a>, July 2026</p>\n<p>He&rsquo;ll be in <em>Avengers: Doomsday</em>.</p>\n",
+				"content_text": "\"I can’t imagine ever officially 'retiring'. I’ll always and forever be an actor.\" — [Patrick Stewart](https://www.tvinsider.com/1273694/patrick-stewart-star-trek-60th-anniversary-exclusive-interview-picard-next-generation/), July 2026\n\nHe'll be in _Avengers: Doomsday_.\n",
+				"date_published": "2026-10-29T15:15:30-05:00",
+				"url": "https://www.manton.org/2026/10/29/i-cant-imagine-ever-officially.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/29/stunned-hearing-about-patrick-stewart.html",
+				
+				"content_html": "<p>Stunned hearing about Patrick Stewart. What an incredible actor. This is going to hit hard for so many fans&hellip; There was no one like him. Rest in peace.</p>\n",
+				"content_text": "Stunned hearing about Patrick Stewart. What an incredible actor. This is going to hit hard for so many fans... There was no one like him. Rest in peace.\n",
+				"date_published": "2026-10-29T15:05:05-05:00",
+				"url": "https://www.manton.org/2026/10/29/stunned-hearing-about-patrick-stewart.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/29/to-go-with-my-last.html",
+				
+				"content_html": "<p>To go with <a href=\"https://www.manton.org/2026/10/29/next-month-will-be-years.html\">my last post</a>, I was curious about the spacing of releases, so asked Codex to make a simple timeline graph. But I forgot to tell it I wanted a static image. It came up with <a href=\"https://mac-release-timeline.manton.chatgpt.site/\">this plot where you can hover for release date</a>. Neat.</p>\n",
+				"content_text": "To go with [my last post](https://www.manton.org/2026/10/29/next-month-will-be-years.html), I was curious about the spacing of releases, so asked Codex to make a simple timeline graph. But I forgot to tell it I wanted a static image. It came up with [this plot where you can hover for release date](https://mac-release-timeline.manton.chatgpt.site/). Neat.\n",
+				"date_published": "2026-10-29T14:40:52-05:00",
+				"url": "https://www.manton.org/2026/10/29/to-go-with-my-last.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/29/next-month-will-be-years.html",
+				
+				"content_html": "<p>Next month will be 9 years since the very first version of Micro.blog for Mac. With today&rsquo;s 4.3 release, there have been 118 releases just for the Mac. It&rsquo;s getting pretty good.</p>\n<p>Most new AI-assisted projects are going to be abandoned. Users want consistent progress.</p>\n",
+				"content_text": "Next month will be 9 years since the very first version of Micro.blog for Mac. With today's 4.3 release, there have been 118 releases just for the Mac. It's getting pretty good.\n\nMost new AI-assisted projects are going to be abandoned. Users want consistent progress.\n",
+				"date_published": "2026-10-29T14:36:00-05:00",
+				"url": "https://www.manton.org/2026/10/29/next-month-will-be-years.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/29/im-liking-sunlit-as-a.html",
+				
+				"content_html": "<p>I&rsquo;m liking Sunlit 4.0 as a Swarm replacement so far. It&rsquo;s much faster to add a quick check-in to <a href=\"https://manton.coffee/\">my locations blog</a>. One thing missing is keeping track of places you were probably visiting while the app is in the background.</p>\n",
+				"content_text": "I'm liking Sunlit 4.0 as a Swarm replacement so far. It's much faster to add a quick check-in to [my locations blog](https://manton.coffee/). One thing missing is keeping track of places you were probably visiting while the app is in the background.\n",
+				"date_published": "2026-10-29T14:02:31-05:00",
+				"url": "https://www.manton.org/2026/10/29/im-liking-sunlit-as-a.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/29/theres-some-fun-momentum-behind.html",
+				
+				"content_html": "<p>There&rsquo;s some fun momentum behind <a href=\"https://socialspec.org/\">SocialSpec</a>, so I&rsquo;ve updated Micro.blog to automatically enable the plug-in next time you post. If you don&rsquo;t want it, just uninstall the plug-in and it won&rsquo;t come back.</p>\n",
+				"content_text": "There's some fun momentum behind [SocialSpec](https://socialspec.org/), so I've updated Micro.blog to automatically enable the plug-in next time you post. If you don't want it, just uninstall the plug-in and it won't come back.\n",
+				"date_published": "2026-10-29T13:32:59-05:00",
+				"url": "https://www.manton.org/2026/10/29/theres-some-fun-momentum-behind.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/29/ive-become-sort-of-strict.html",
+				
+				"content_html": "<p>I&rsquo;ve become sort of strict about my morning routine. Even when traveling, I have coffee and work for a couple hours every morning. It is my most productive time by far. Today, I&rsquo;m all out of whack&hellip; Woke up early, went back to bed, woke up, back to bed again. Not feeling 100%. Coffee at noon! ☕️</p>\n",
+				"content_text": "I've become sort of strict about my morning routine. Even when traveling, I have coffee and work for a couple hours every morning. It is my most productive time by far. Today, I'm all out of whack... Woke up early, went back to bed, woke up, back to bed again. Not feeling 100%. Coffee at noon! ☕️\n",
+				"date_published": "2026-10-29T12:47:19-05:00",
+				"url": "https://www.manton.org/2026/10/29/ive-become-sort-of-strict.html",
+				"tags": ["Coffee"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/29/wnba-fans-dont-forget-the.html",
+				
+				"content_html": "<p>WNBA fans, don’t forget the finals game starts at the ridiculous 11:30am central time on a Thursday. They should’ve made this an evening double-header. Hawks at 6pm, Dream at 9pm, and a single ticket gets you into both games. Make it an event! 🏀</p>\n",
+				"content_text": "WNBA fans, don’t forget the finals game starts at the ridiculous 11:30am central time on a Thursday. They should’ve made this an evening double-header. Hawks at 6pm, Dream at 9pm, and a single ticket gets you into both games. Make it an event! 🏀\n",
+				"date_published": "2026-10-29T10:10:03-05:00",
+				"url": "https://www.manton.org/2026/10/29/wnba-fans-dont-forget-the.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/28/whew-that-game-was-too.html",
+				
+				"content_html": "<p>Whew, that game was too close. Spurs getting a win in Utah in OT. I know it&rsquo;s only the fifth game of the season, super early, but would&rsquo;ve hurt to drop that one. 🏀</p>\n",
+				"content_text": "Whew, that game was too close. Spurs getting a win in Utah in OT. I know it's only the fifth game of the season, super early, but would've hurt to drop that one. 🏀\n",
+				"date_published": "2026-10-28T22:43:37-05:00",
+				"url": "https://www.manton.org/2026/10/28/whew-that-game-was-too.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/10/28/this-is-cool-httpssodirorg-is.html",
+				
+				"content_html": "<p>This is cool: <a href=\"https://sodir.org/\">sodir.org</a> is a browser for blogs that use SocialSpec.</p>\n",
+				"content_text": "This is cool: [sodir.org](https://sodir.org/) is a browser for blogs that use SocialSpec.\n",
+				"date_published": "2026-10-28T20:27:26-05:00",
+				"url": "https://www.manton.org/2026/10/28/this-is-cool-httpssodirorg-is.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/10/28/pretty-big-change-going-from.html",
 				
 				"content_html": "<p>Pretty big change going from 4.7 lbs on the 16-inch MacBook Pro down to 4 lbs. I’m not going to spend $3k for that change, but it’ll be nice when I eventually upgrade.</p>\n",
