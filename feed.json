@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/10/31/starting-to-feel-a-little.html",
+				
+				"content_html": "<p>Starting to feel a little bit better in time for Halloween. Got candy and carved a pumpkin. For fun, we still have the <a href=\"https://micro.boo/\">micro.boo</a> domain collecting Halloween-related posts. 🎃</p>\n",
+				"content_text": "Starting to feel a little bit better in time for Halloween. Got candy and carved a pumpkin. For fun, we still have the [micro.boo](https://micro.boo/) domain collecting Halloween-related posts. 🎃\n",
+				"date_published": "2026-10-31T18:26:30-05:00",
+				"url": "https://www.manton.org/2026/10/31/starting-to-feel-a-little.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/10/30/mostly-lying-low-today-still.html",
 				
 				"content_html": "<p>Mostly lying low today, still have a cold. Getting some work done anyway, though, various background work on Micro.blog. I put off early voting too long&hellip; Guess I will vote on Election Day.</p>\n",
@@ -337,8 +345,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/10/22/the-met-cloisters.html",
 				
-				"content_html": "<p>The Met Cloisters.</p>\n<img src=\"uploads/2026/5707268e-d070-4419-8108-de54ae96a37a.jpg\" alt=\"A stone pathway leads through a lush garden courtyard with various plants and flowers, framed by ancient stone columns and arches under a clear blue sky.\">\n",
-				"content_text": "The Met Cloisters.\n\n<img src=\"uploads/2026/5707268e-d070-4419-8108-de54ae96a37a.jpg\" alt=\"A stone pathway leads through a lush garden courtyard with various plants and flowers, framed by ancient stone columns and arches under a clear blue sky.\">\n",
+				"content_html": "<p>The Met Cloisters.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/5707268e-d070-4419-8108-de54ae96a37a.jpg\" alt=\"A stone pathway leads through a lush garden courtyard with various plants and flowers, framed by ancient stone columns and arches under a clear blue sky.\">\n",
+				"content_text": "The Met Cloisters.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/5707268e-d070-4419-8108-de54ae96a37a.jpg\" alt=\"A stone pathway leads through a lush garden courtyard with various plants and flowers, framed by ancient stone columns and arches under a clear blue sky.\">\n",
 				"date_published": "2026-10-22T16:37:40-05:00",
 				"url": "https://www.manton.org/2026/10/22/the-met-cloisters.html",
 				"tags": ["Photos"]
@@ -363,8 +371,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/10/21/never-seen-this-before-iced.html",
 				
-				"content_html": "<p>Never seen this before. Iced coffee in a bag at 787 Coffee. I guess handy for keeping it tightly closed, but pretty awkward for everything else. ☕️</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/c8b1367b-c680-46a9-8cfe-0fbe6d5f333f.jpg\" width=\"600\" height=\"600\" alt=\"A clear plastic pouch with iced coffee and a green straw is placed next to an open laptop showing Codex with some projects in the sidebar.\">\n",
-				"content_text": "Never seen this before. Iced coffee in a bag at 787 Coffee. I guess handy for keeping it tightly closed, but pretty awkward for everything else. ☕️\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/c8b1367b-c680-46a9-8cfe-0fbe6d5f333f.jpg\" width=\"600\" height=\"600\" alt=\"A clear plastic pouch with iced coffee and a green straw is placed next to an open laptop showing Codex with some projects in the sidebar.\">\n",
+				"content_html": "<p>Never seen this before. Iced coffee in a bag at 787 Coffee. I guess handy for keeping it tightly closed, but pretty awkward for everything else. ☕️</p>\n<img src=\"uploads/2026/c8b1367b-c680-46a9-8cfe-0fbe6d5f333f.jpg\" width=\"600\" height=\"600\" alt=\"A clear plastic pouch with iced coffee and a green straw is placed next to an open laptop showing Codex with some projects in the sidebar.\">\n",
+				"content_text": "Never seen this before. Iced coffee in a bag at 787 Coffee. I guess handy for keeping it tightly closed, but pretty awkward for everything else. ☕️\n\n<img src=\"uploads/2026/c8b1367b-c680-46a9-8cfe-0fbe6d5f333f.jpg\" width=\"600\" height=\"600\" alt=\"A clear plastic pouch with iced coffee and a green straw is placed next to an open laptop showing Codex with some projects in the sidebar.\">\n",
 				"date_published": "2026-10-21T16:21:07-04:00",
 				"url": "https://www.manton.org/2026/10/21/never-seen-this-before-iced.html",
 				"tags": ["Photos","Coffee"]
@@ -456,8 +464,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/10/19/mohawk-river-in-schenectady.html",
 				
-				"content_html": "<p>Mohawk River in Schenectady. 🚂</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/2f205886-266d-45dd-bd0a-d6f0af4be1ef.jpg\" alt=\"A calm river reflects the clear blue sky, autumn-colored trees, and distant buildings.\">\n",
-				"content_text": "Mohawk River in Schenectady. 🚂\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/2f205886-266d-45dd-bd0a-d6f0af4be1ef.jpg\" alt=\"A calm river reflects the clear blue sky, autumn-colored trees, and distant buildings.\">\n",
+				"content_html": "<p>Mohawk River in Schenectady. 🚂</p>\n<img src=\"uploads/2026/2f205886-266d-45dd-bd0a-d6f0af4be1ef.jpg\" alt=\"A calm river reflects the clear blue sky, autumn-colored trees, and distant buildings.\">\n",
+				"content_text": "Mohawk River in Schenectady. 🚂\n\n<img src=\"uploads/2026/2f205886-266d-45dd-bd0a-d6f0af4be1ef.jpg\" alt=\"A calm river reflects the clear blue sky, autumn-colored trees, and distant buildings.\">\n",
 				"date_published": "2026-10-19T14:25:56-04:00",
 				"url": "https://www.manton.org/2026/10/19/mohawk-river-in-schenectady.html",
 				"tags": ["Photos"]
@@ -592,7 +600,7 @@
 				
 				"content_html": "<p>No wi-fi and intermittent cell coverage for this trip, as expected. Somehow I managed to <a href=\"https://www.manton.org/2026/10/17/morning-in-montana.html\">upload a video</a> when we got back near a town. I used the offline time to write some code by hand (gasp!) and do yet more editing on the book.</p>\n",
 				"content_text": "No wi-fi and intermittent cell coverage for this trip, as expected. Somehow I managed to [upload a video](https://www.manton.org/2026/10/17/morning-in-montana.html) when we got back near a town. I used the offline time to write some code by hand (gasp!) and do yet more editing on the book.\n",
-				"date_published": "2026-10-17T12:00:00-05:00",
+				"date_published": "2026-10-17T11:00:00-06:00",
 				"url": "https://www.manton.org/2026/10/17/no-wifi-and-intermittent-cell.html"
 			},
 			{
@@ -635,7 +643,7 @@
 				
 				"content_html": "<p>At the hotel lobby, a bunch of LEGOs to play with.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/img-5424.jpg\" alt=\"A partially constructed white LEGO structure resembling architectural buildings is placed on a large baseplate, with numerous small white LEGO pieces scattered around and stored in containers nearby.\">\n",
 				"content_text": "At the hotel lobby, a bunch of LEGOs to play with.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/img-5424.jpg\" alt=\"A partially constructed white LEGO structure resembling architectural buildings is placed on a large baseplate, with numerous small white LEGO pieces scattered around and stored in containers nearby.\">\n",
-				"date_published": "2026-10-16T09:00:00-06:00",
+				"date_published": "2026-10-16T08:00:00-07:00",
 				"url": "https://www.manton.org/2026/10/16/at-the-hotel-lobby-a.html",
 				"tags": ["Photos"]
 			},
@@ -650,8 +658,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/10/15/hood-canal.html",
 				
-				"content_html": "<p>Hood Canal.</p>\n<img src=\"uploads/2026/8dfb6b5d-549e-4757-9f53-7148788678f1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "Hood Canal.\n\n\n<img src=\"uploads/2026/8dfb6b5d-549e-4757-9f53-7148788678f1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Hood Canal.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/8dfb6b5d-549e-4757-9f53-7148788678f1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hood Canal.\n\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/8dfb6b5d-549e-4757-9f53-7148788678f1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-10-15T20:21:02-07:00",
 				"url": "https://www.manton.org/2026/10/15/hood-canal.html",
 				"tags": ["Photos"]
@@ -735,7 +743,7 @@
 				
 				"content_html": "<p><a href=\"https://calebhailey.com/links/socialspec/\">Caleb Hailey has announced</a> socialspec.org, a suite of recommendations for making websites more social. Following lists, about pages, and contact info. &ldquo;The future of social media is websites.&rdquo;</p>\n",
 				"content_text": "[Caleb Hailey has announced](https://calebhailey.com/links/socialspec/) socialspec.org, a suite of recommendations for making websites more social. Following lists, about pages, and contact info. \"The future of social media is websites.\"\n",
-				"date_published": "2026-10-13T14:00:00-05:00",
+				"date_published": "2026-10-13T12:00:00-07:00",
 				"url": "https://www.manton.org/2026/10/13/caleb-hailey-has-announced-socialspecorg.html"
 			},
 			{
