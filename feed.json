@@ -7,6 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/11/02/reading-the-six-colors-transcript.html",
+				
+				"content_html": "<p>Reading the <a href=\"https://sixcolors.com/post/2026/11/hello-everyone-its-john-apples-q4-2026-earnings-call-transcript/\">Six Colors transcript of Apple&rsquo;s earning call</a>. Nothing really stands out in John Ternus&rsquo;s comments, except maybe this line: &ldquo;It’s the Siri we’ve always wanted.&rdquo; Meanwhile, Apple still makes a lot of money.</p>\n",
+				"content_text": "Reading the [Six Colors transcript of Apple's earning call](https://sixcolors.com/post/2026/11/hello-everyone-its-john-apples-q4-2026-earnings-call-transcript/). Nothing really stands out in John Ternus's comments, except maybe this line: \"It’s the Siri we’ve always wanted.\" Meanwhile, Apple still makes a lot of money.\n",
+				"date_published": "2026-11-02T17:07:40-06:00",
+				"url": "https://www.manton.org/2026/11/02/reading-the-six-colors-transcript.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/02/this-was-a-fun-segment.html",
+				
+				"content_html": "<p>This was a fun segment <a href=\"https://youtu.be/1pJMbQtdqZc?is=FCwAXYyPkc-g684A\">on 60 Minutes last night</a> with Wemby. We are so lucky to have him. 🏀</p>\n",
+				"content_text": "This was a fun segment [on 60 Minutes last night](https://youtu.be/1pJMbQtdqZc?is=FCwAXYyPkc-g684A) with Wemby. We are so lucky to have him. 🏀\n",
+				"date_published": "2026-11-02T12:54:25-06:00",
+				"url": "https://www.manton.org/2026/11/02/this-was-a-fun-segment.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/02/back-to-having-a-single.html",
+				
+				"content_html": "<p>Back to having a single version of Xcode installed, currently 27.1. A few weeks ago, had at least 3-4 different versions installed for different things. Hard drive space is at a premium right now.</p>\n",
+				"content_text": "Back to having a single version of Xcode installed, currently 27.1. A few weeks ago, had at least 3-4 different versions installed for different things. Hard drive space is at a premium right now.\n",
+				"date_published": "2026-11-02T10:53:07-06:00",
+				"url": "https://www.manton.org/2026/11/02/back-to-having-a-single.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/02/ive-been-reworking-how-we.html",
+				
+				"content_html": "<p>I&rsquo;ve been reworking how we handle new registrations to discourage spammers. Instead of requiring a credit card to weed out scammers, we&rsquo;re going to try to catch problematic first posts before they get published. I hope this&rsquo;ll make the 7-day trial experience better for real users.</p>\n",
+				"content_text": "I've been reworking how we handle new registrations to discourage spammers. Instead of requiring a credit card to weed out scammers, we're going to try to catch problematic first posts before they get published. I hope this'll make the 7-day trial experience better for real users.\n",
+				"date_published": "2026-11-02T10:21:05-06:00",
+				"url": "https://www.manton.org/2026/11/02/ive-been-reworking-how-we.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/02/for-the-latest-sunlit-ive.html",
+				
+				"content_html": "<p>For the latest Sunlit, I&rsquo;ve updated the new scheduled check-ins to remove delays longer than one day. This feature currently uses blog posts scheduled in the future, so you don&rsquo;t actually want the time drifting too much. We might need to rethink this specifically for check-ins.</p>\n<img src=\"uploads/2026/paste-f7c4f7e2.png\" width=\"583\" height=\"600\" alt=\"\" style=\"max-width: 400px;\">\n",
+				"content_text": "For the latest Sunlit, I've updated the new scheduled check-ins to remove delays longer than one day. This feature currently uses blog posts scheduled in the future, so you don't actually want the time drifting too much. We might need to rethink this specifically for check-ins.\n\n<img src=\"uploads/2026/paste-f7c4f7e2.png\" width=\"583\" height=\"600\" alt=\"\" style=\"max-width: 400px;\">\n",
+				"date_published": "2026-11-02T09:40:00-06:00",
+				"url": "https://www.manton.org/2026/11/02/for-the-latest-sunlit-ive.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/01/in-a-way-its-a.html",
+				
+				"content_html": "<p>In a way, it’s a great time to be an indie developer. But the challenge is getting noticed in all the noise when you’re just getting started. So many apps. And I get lots of emails that look AI-generated, so it’s becoming hard to tell what is a friendly email from another developer and what is fake.</p>\n",
+				"content_text": "In a way, it’s a great time to be an indie developer. But the challenge is getting noticed in all the noise when you’re just getting started. So many apps. And I get lots of emails that look AI-generated, so it’s becoming hard to tell what is a friendly email from another developer and what is fake.\n",
+				"date_published": "2026-11-01T20:51:11-06:00",
+				"url": "https://www.manton.org/2026/11/01/in-a-way-its-a.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/11/01/looking-forward-to-the-new.html",
 				
 				"content_html": "<p>Looking forward to the new season of The Gilded Age tonight. 📺</p>\n",
@@ -17,8 +66,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/11/01/sticker-as-bookmark.html",
 				
-				"content_html": "<p>Sticker as bookmark. 📚</p>\n<img src=\"uploads/2026/1ce0ab62-f5a7-4fa3-acac-f9ab9d702b29.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "Sticker as bookmark. 📚\n\n<img src=\"uploads/2026/1ce0ab62-f5a7-4fa3-acac-f9ab9d702b29.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Sticker as bookmark. 📚</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/1ce0ab62-f5a7-4fa3-acac-f9ab9d702b29.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Sticker as bookmark. 📚\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/1ce0ab62-f5a7-4fa3-acac-f9ab9d702b29.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-11-01T12:49:27-06:00",
 				"url": "https://www.manton.org/2026/11/01/sticker-as-bookmark.html",
 				"tags": ["Books","Photos"]
