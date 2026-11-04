@@ -7,6 +7,104 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/11/03/trying-to-remember-the-last.html",
+				
+				"content_html": "<p>Trying to remember the last time I’ve been able to click around on a Texas election map, county by county, and smile. Oh right, it’s never happened. This is looking very good. 🇺🇸</p>\n",
+				"content_text": "Trying to remember the last time I’ve been able to click around on a Texas election map, county by county, and smile. Oh right, it’s never happened. This is looking very good. 🇺🇸\n",
+				"date_published": "2026-11-03T19:29:01-06:00",
+				"url": "https://www.manton.org/2026/11/03/trying-to-remember-the-last.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/03/brandon-sanderson-said-on-his.html",
+				
+				"content_html": "<p>Brandon Sanderson said on his weekly update that he&rsquo;s thinking about the Stormlight 6 outline. Exciting. Except that once that&rsquo;s ready, he won&rsquo;t start writing until January 2028! I do admire his planning, though. 📚</p>\n",
+				"content_text": "Brandon Sanderson said on his weekly update that he's thinking about the Stormlight 6 outline. Exciting. Except that once that's ready, he won't start writing until January 2028! I do admire his planning, though. 📚\n",
+				"date_published": "2026-11-03T16:50:22-06:00",
+				"url": "https://www.manton.org/2026/11/03/brandon-sanderson-said-on-his.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/03/made-a-completely-new-site.html",
+				
+				"content_html": "<p>Made a <a href=\"https://epilogue.micro.blog/\">completely new site</a> for our books app Epilogue. New screenshots, a little more marketing-y.</p>\n",
+				"content_text": "Made a [completely new site](https://epilogue.micro.blog/) for our books app Epilogue. New screenshots, a little more marketing-y.\n",
+				"date_published": "2026-11-03T16:14:18-06:00",
+				"url": "https://www.manton.org/2026/11/03/made-a-completely-new-site.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/03/pumpkins-still-out-at-cosmic.html",
+				
+				"content_html": "<p>Pumpkins still out at Cosmic.</p>\n<img src=\"uploads/2026/7aaf5cd5-6436-4d54-a51b-4bd38cd46931.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Pumpkins still out at Cosmic.\n\n<img src=\"uploads/2026/7aaf5cd5-6436-4d54-a51b-4bd38cd46931.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-11-03T14:04:11-06:00",
+				"url": "https://www.manton.org/2026/11/03/pumpkins-still-out-at-cosmic.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/03/its-crazy-to-see-frontier.html",
+				
+				"content_html": "<p>It&rsquo;s crazy to see <a href=\"http://scripting.com/2026/11/03/172109.html?title=frontiersDebuggerIsBack\">Frontier running again on the Mac</a>. Just seeing these screenshots brings back memories! There wasn&rsquo;t really anything like it, and there still isn&rsquo;t.</p>\n",
+				"content_text": "It's crazy to see [Frontier running again on the Mac](http://scripting.com/2026/11/03/172109.html?title=frontiersDebuggerIsBack). Just seeing these screenshots brings back memories! There wasn't really anything like it, and there still isn't.\n",
+				"date_published": "2026-11-03T12:49:03-06:00",
+				"url": "https://www.manton.org/2026/11/03/its-crazy-to-see-frontier.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/03/read-some-marketing-advice-the.html",
+				
+				"content_html": "<p>I read some marketing advice the other day that resonated with me. When creating apps is easy, the best use of time for developers is the human connections. In-person meetups. Podcasts. Support email.</p>\n",
+				"content_text": "I read some marketing advice the other day that resonated with me. When creating apps is easy, the best use of time for developers is the human connections. In-person meetups. Podcasts. Support email.\n",
+				"date_published": "2026-11-03T10:16:41-06:00",
+				"url": "https://www.manton.org/2026/11/03/read-some-marketing-advice-the.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/03/reviewing-a-huge-bootstrap-from.html",
+				
+				"content_html": "<p>Reviewing a huge bootstrap from <a href=\"https://micro.blog/vincent\">@vincent</a> to get Sunlit ported to Android. Sunlit has been like a fun side project for us. It fills an important space and is worth dedicating more time to.</p>\n",
+				"content_text": "Reviewing a huge bootstrap from [@vincent](https://micro.blog/vincent) to get Sunlit ported to Android. Sunlit has been like a fun side project for us. It fills an important space and is worth dedicating more time to.\n",
+				"date_published": "2026-11-03T09:15:00-06:00",
+				"url": "https://www.manton.org/2026/11/03/reviewing-a-huge-bootstrap-from.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/03/dave-rupert-blogs-that-he.html",
+				
+				"content_html": "<p><a href=\"https://daverupert.com/2026/11/write-mo/\">Dave Rupert blogs</a> that he won&rsquo;t be participating in NaNoWriMo, but he does want to write more:</p>\n<blockquote>\n<p>I don’t have any solid plans, words-per-day goals, charts, graphs, storyboards, outlines, or some Benjamin Franklin life hack schedule to make this happen. Instead I have an Obsidian vault with a hundred unsorted drafts.</p>\n</blockquote>\n<p>NaNoWriMo is all-consuming. It&rsquo;s really hard to make time for, but I hope to see a couple folks take up the challenge on their blogs.</p>\n",
+				"content_text": "[Dave Rupert blogs](https://daverupert.com/2026/11/write-mo/) that he won't be participating in NaNoWriMo, but he does want to write more:\n\n> I don’t have any solid plans, words-per-day goals, charts, graphs, storyboards, outlines, or some Benjamin Franklin life hack schedule to make this happen. Instead I have an Obsidian vault with a hundred unsorted drafts.\n\nNaNoWriMo is all-consuming. It's really hard to make time for, but I hope to see a couple folks take up the challenge on their blogs.\n",
+				"date_published": "2026-11-03T09:00:00-06:00",
+				"url": "https://www.manton.org/2026/11/03/dave-rupert-blogs-that-he.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/03/voted-i-got-fused-at.html",
+				
+				"content_html": "<p>Voted. I got fussed at for checking my phone to look up the details on a couple of the county propositions I couldn&rsquo;t remember. 🇺🇸</p>\n",
+				"content_text": "Voted. I got fussed at for checking my phone to look up the details on a couple of the county propositions I couldn't remember. 🇺🇸\n",
+				"date_published": "2026-11-03T08:37:06-06:00",
+				"url": "https://www.manton.org/2026/11/03/voted-i-got-fused-at.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/03/it-seems-like-the-democrats.html",
+				
+				"content_html": "<p>It seems like the Democrats will take the House, but beyond that, who knows. James Talarico is in a great position. I&rsquo;m hopeful. Nationwide, I&rsquo;m not sure Democrats have learned the right lessons about bringing the country together&hellip; I think we&rsquo;ll win despite ourselves, and maybe that&rsquo;s enough. 🇺🇸</p>\n",
+				"content_text": "It seems like the Democrats will take the House, but beyond that, who knows. James Talarico is in a great position. I'm hopeful. Nationwide, I'm not sure Democrats have learned the right lessons about bringing the country together... I think we'll win despite ourselves, and maybe that's enough. 🇺🇸\n",
+				"date_published": "2026-11-03T07:00:00-06:00",
+				"url": "https://www.manton.org/2026/11/03/it-seems-like-the-democrats.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/02/watched-ted-lasso-se-being.html",
+				
+				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2F5xHtC62mNKDRnNA7aMXeM1zwhzc.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/tv/97546/season/4/episode/10\">Ted Lasso S4E10, Being Alive</a>. Finally finishing the season. Good last episode. 📺</p>\n",
+				"content_text": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2F5xHtC62mNKDRnNA7aMXeM1zwhzc.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWatched: [Ted Lasso S4E10, Being Alive](https://www.themoviedb.org/tv/97546/season/4/episode/10). Finally finishing the season. Good last episode. 📺\n",
+				"date_published": "2026-11-02T21:21:29-06:00",
+				"url": "https://www.manton.org/2026/11/02/watched-ted-lasso-se-being.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/02/openai-has-a-blog-post.html",
+				
+				"content_html": "<p><a href=\"https://openai.com/index/scaling-git-at-openai/\">OpenAI has a blog post</a> about writing a new Git backend. There&rsquo;s a lot of technical bits in it, some I glossed over.</p>\n<p>Anthropic <a href=\"https://www.anthropic.com/research/redesigning-source-control\">chose to build something completely new</a> to replace Git. A lifetime ago, I was using CVS, and then Subversion, and don&rsquo;t really want to switch again. GitHub is pervasive too.</p>\n",
+				"content_text": "[OpenAI has a blog post](https://openai.com/index/scaling-git-at-openai/) about writing a new Git backend. There's a lot of technical bits in it, some I glossed over.\n\nAnthropic [chose to build something completely new](https://www.anthropic.com/research/redesigning-source-control) to replace Git. A lifetime ago, I was using CVS, and then Subversion, and don't really want to switch again. GitHub is pervasive too.\n",
+				"date_published": "2026-11-02T20:11:58-06:00",
+				"url": "https://www.manton.org/2026/11/02/openai-has-a-blog-post.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/11/02/reading-the-six-colors-transcript.html",
 				
 				"content_html": "<p>Reading the <a href=\"https://sixcolors.com/post/2026/11/hello-everyone-its-john-apples-q4-2026-earnings-call-transcript/\">Six Colors transcript of Apple&rsquo;s earning call</a>. Nothing really stands out in John Ternus&rsquo;s comments, except maybe this line: &ldquo;It’s the Siri we’ve always wanted.&rdquo; Meanwhile, Apple still makes a lot of money.</p>\n",
@@ -41,8 +139,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/11/02/for-the-latest-sunlit-ive.html",
 				
-				"content_html": "<p>For the latest Sunlit, I&rsquo;ve updated the new scheduled check-ins to remove delays longer than one day. This feature currently uses blog posts scheduled in the future, so you don&rsquo;t actually want the time drifting too much. We might need to rethink this specifically for check-ins.</p>\n<img src=\"uploads/2026/paste-f7c4f7e2.png\" width=\"583\" height=\"600\" alt=\"\" style=\"max-width: 400px;\">\n",
-				"content_text": "For the latest Sunlit, I've updated the new scheduled check-ins to remove delays longer than one day. This feature currently uses blog posts scheduled in the future, so you don't actually want the time drifting too much. We might need to rethink this specifically for check-ins.\n\n<img src=\"uploads/2026/paste-f7c4f7e2.png\" width=\"583\" height=\"600\" alt=\"\" style=\"max-width: 400px;\">\n",
+				"content_html": "<p>For the latest Sunlit, I&rsquo;ve updated the new scheduled check-ins to remove delays longer than one day. This feature currently uses blog posts scheduled in the future, so you don&rsquo;t actually want the time drifting too much. We might need to rethink this specifically for check-ins.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-f7c4f7e2.png\" width=\"583\" height=\"600\" alt=\"\" style=\"max-width: 400px;\">\n",
+				"content_text": "For the latest Sunlit, I've updated the new scheduled check-ins to remove delays longer than one day. This feature currently uses blog posts scheduled in the future, so you don't actually want the time drifting too much. We might need to rethink this specifically for check-ins.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-f7c4f7e2.png\" width=\"583\" height=\"600\" alt=\"\" style=\"max-width: 400px;\">\n",
 				"date_published": "2026-11-02T09:40:00-06:00",
 				"url": "https://www.manton.org/2026/11/02/for-the-latest-sunlit-ive.html",
 				"tags": ["Photos"]
@@ -435,8 +533,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/10/22/the-met-cloisters.html",
 				
-				"content_html": "<p>The Met Cloisters.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/5707268e-d070-4419-8108-de54ae96a37a.jpg\" alt=\"A stone pathway leads through a lush garden courtyard with various plants and flowers, framed by ancient stone columns and arches under a clear blue sky.\">\n",
-				"content_text": "The Met Cloisters.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/5707268e-d070-4419-8108-de54ae96a37a.jpg\" alt=\"A stone pathway leads through a lush garden courtyard with various plants and flowers, framed by ancient stone columns and arches under a clear blue sky.\">\n",
+				"content_html": "<p>The Met Cloisters.</p>\n<img src=\"uploads/2026/5707268e-d070-4419-8108-de54ae96a37a.jpg\" alt=\"A stone pathway leads through a lush garden courtyard with various plants and flowers, framed by ancient stone columns and arches under a clear blue sky.\">\n",
+				"content_text": "The Met Cloisters.\n\n<img src=\"uploads/2026/5707268e-d070-4419-8108-de54ae96a37a.jpg\" alt=\"A stone pathway leads through a lush garden courtyard with various plants and flowers, framed by ancient stone columns and arches under a clear blue sky.\">\n",
 				"date_published": "2026-10-22T16:37:40-05:00",
 				"url": "https://www.manton.org/2026/10/22/the-met-cloisters.html",
 				"tags": ["Photos"]
@@ -461,8 +559,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/10/21/never-seen-this-before-iced.html",
 				
-				"content_html": "<p>Never seen this before. Iced coffee in a bag at 787 Coffee. I guess handy for keeping it tightly closed, but pretty awkward for everything else. ☕️</p>\n<img src=\"uploads/2026/c8b1367b-c680-46a9-8cfe-0fbe6d5f333f.jpg\" width=\"600\" height=\"600\" alt=\"A clear plastic pouch with iced coffee and a green straw is placed next to an open laptop showing Codex with some projects in the sidebar.\">\n",
-				"content_text": "Never seen this before. Iced coffee in a bag at 787 Coffee. I guess handy for keeping it tightly closed, but pretty awkward for everything else. ☕️\n\n<img src=\"uploads/2026/c8b1367b-c680-46a9-8cfe-0fbe6d5f333f.jpg\" width=\"600\" height=\"600\" alt=\"A clear plastic pouch with iced coffee and a green straw is placed next to an open laptop showing Codex with some projects in the sidebar.\">\n",
+				"content_html": "<p>Never seen this before. Iced coffee in a bag at 787 Coffee. I guess handy for keeping it tightly closed, but pretty awkward for everything else. ☕️</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/c8b1367b-c680-46a9-8cfe-0fbe6d5f333f.jpg\" width=\"600\" height=\"600\" alt=\"A clear plastic pouch with iced coffee and a green straw is placed next to an open laptop showing Codex with some projects in the sidebar.\">\n",
+				"content_text": "Never seen this before. Iced coffee in a bag at 787 Coffee. I guess handy for keeping it tightly closed, but pretty awkward for everything else. ☕️\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/c8b1367b-c680-46a9-8cfe-0fbe6d5f333f.jpg\" width=\"600\" height=\"600\" alt=\"A clear plastic pouch with iced coffee and a green straw is placed next to an open laptop showing Codex with some projects in the sidebar.\">\n",
 				"date_published": "2026-10-21T16:21:07-04:00",
 				"url": "https://www.manton.org/2026/10/21/never-seen-this-before-iced.html",
 				"tags": ["Photos","Coffee"]
@@ -554,8 +652,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/10/19/mohawk-river-in-schenectady.html",
 				
-				"content_html": "<p>Mohawk River in Schenectady. 🚂</p>\n<img src=\"uploads/2026/2f205886-266d-45dd-bd0a-d6f0af4be1ef.jpg\" alt=\"A calm river reflects the clear blue sky, autumn-colored trees, and distant buildings.\">\n",
-				"content_text": "Mohawk River in Schenectady. 🚂\n\n<img src=\"uploads/2026/2f205886-266d-45dd-bd0a-d6f0af4be1ef.jpg\" alt=\"A calm river reflects the clear blue sky, autumn-colored trees, and distant buildings.\">\n",
+				"content_html": "<p>Mohawk River in Schenectady. 🚂</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/2f205886-266d-45dd-bd0a-d6f0af4be1ef.jpg\" alt=\"A calm river reflects the clear blue sky, autumn-colored trees, and distant buildings.\">\n",
+				"content_text": "Mohawk River in Schenectady. 🚂\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/2f205886-266d-45dd-bd0a-d6f0af4be1ef.jpg\" alt=\"A calm river reflects the clear blue sky, autumn-colored trees, and distant buildings.\">\n",
 				"date_published": "2026-10-19T14:25:56-04:00",
 				"url": "https://www.manton.org/2026/10/19/mohawk-river-in-schenectady.html",
 				"tags": ["Photos"]
@@ -690,7 +788,7 @@
 				
 				"content_html": "<p>No wi-fi and intermittent cell coverage for this trip, as expected. Somehow I managed to <a href=\"https://www.manton.org/2026/10/17/morning-in-montana.html\">upload a video</a> when we got back near a town. I used the offline time to write some code by hand (gasp!) and do yet more editing on the book.</p>\n",
 				"content_text": "No wi-fi and intermittent cell coverage for this trip, as expected. Somehow I managed to [upload a video](https://www.manton.org/2026/10/17/morning-in-montana.html) when we got back near a town. I used the offline time to write some code by hand (gasp!) and do yet more editing on the book.\n",
-				"date_published": "2026-10-17T11:00:00-06:00",
+				"date_published": "2026-10-17T12:00:00-05:00",
 				"url": "https://www.manton.org/2026/10/17/no-wifi-and-intermittent-cell.html"
 			},
 			{
@@ -733,7 +831,7 @@
 				
 				"content_html": "<p>At the hotel lobby, a bunch of LEGOs to play with.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/img-5424.jpg\" alt=\"A partially constructed white LEGO structure resembling architectural buildings is placed on a large baseplate, with numerous small white LEGO pieces scattered around and stored in containers nearby.\">\n",
 				"content_text": "At the hotel lobby, a bunch of LEGOs to play with.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/img-5424.jpg\" alt=\"A partially constructed white LEGO structure resembling architectural buildings is placed on a large baseplate, with numerous small white LEGO pieces scattered around and stored in containers nearby.\">\n",
-				"date_published": "2026-10-16T08:00:00-07:00",
+				"date_published": "2026-10-16T09:00:00-06:00",
 				"url": "https://www.manton.org/2026/10/16/at-the-hotel-lobby-a.html",
 				"tags": ["Photos"]
 			},
@@ -748,8 +846,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/10/15/hood-canal.html",
 				
-				"content_html": "<p>Hood Canal.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/8dfb6b5d-549e-4757-9f53-7148788678f1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "Hood Canal.\n\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/8dfb6b5d-549e-4757-9f53-7148788678f1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Hood Canal.</p>\n<img src=\"uploads/2026/8dfb6b5d-549e-4757-9f53-7148788678f1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hood Canal.\n\n\n<img src=\"uploads/2026/8dfb6b5d-549e-4757-9f53-7148788678f1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-10-15T20:21:02-07:00",
 				"url": "https://www.manton.org/2026/10/15/hood-canal.html",
 				"tags": ["Photos"]
@@ -833,7 +931,7 @@
 				
 				"content_html": "<p><a href=\"https://calebhailey.com/links/socialspec/\">Caleb Hailey has announced</a> socialspec.org, a suite of recommendations for making websites more social. Following lists, about pages, and contact info. &ldquo;The future of social media is websites.&rdquo;</p>\n",
 				"content_text": "[Caleb Hailey has announced](https://calebhailey.com/links/socialspec/) socialspec.org, a suite of recommendations for making websites more social. Following lists, about pages, and contact info. \"The future of social media is websites.\"\n",
-				"date_published": "2026-10-13T12:00:00-07:00",
+				"date_published": "2026-10-13T14:00:00-05:00",
 				"url": "https://www.manton.org/2026/10/13/caleb-hailey-has-announced-socialspecorg.html"
 			},
 			{
