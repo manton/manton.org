@@ -7,10 +7,75 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/11/05/the-new-york-times-is.html",
+				
+				"content_html": "<p>The New York Times is <a href=\"https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html\">in talks to acquire Letterboxd</a>. We need more movie and book reviews published on indie blogs. This is a pretty easy thing to decentralize because the network effects aren’t as strong as on other kinds of social silos.</p>\n",
+				"content_text": "The New York Times is [in talks to acquire Letterboxd](https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html). We need more movie and book reviews published on indie blogs. This is a pretty easy thing to decentralize because the network effects aren’t as strong as on other kinds of social silos.\n",
+				"date_published": "2026-11-05T19:02:05-06:00",
+				"url": "https://www.manton.org/2026/11/05/the-new-york-times-is.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/05/u-has-announced-dates-for.html",
+				
+				"content_html": "<p>U2 has announced dates for South America and Europe for the new tour. Maybe I need to plan another trip to Barcelona&hellip; I loved it there.</p>\n",
+				"content_text": "U2 has announced dates for South America and Europe for the new tour. Maybe I need to plan another trip to Barcelona... I loved it there.\n",
+				"date_published": "2026-11-05T12:00:00-06:00",
+				"url": "https://www.manton.org/2026/11/05/u-has-announced-dates-for.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/05/as-a-general-rule-i.html",
+				
+				"content_html": "<p>As a general rule, I don&rsquo;t ask for app reviews, but I noticed there are a couple &ldquo;1 star, should be free&rdquo; reviews for <a href=\"https://play.google.com/store/apps/details?id=blog.micro.android\">Micro.blog for Android</a>. Our Android app continues to improve. If some happy Android users wouldn&rsquo;t mind leaving a quick comment to offset the complaints, I&rsquo;d love it.</p>\n",
+				"content_text": "As a general rule, I don't ask for app reviews, but I noticed there are a couple \"1 star, should be free\" reviews for [Micro.blog for Android](https://play.google.com/store/apps/details?id=blog.micro.android). Our Android app continues to improve. If some happy Android users wouldn't mind leaving a quick comment to offset the complaints, I'd love it.\n",
+				"date_published": "2026-11-05T10:40:00-06:00",
+				"url": "https://www.manton.org/2026/11/05/as-a-general-rule-i.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/05/techcrunch-the-blue-wave-swept.html",
+				
+				"content_html": "<p><a href=\"https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/\">TechCrunch</a>:</p>\n<blockquote>\n<p>The blue wave swept Bluesky on Tuesday night as the microblogging platform recorded its highest daily number of posts, replies, and likes in 2026.</p>\n</blockquote>\n<p>Nice to see the new traffic. I hope that Bluesky&rsquo;s bet on private posts and community groups pays off for new growth in 2027.</p>\n",
+				"content_text": "[TechCrunch](https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/):\n\n> The blue wave swept Bluesky on Tuesday night as the microblogging platform recorded its highest daily number of posts, replies, and likes in 2026.\n\nNice to see the new traffic. I hope that Bluesky's bet on private posts and community groups pays off for new growth in 2027.\n",
+				"date_published": "2026-11-05T10:30:00-06:00",
+				"url": "https://www.manton.org/2026/11/05/techcrunch-the-blue-wave-swept.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/05/jason-snell-reviewed-the-proled.html",
+				
+				"content_html": "<p><a href=\"https://sixcolors.com/post/2026/11/macbook-pro-with-proled-review-you-could-even-say-it-glows/\">Jason Snell reviewed</a> the PROLED MacBook Pro. Most important part:</p>\n<blockquote>\n<p>Apple went to the trouble of engineering a glowing logo on the lid of the MacBook Pro—a whimsical bit of nostalgia that also coincidentally is pretty good branding—despite the fact that it has no real practical purpose. I love that.</p>\n</blockquote>\n",
+				"content_text": "[Jason Snell reviewed](https://sixcolors.com/post/2026/11/macbook-pro-with-proled-review-you-could-even-say-it-glows/) the PROLED MacBook Pro. Most important part:\n\n> Apple went to the trouble of engineering a glowing logo on the lid of the MacBook Pro—a whimsical bit of nostalgia that also coincidentally is pretty good branding—despite the fact that it has no real practical purpose. I love that.\n",
+				"date_published": "2026-11-05T10:00:00-06:00",
+				"url": "https://www.manton.org/2026/11/05/jason-snell-reviewed-the-proled.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/05/webmention-for-long-or-short.html",
+				"title": "Webmention for long or short posts",
+				"content_html": "<p><a href=\"https://manuelmoreale.com/thoughts/more-thinking-on-webmentions\">Manu Moreale blogged</a> some more thoughts about webmentions. He points out that there are both technical questions and more philosophical questions around fair use and consent. Setting that aside, I want to comment on this part:</p>\n<blockquote>\n<p>Is this post a comment to his blog post? It obviously isn’t. I am in part replying to a point he made, but I’m also talking about other things. I think it’s reasonable for me to be able to decide if something I wrote is a reply to his post or not.</p>\n</blockquote>\n<p>And ultimately Manu lands here:</p>\n<blockquote>\n<p>I think treating entire posts other people write as comments is wrong. It’s their content, it’s their words, and the right thing to do is to link to their sites.</p>\n</blockquote>\n<p>This is actually why Micro.blog is designed the way it is, with replies stored separately from blog posts. Replies to someone else&rsquo;s blog post get sent over as a webmention. They are short and designed to be treated like comments. But longer blog posts where you are quoting someone and linking to them do not by default get sent.</p>\n<p>Because it&rsquo;s the web, you can customize this behavior by including <code>in-reply-to</code> in a blog post yourself. Micro.blog will see that and send the webmention for you.</p>\n<p>As more platforms support IndieWeb protocols, and maybe provide more options on the <em>receiving</em> side to customize a blog&rsquo;s comments page, we could expand Micro.blog&rsquo;s support to send webmentions everywhere. For now, this feels like the right balance to embrace Webmention for the easy wins, with some flexibility if you want to customize how your blog interacts with the social web.</p>\n",
+				"content_text": "[Manu Moreale blogged](https://manuelmoreale.com/thoughts/more-thinking-on-webmentions) some more thoughts about webmentions. He points out that there are both technical questions and more philosophical questions around fair use and consent. Setting that aside, I want to comment on this part:\n\n> Is this post a comment to his blog post? It obviously isn’t. I am in part replying to a point he made, but I’m also talking about other things. I think it’s reasonable for me to be able to decide if something I wrote is a reply to his post or not.\n\nAnd ultimately Manu lands here:\n\n> I think treating entire posts other people write as comments is wrong. It’s their content, it’s their words, and the right thing to do is to link to their sites.\n\nThis is actually why Micro.blog is designed the way it is, with replies stored separately from blog posts. Replies to someone else's blog post get sent over as a webmention. They are short and designed to be treated like comments. But longer blog posts where you are quoting someone and linking to them do not by default get sent.\n\nBecause it's the web, you can customize this behavior by including `in-reply-to` in a blog post yourself. Micro.blog will see that and send the webmention for you.\n\nAs more platforms support IndieWeb protocols, and maybe provide more options on the _receiving_ side to customize a blog's comments page, we could expand Micro.blog's support to send webmentions everywhere. For now, this feels like the right balance to embrace Webmention for the easy wins, with some flexibility if you want to customize how your blog interacts with the social web.\n",
+				"date_published": "2026-11-05T09:25:40-06:00",
+				"url": "https://www.manton.org/2026/11/05/webmention-for-long-or-short.html",
+				"tags": ["Essays"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/05/mark-gurman-reported-about-ai.html",
+				
+				"content_html": "<p>Mark Gurman <a href=\"https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending\">reported about AI spending inside Apple</a>:</p>\n<blockquote>\n<p>Last month, Apple quietly lowered the daily spending cap for some engineers using AI models to $200 from $300, according to people with knowledge of the change. The company is now planning further cuts for some engineering teams, potentially reducing their daily allowances to as little as $100&hellip;</p>\n</blockquote>\n<p>Even &ldquo;as little as $100&rdquo; per person <em>per day</em> is outrageous. The problem is that OpenAI and Anthropic essentially force large companies onto enterprise plans. We know from Anthropic&rsquo;s S-1 that a bunch of revenue comes from a handful of companies.</p>\n",
+				"content_text": "Mark Gurman [reported about AI spending inside Apple](https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending):\n\n> Last month, Apple quietly lowered the daily spending cap for some engineers using AI models to $200 from $300, according to people with knowledge of the change. The company is now planning further cuts for some engineering teams, potentially reducing their daily allowances to as little as $100...\n\nEven \"as little as $100\" per person _per day_ is outrageous. The problem is that OpenAI and Anthropic essentially force large companies onto enterprise plans. We know from Anthropic's S-1 that a bunch of revenue comes from a handful of companies.\n",
+				"date_published": "2026-11-05T00:46:37-06:00",
+				"url": "https://www.manton.org/2026/11/05/mark-gurman-reported-about-ai.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/05/that-ended-up-being-a.html",
+				
+				"content_html": "<p>That ended up being a great game to be at. Wemby was a force. 52 points. Spurs blow a big lead but hold on in the final minutes. 🏀</p>\n",
+				"content_text": "That ended up being a great game to be at. Wemby was a force. 52 points. Spurs blow a big lead but hold on in the final minutes. 🏀\n",
+				"date_published": "2026-11-05T00:25:32-06:00",
+				"url": "https://www.manton.org/2026/11/05/that-ended-up-being-a.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/11/04/spurs-vs-mavs-with-abainspired.html",
 				
-				"content_html": "<p>Spurs vs. Mavs with ABA-inspired court. 🏀</p>\n<img src=\"uploads/2026/876f1ef8-bd2e-4ce6-a614-75eff246d2d5.jpg\" alt=\"Five basketball players are positioned around the center court logo of the San Antonio Spurs preparing for a tip-off during a game.\">\n",
-				"content_text": "Spurs vs. Mavs with ABA-inspired court. 🏀\n\n<img src=\"uploads/2026/876f1ef8-bd2e-4ce6-a614-75eff246d2d5.jpg\" alt=\"Five basketball players are positioned around the center court logo of the San Antonio Spurs preparing for a tip-off during a game.\">\n",
+				"content_html": "<p>Spurs vs. Mavs with ABA-inspired court. 🏀</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/876f1ef8-bd2e-4ce6-a614-75eff246d2d5.jpg\" alt=\"Five basketball players are positioned around the center court logo of the San Antonio Spurs preparing for a tip-off during a game.\">\n",
+				"content_text": "Spurs vs. Mavs with ABA-inspired court. 🏀\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/876f1ef8-bd2e-4ce6-a614-75eff246d2d5.jpg\" alt=\"Five basketball players are positioned around the center court logo of the San Antonio Spurs preparing for a tip-off during a game.\">\n",
 				"date_published": "2026-11-04T22:48:50-06:00",
 				"url": "https://www.manton.org/2026/11/04/spurs-vs-mavs-with-abainspired.html",
 				"tags": ["Photos"]
