@@ -7,6 +7,104 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/11/11/i-havent-owned-any-individual.html",
+				
+				"content_html": "<p>I haven&rsquo;t owned any individual stocks since I had a single Twitter share a dozen years ago, as a token investment when I was deep in Twitter app development. Maybe I should buy a few shares of Anthropic as a counterweight to my usual negativity about them&hellip; Also in case they do cure cancer. 🤪</p>\n",
+				"content_text": "I haven't owned any individual stocks since I had a single Twitter share a dozen years ago, as a token investment when I was deep in Twitter app development. Maybe I should buy a few shares of Anthropic as a counterweight to my usual negativity about them... Also in case they do cure cancer. 🤪\n",
+				"date_published": "2026-11-11T11:31:26-06:00",
+				"url": "https://www.manton.org/2026/11/11/i-havent-owned-any-individual.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/11/for-a-long-time-i.html",
+				
+				"content_html": "<p>For a long time I resisted having cute names and mascots for Micro.blog. It&rsquo;s just blogs, nothing special! But I&rsquo;ve been playing with a new idea that I think will be perfect: a ladybug. (It&rsquo;s small&hellip;) I just have to overlook the ladybug emoji. The legs make it a little too insect-y.</p>\n",
+				"content_text": "For a long time I resisted having cute names and mascots for Micro.blog. It's just blogs, nothing special! But I've been playing with a new idea that I think will be perfect: a ladybug. (It's small...) I just have to overlook the ladybug emoji. The legs make it a little too insect-y.\n",
+				"date_published": "2026-11-11T10:15:00-06:00",
+				"url": "https://www.manton.org/2026/11/11/for-a-long-time-i.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/11/very-good-advice-from-patrick.html",
+				
+				"content_html": "<p><a href=\"https://www.patrickrhone.net/if-your-a-gd-dm-adult-you-should-have-a-fkg-will/\">Very good advice</a> from Patrick Rhone about wills. Makes a difference for the folks we leave behind. Another thing I learned last year, that my mom had the foresight to set up: if you own a house, in most states you can set a &ldquo;transfer-on-death deed&rdquo; so it passes to your loved one with minimal fuss.</p>\n",
+				"content_text": "[Very good advice](https://www.patrickrhone.net/if-your-a-gd-dm-adult-you-should-have-a-fkg-will/) from Patrick Rhone about wills. Makes a difference for the folks we leave behind. Another thing I learned last year, that my mom had the foresight to set up: if you own a house, in most states you can set a \"transfer-on-death deed\" so it passes to your loved one with minimal fuss.\n",
+				"date_published": "2026-11-11T10:00:00-06:00",
+				"url": "https://www.manton.org/2026/11/11/very-good-advice-from-patrick.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/11/ben-thompson-has-made-this.html",
+				
+				"content_html": "<p>Ben Thompson <a href=\"https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence/\">has made this point</a> a couple times, but he seems unwilling (for obvious reasons!) to just come out and say he&rsquo;s not sure Alice Huang was actually a spy:</p>\n<blockquote>\n<p>As I noted on Monday, the allegation that Alice Huang was a spy is coming from the exact corners of the national security apparatus who stridently disagree with Jensen Huang’s position on selling to China; given that, it’s notable that the Chinese spy agency may have not known who she was either.</p>\n</blockquote>\n<p>Words have power. When rumors take hold there&rsquo;s no undoing them, usually.</p>\n",
+				"content_text": "Ben Thompson [has made this point](https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence/) a couple times, but he seems unwilling (for obvious reasons!) to just come out and say he's not sure Alice Huang was actually a spy:\n\n> As I noted on Monday, the allegation that Alice Huang was a spy is coming from the exact corners of the national security apparatus who stridently disagree with Jensen Huang’s position on selling to China; given that, it’s notable that the Chinese spy agency may have not known who she was either.\n\nWords have power. When rumors take hold there's no undoing them, usually.\n",
+				"date_published": "2026-11-11T09:30:00-06:00",
+				"url": "https://www.manton.org/2026/11/11/ben-thompson-has-made-this.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/11/i-havent-looked-at-the.html",
+				
+				"content_html": "<p>I haven&rsquo;t looked at the Apple Pencil in a while, so I naively thought there were just two models: the original and the pro version. Nope, there are actually four different versions, each slightly different. Super confusing.</p>\n",
+				"content_text": "I haven't looked at the Apple Pencil in a while, so I naively thought there were just two models: the original and the pro version. Nope, there are actually four different versions, each slightly different. Super confusing.\n",
+				"date_published": "2026-11-11T09:08:26-06:00",
+				"url": "https://www.manton.org/2026/11/11/i-havent-looked-at-the.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/10/back-using-duolingo-after-a.html",
+				
+				"content_html": "<p>Back using Duolingo after a month break. The gamification is so annoyingly lopsided on the side of clicking chests and unlocking prizes. Also looking at Babbel.</p>\n",
+				"content_text": "Back using Duolingo after a month break. The gamification is so annoyingly lopsided on the side of clicking chests and unlocking prizes. Also looking at Babbel.\n",
+				"date_published": "2026-11-10T22:01:46-06:00",
+				"url": "https://www.manton.org/2026/11/10/back-using-duolingo-after-a.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/10/in-the-latest-mac-update.html",
+				
+				"content_html": "<p>In the latest Mac update, book search results get a nicer-looking details pane with book description.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-becdd5a5.png\" alt=\"A screenshot of Mac window with list of books from The Stormlight Archive series by Brandon Sanderson, with Rhythm of War currently selected and detailed on the right.\">\n",
+				"content_text": "In the latest Mac update, book search results get a nicer-looking details pane with book description.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-becdd5a5.png\" alt=\"A screenshot of Mac window with list of books from The Stormlight Archive series by Brandon Sanderson, with Rhythm of War currently selected and detailed on the right.\">\n",
+				"date_published": "2026-11-10T16:00:00-06:00",
+				"url": "https://www.manton.org/2026/11/10/in-the-latest-mac-update.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/10/its-probably-a-good-thing.html",
+				
+				"content_html": "<p>It&rsquo;s probably a good thing I dislike flying so much, because otherwise I&rsquo;d go to Europe more often and be completely crushed by debt paying for travel.</p>\n",
+				"content_text": "It's probably a good thing I dislike flying so much, because otherwise I'd go to Europe more often and be completely crushed by debt paying for travel.\n",
+				"date_published": "2026-11-10T15:35:27-06:00",
+				"url": "https://www.manton.org/2026/11/10/its-probably-a-good-thing.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/10/reading-about-the-anthropic-ipo.html",
+				
+				"content_html": "<p>Reading about the Anthropic IPO structure, it&rsquo;s super weird. The founders retain control over the company with 50.1% of voting, and a trust controls the board, with little or no influence from shareholders. I&rsquo;m sort of surprised this is allowed for a public company.</p>\n",
+				"content_text": "Reading about the Anthropic IPO structure, it's super weird. The founders retain control over the company with 50.1% of voting, and a trust controls the board, with little or no influence from shareholders. I'm sort of surprised this is allowed for a public company.\n",
+				"date_published": "2026-11-10T14:56:21-06:00",
+				"url": "https://www.manton.org/2026/11/10/reading-about-the-anthropic-ipo.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/10/disease-relics.html",
+				"title": "Disease relics",
+				"content_html": "<p>There&rsquo;s a new clip going around of Dario Amodei making the case for Anthropic:</p>\n<blockquote>\n<p>We look at things like cancer, Alzheimer&rsquo;s, heart disease, mental illness&hellip; These will be relics of the past in, I think, less than a decade. And I believe the company that gets the risks right will also be the company that has the license to operate — that society trusts, and society believes can build the benefits in the right way.</p>\n</blockquote>\n<p>This is the most compelling justification for Anthropic&rsquo;s approach that I&rsquo;ve seen. But I&rsquo;m not convinced it will play out that way for trust&hellip; Too much doom and gloom will lead to users not trusting <em>any</em> company.</p>\n",
+				"content_text": "There's a new clip going around of Dario Amodei making the case for Anthropic:\n\n> We look at things like cancer, Alzheimer's, heart disease, mental illness... These will be relics of the past in, I think, less than a decade. And I believe the company that gets the risks right will also be the company that has the license to operate — that society trusts, and society believes can build the benefits in the right way.\n\nThis is the most compelling justification for Anthropic's approach that I've seen. But I'm not convinced it will play out that way for trust... Too much doom and gloom will lead to users not trusting _any_ company.\n",
+				"date_published": "2026-11-10T14:38:17-06:00",
+				"url": "https://www.manton.org/2026/11/10/disease-relics.html",
+				"tags": ["Essays","Artificial Intelligence"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/10/plotting-travel-for-crazy-plans.html",
+				
+				"content_html": "<p>Plotting travel for 2027. Crazy plans that don&rsquo;t make any sense. 🗺️</p>\n",
+				"content_text": "Plotting travel for 2027. Crazy plans that don't make any sense. 🗺️\n",
+				"date_published": "2026-11-10T12:46:23-06:00",
+				"url": "https://www.manton.org/2026/11/10/plotting-travel-for-crazy-plans.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/10/littleknown-fact-microblogs-conversationjs-feature.html",
+				
+				"content_html": "<p>Little-known fact: Micro.blog&rsquo;s <a href=\"https://help.micro.blog/t/replies-with-conversation-js/67\">Conversation.js</a> feature works with any blog, hosted anywhere, as long as your blog is connected to Micro.blog. It&rsquo;s sort of like the old Disqus in that way, but powered by Micro.blog and webmentions.</p>\n",
+				"content_text": "Little-known fact: Micro.blog's [Conversation.js](https://help.micro.blog/t/replies-with-conversation-js/67) feature works with any blog, hosted anywhere, as long as your blog is connected to Micro.blog. It's sort of like the old Disqus in that way, but powered by Micro.blog and webmentions.\n",
+				"date_published": "2026-11-10T12:30:00-06:00",
+				"url": "https://www.manton.org/2026/11/10/littleknown-fact-microblogs-conversationjs-feature.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/11/10/even-as-the-news-gets.html",
 				
 				"content_html": "<p>Even as the news gets worse for Jensen Huang, it seems almost impossible that he would step down. It&rsquo;s hard to imagine someone else leading Nvidia right now. Unlike with companies like Apple or Microsoft, I can&rsquo;t actually name another Nvidia exec. His identity is inseparable from Nvidia.</p>\n",
