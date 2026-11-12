@@ -7,6 +7,95 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/11/12/when-we-rebuilt-the-microblog.html",
+				
+				"content_html": "<p>When we rebuilt the Micro.blog iOS a couple of years ago, we focused on the iPhone. That changes today with an update for the iPad and Duo. See the full release notes on <a href=\"https://help.micro.blog/t/micro-blog-for-ios/44\">this help page</a>.</p>\n",
+				"content_text": "When we rebuilt the Micro.blog iOS a couple of years ago, we focused on the iPhone. That changes today with an update for the iPad and Duo. See the full release notes on [this help page](https://help.micro.blog/t/micro-blog-for-ios/44).\n",
+				"date_published": "2026-11-12T11:28:21-06:00",
+				"url": "https://www.manton.org/2026/11/12/when-we-rebuilt-the-microblog.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/12/jim-mitchell-has-been-updating.html",
+				
+				"content_html": "<p>Jim Mitchell <a href=\"https://jimmitchell.dev/outpost/changes/\">has been updating OutPost</a> this week. It&rsquo;s a Mac app for publishing to Micro.blog and other Micropub-compatible platforms. (iOS version planned&hellip;)</p>\n",
+				"content_text": "Jim Mitchell [has been updating OutPost](https://jimmitchell.dev/outpost/changes/) this week. It's a Mac app for publishing to Micro.blog and other Micropub-compatible platforms. (iOS version planned...)\n",
+				"date_published": "2026-11-12T11:17:02-06:00",
+				"url": "https://www.manton.org/2026/11/12/jim-mitchell-has-been-updating.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/12/john-gruber-blogged-a-comparison.html",
+				
+				"content_html": "<p><a href=\"https://daringfireball.net/linked/2026/11/12/huang-resigns\">John Gruber blogged</a> a comparison with Apple losing Steve Jobs:</p>\n<blockquote>\n<p>I argued, <a href=\"https://daringfireball.net/2011/08/resigned\">on the day of his resignation</a>, that Apple was likely to continue to thrive post-Jobs, writing, “Jobs’s greatest creation isn’t any Apple product. It is Apple itself.” He built a great company with a deep bench and a highly distinctive, incredibly strong culture.</p>\n</blockquote>\n<p>Steve Jobs knew he was dying and prepared for it. Until this week, Jensen Huang thought he was going to lead Nvidia for another decade or longer. Getting rid of him so suddenly is going to have aftershocks.</p>\n",
+				"content_text": "[John Gruber blogged](https://daringfireball.net/linked/2026/11/12/huang-resigns) a comparison with Apple losing Steve Jobs:\n\n> I argued, [on the day of his resignation](https://daringfireball.net/2011/08/resigned), that Apple was likely to continue to thrive post-Jobs, writing, “Jobs’s greatest creation isn’t any Apple product. It is Apple itself.” He built a great company with a deep bench and a highly distinctive, incredibly strong culture.\n\nSteve Jobs knew he was dying and prepared for it. Until this week, Jensen Huang thought he was going to lead Nvidia for another decade or longer. Getting rid of him so suddenly is going to have aftershocks.\n",
+				"date_published": "2026-11-12T10:58:04-06:00",
+				"url": "https://www.manton.org/2026/11/12/john-gruber-blogged-a-comparison.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/12/most-companies-no-longer-need.html",
+				
+				"content_html": "<p>Most companies no longer need massive capital to get started. There are going to be more and more successes where the founder owns the majority of the company, if not all of it. Related, JA Westenberg <a href=\"https://www.joanwestenberg.com/p/one-person-unicorns-are-coming\">blogging about one-person unicorns</a>:</p>\n<blockquote>\n<p>&hellip;there are things that can’t be automated, and sometimes it’s better to do direct employment to resolve coordination problems. But the tipping point has shifted - quite a lot - and probably in the direction of smaller optimal firm sizes for a very large range of companies.</p>\n</blockquote>\n",
+				"content_text": "Most companies no longer need massive capital to get started. There are going to be more and more successes where the founder owns the majority of the company, if not all of it. Related, JA Westenberg [blogging about one-person unicorns](https://www.joanwestenberg.com/p/one-person-unicorns-are-coming):\n\n> ...there are things that can’t be automated, and sometimes it’s better to do direct employment to resolve coordination problems. But the tipping point has shifted - quite a lot - and probably in the direction of smaller optimal firm sizes for a very large range of companies.\n",
+				"date_published": "2026-11-12T09:00:00-06:00",
+				"url": "https://www.manton.org/2026/11/12/most-companies-no-longer-need.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/12/the-end-of-this-post.html",
+				
+				"content_html": "<p>The end of <a href=\"https://x.com/TimSweeneyEpic/status/2120887322312921465\">this post on X</a> from Tim Sweeney feels like a jab at Apple:</p>\n<blockquote>\n<p>A sad day for NVIDIA, developers, America, and all humanity. Jensen founded and ran one of the few companies to reach a massive scale while driving massive continued innovation and ubiquity, while others fell into the trap of ever-increasing extraction.</p>\n</blockquote>\n",
+				"content_text": "The end of [this post on X](https://x.com/TimSweeneyEpic/status/2120887322312921465) from Tim Sweeney feels like a jab at Apple:\n\n> A sad day for NVIDIA, developers, America, and all humanity. Jensen founded and ran one of the few companies to reach a massive scale while driving massive continued innovation and ubiquity, while others fell into the trap of ever-increasing extraction.\n",
+				"date_published": "2026-11-12T08:44:28-06:00",
+				"url": "https://www.manton.org/2026/11/12/the-end-of-this-post.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/12/wondering-how-much-of-jensen.html",
+				
+				"content_html": "<p>Wondering how much of Jensen Huang&rsquo;s pushback on succession was because he didn&rsquo;t want the board to have an easy way out. I can relate to not wanting anyone else to run your company&hellip; Nothing would cause me to give up Micro.blog. But also I think a lot about what will happen when I&rsquo;m gone.</p>\n",
+				"content_text": "Wondering how much of Jensen Huang's pushback on succession was because he didn't want the board to have an easy way out. I can relate to not wanting anyone else to run your company... Nothing would cause me to give up Micro.blog. But also I think a lot about what will happen when I'm gone.\n",
+				"date_published": "2026-11-12T08:26:10-06:00",
+				"url": "https://www.manton.org/2026/11/12/wondering-how-much-of-jensen.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/12/dreamed-last-night-that-my.html",
+				
+				"content_html": "<p>Dreamed last night that my Mac&rsquo;s hard drive failed, but in talking with Apple, I was able to pay 💰 to upgrade the internal storage during the repair instead of buying a new Mac. I&rsquo;m clearly worried about space&hellip; The available GBs on my Mac feels like a random number generator some days.</p>\n",
+				"content_text": "Dreamed last night that my Mac's hard drive failed, but in talking with Apple, I was able to pay 💰 to upgrade the internal storage during the repair instead of buying a new Mac. I'm clearly worried about space... The available GBs on my Mac feels like a random number generator some days.\n",
+				"date_published": "2026-11-12T08:16:17-06:00",
+				"url": "https://www.manton.org/2026/11/12/dreamed-last-night-that-my.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/11/lex-friedman-asks-what-an.html",
+				
+				"content_html": "<p><a href=\"https://lexontech.org/what-is-an-app-worth-in-a-vibe-coded-world\">Lex Friedman asks</a> what an app is worth now that we have AI:</p>\n<blockquote>\n<p>The answer, to me, is you pay for an app if the care and attention the developer gives the app is more than you can afford to give. If the few bucks you’ll spend is worth more than the time you’d spend building your own version of the app.</p>\n</blockquote>\n<p>Most people just don&rsquo;t have time to maintain an app. The value of one-off utility apps will go down, but there will still be a market for many kinds of apps, especially those with an ecosystem or significant infrastructure behind them.</p>\n",
+				"content_text": "[Lex Friedman asks](https://lexontech.org/what-is-an-app-worth-in-a-vibe-coded-world) what an app is worth now that we have AI:\n\n> The answer, to me, is you pay for an app if the care and attention the developer gives the app is more than you can afford to give. If the few bucks you’ll spend is worth more than the time you’d spend building your own version of the app.\n\nMost people just don't have time to maintain an app. The value of one-off utility apps will go down, but there will still be a market for many kinds of apps, especially those with an ecosystem or significant infrastructure behind them.\n",
+				"date_published": "2026-11-11T22:07:29-06:00",
+				"url": "https://www.manton.org/2026/11/11/lex-friedman-asks-what-an.html",
+				"tags": ["Artificial Intelligence"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/11/thinking-about-this-short-post.html",
+				
+				"content_html": "<p>Thinking about <a href=\"https://www.manton.org/2026/08/27/paradoxically-im-increasingly-believing-in.html\">this short post</a> I wrote a few months ago about Nvidia. We might get a test of this soon! WSJ says the board is <a href=\"https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad\">preparing to oust Jensen</a>… I’ll believe it when I see it happen.</p>\n",
+				"content_text": "Thinking about [this short post](https://www.manton.org/2026/08/27/paradoxically-im-increasingly-believing-in.html) I wrote a few months ago about Nvidia. We might get a test of this soon! WSJ says the board is [preparing to oust Jensen](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)… I’ll believe it when I see it happen.\n",
+				"date_published": "2026-11-11T20:53:56-06:00",
+				"url": "https://www.manton.org/2026/11/11/thinking-about-this-short-post.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/11/watched-the-rings-of-power.html",
+				
+				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2Fo8HVnxoRuw6G8yycLu1a4vGIU7a.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/tv/84773/season/3/episode/1\">The Rings of Power S3E1</a>. They dropped the first four episodes at once tonight. 📺</p>\n",
+				"content_text": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2Fo8HVnxoRuw6G8yycLu1a4vGIU7a.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWatched: [The Rings of Power S3E1](https://www.themoviedb.org/tv/84773/season/3/episode/1). They dropped the first four episodes at once tonight. 📺\n",
+				"date_published": "2026-11-11T19:57:37-06:00",
+				"url": "https://www.manton.org/2026/11/11/watched-the-rings-of-power.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/11/this-new-atmosphere-coop-sounds.html",
+				
+				"content_html": "<p><a href=\"https://atmosphere.coop/updates/introducing-the-atmosphere-community-cooperative\">This new Atmosphere co-op</a> sounds like a great idea:</p>\n<blockquote>\n<p>As we look toward the third AtmosphereConf in 2027, we’re happy to announce that we’re transforming into a cooperative dedicated to supporting the health, growth, and stability of the Atmosphere.</p>\n</blockquote>\n",
+				"content_text": "[This new Atmosphere co-op](https://atmosphere.coop/updates/introducing-the-atmosphere-community-cooperative) sounds like a great idea:\n\n> As we look toward the third AtmosphereConf in 2027, we’re happy to announce that we’re transforming into a cooperative dedicated to supporting the health, growth, and stability of the Atmosphere.\n",
+				"date_published": "2026-11-11T12:10:00-06:00",
+				"url": "https://www.manton.org/2026/11/11/this-new-atmosphere-coop-sounds.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/11/11/i-havent-owned-any-individual.html",
 				
 				"content_html": "<p>I haven&rsquo;t owned any individual stocks since I had a single Twitter share a dozen years ago, as a token investment when I was deep in Twitter app development. Maybe I should buy a few shares of Anthropic as a counterweight to my usual negativity about them&hellip; Also in case they do cure cancer. 🤪</p>\n",
@@ -497,8 +586,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/11/02/watched-ted-lasso-se-being.html",
 				
-				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/tv/97546/season/4/episode/10\">Ted Lasso S4E10, Being Alive</a>. Finally finishing the season. Good last episode. 📺</p>\n",
-				"content_text": "Watched: [Ted Lasso S4E10, Being Alive](https://www.themoviedb.org/tv/97546/season/4/episode/10). Finally finishing the season. Good last episode. 📺\n",
+				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2F5xHtC62mNKDRnNA7aMXeM1zwhzc.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/tv/97546/season/4/episode/10\">Ted Lasso S4E10, Being Alive</a>. Finally finishing the season. Good last episode. 📺</p>\n",
+				"content_text": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2F5xHtC62mNKDRnNA7aMXeM1zwhzc.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWatched: [Ted Lasso S4E10, Being Alive](https://www.themoviedb.org/tv/97546/season/4/episode/10). Finally finishing the season. Good last episode. 📺\n",
 				"date_published": "2026-11-02T21:21:29-06:00",
 				"url": "https://www.manton.org/2026/11/02/watched-ted-lasso-se-being.html"
 			},
@@ -545,8 +634,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/11/02/for-the-latest-sunlit-ive.html",
 				
-				"content_html": "<p>For the latest Sunlit, I&rsquo;ve updated the new scheduled check-ins to remove delays longer than one day. This feature currently uses blog posts scheduled in the future, so you don&rsquo;t actually want the time drifting too much. We might need to rethink this specifically for check-ins.</p>\n<img src=\"uploads/2026/paste-f7c4f7e2.png\" width=\"583\" height=\"600\" alt=\"\" style=\"max-width: 400px;\">\n",
-				"content_text": "For the latest Sunlit, I've updated the new scheduled check-ins to remove delays longer than one day. This feature currently uses blog posts scheduled in the future, so you don't actually want the time drifting too much. We might need to rethink this specifically for check-ins.\n\n<img src=\"uploads/2026/paste-f7c4f7e2.png\" width=\"583\" height=\"600\" alt=\"\" style=\"max-width: 400px;\">\n",
+				"content_html": "<p>For the latest Sunlit, I&rsquo;ve updated the new scheduled check-ins to remove delays longer than one day. This feature currently uses blog posts scheduled in the future, so you don&rsquo;t actually want the time drifting too much. We might need to rethink this specifically for check-ins.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-f7c4f7e2.png\" width=\"583\" height=\"600\" alt=\"\" style=\"max-width: 400px;\">\n",
+				"content_text": "For the latest Sunlit, I've updated the new scheduled check-ins to remove delays longer than one day. This feature currently uses blog posts scheduled in the future, so you don't actually want the time drifting too much. We might need to rethink this specifically for check-ins.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-f7c4f7e2.png\" width=\"583\" height=\"600\" alt=\"\" style=\"max-width: 400px;\">\n",
 				"date_published": "2026-11-02T09:40:00-06:00",
 				"url": "https://www.manton.org/2026/11/02/for-the-latest-sunlit-ive.html",
 				"tags": ["Photos"]
@@ -939,8 +1028,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/10/22/the-met-cloisters.html",
 				
-				"content_html": "<p>The Met Cloisters.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/5707268e-d070-4419-8108-de54ae96a37a.jpg\" alt=\"A stone pathway leads through a lush garden courtyard with various plants and flowers, framed by ancient stone columns and arches under a clear blue sky.\">\n",
-				"content_text": "The Met Cloisters.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/5707268e-d070-4419-8108-de54ae96a37a.jpg\" alt=\"A stone pathway leads through a lush garden courtyard with various plants and flowers, framed by ancient stone columns and arches under a clear blue sky.\">\n",
+				"content_html": "<p>The Met Cloisters.</p>\n<img src=\"uploads/2026/5707268e-d070-4419-8108-de54ae96a37a.jpg\" alt=\"A stone pathway leads through a lush garden courtyard with various plants and flowers, framed by ancient stone columns and arches under a clear blue sky.\">\n",
+				"content_text": "The Met Cloisters.\n\n<img src=\"uploads/2026/5707268e-d070-4419-8108-de54ae96a37a.jpg\" alt=\"A stone pathway leads through a lush garden courtyard with various plants and flowers, framed by ancient stone columns and arches under a clear blue sky.\">\n",
 				"date_published": "2026-10-22T16:37:40-05:00",
 				"url": "https://www.manton.org/2026/10/22/the-met-cloisters.html",
 				"tags": ["Photos"]
@@ -965,8 +1054,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/10/21/never-seen-this-before-iced.html",
 				
-				"content_html": "<p>Never seen this before. Iced coffee in a bag at 787 Coffee. I guess handy for keeping it tightly closed, but pretty awkward for everything else. ☕️</p>\n<img src=\"uploads/2026/c8b1367b-c680-46a9-8cfe-0fbe6d5f333f.jpg\" width=\"600\" height=\"600\" alt=\"A clear plastic pouch with iced coffee and a green straw is placed next to an open laptop showing Codex with some projects in the sidebar.\">\n",
-				"content_text": "Never seen this before. Iced coffee in a bag at 787 Coffee. I guess handy for keeping it tightly closed, but pretty awkward for everything else. ☕️\n\n<img src=\"uploads/2026/c8b1367b-c680-46a9-8cfe-0fbe6d5f333f.jpg\" width=\"600\" height=\"600\" alt=\"A clear plastic pouch with iced coffee and a green straw is placed next to an open laptop showing Codex with some projects in the sidebar.\">\n",
+				"content_html": "<p>Never seen this before. Iced coffee in a bag at 787 Coffee. I guess handy for keeping it tightly closed, but pretty awkward for everything else. ☕️</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/c8b1367b-c680-46a9-8cfe-0fbe6d5f333f.jpg\" width=\"600\" height=\"600\" alt=\"A clear plastic pouch with iced coffee and a green straw is placed next to an open laptop showing Codex with some projects in the sidebar.\">\n",
+				"content_text": "Never seen this before. Iced coffee in a bag at 787 Coffee. I guess handy for keeping it tightly closed, but pretty awkward for everything else. ☕️\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/c8b1367b-c680-46a9-8cfe-0fbe6d5f333f.jpg\" width=\"600\" height=\"600\" alt=\"A clear plastic pouch with iced coffee and a green straw is placed next to an open laptop showing Codex with some projects in the sidebar.\">\n",
 				"date_published": "2026-10-21T16:21:07-04:00",
 				"url": "https://www.manton.org/2026/10/21/never-seen-this-before-iced.html",
 				"tags": ["Photos","Coffee"]
@@ -1058,8 +1147,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/10/19/mohawk-river-in-schenectady.html",
 				
-				"content_html": "<p>Mohawk River in Schenectady. 🚂</p>\n<img src=\"uploads/2026/2f205886-266d-45dd-bd0a-d6f0af4be1ef.jpg\" alt=\"A calm river reflects the clear blue sky, autumn-colored trees, and distant buildings.\">\n",
-				"content_text": "Mohawk River in Schenectady. 🚂\n\n<img src=\"uploads/2026/2f205886-266d-45dd-bd0a-d6f0af4be1ef.jpg\" alt=\"A calm river reflects the clear blue sky, autumn-colored trees, and distant buildings.\">\n",
+				"content_html": "<p>Mohawk River in Schenectady. 🚂</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/2f205886-266d-45dd-bd0a-d6f0af4be1ef.jpg\" alt=\"A calm river reflects the clear blue sky, autumn-colored trees, and distant buildings.\">\n",
+				"content_text": "Mohawk River in Schenectady. 🚂\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/2f205886-266d-45dd-bd0a-d6f0af4be1ef.jpg\" alt=\"A calm river reflects the clear blue sky, autumn-colored trees, and distant buildings.\">\n",
 				"date_published": "2026-10-19T14:25:56-04:00",
 				"url": "https://www.manton.org/2026/10/19/mohawk-river-in-schenectady.html",
 				"tags": ["Photos"]
@@ -1194,7 +1283,7 @@
 				
 				"content_html": "<p>No wi-fi and intermittent cell coverage for this trip, as expected. Somehow I managed to <a href=\"https://www.manton.org/2026/10/17/morning-in-montana.html\">upload a video</a> when we got back near a town. I used the offline time to write some code by hand (gasp!) and do yet more editing on the book.</p>\n",
 				"content_text": "No wi-fi and intermittent cell coverage for this trip, as expected. Somehow I managed to [upload a video](https://www.manton.org/2026/10/17/morning-in-montana.html) when we got back near a town. I used the offline time to write some code by hand (gasp!) and do yet more editing on the book.\n",
-				"date_published": "2026-10-17T11:00:00-06:00",
+				"date_published": "2026-10-17T12:00:00-05:00",
 				"url": "https://www.manton.org/2026/10/17/no-wifi-and-intermittent-cell.html"
 			},
 			{
@@ -1237,7 +1326,7 @@
 				
 				"content_html": "<p>At the hotel lobby, a bunch of LEGOs to play with.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/img-5424.jpg\" alt=\"A partially constructed white LEGO structure resembling architectural buildings is placed on a large baseplate, with numerous small white LEGO pieces scattered around and stored in containers nearby.\">\n",
 				"content_text": "At the hotel lobby, a bunch of LEGOs to play with.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/img-5424.jpg\" alt=\"A partially constructed white LEGO structure resembling architectural buildings is placed on a large baseplate, with numerous small white LEGO pieces scattered around and stored in containers nearby.\">\n",
-				"date_published": "2026-10-16T08:00:00-07:00",
+				"date_published": "2026-10-16T09:00:00-06:00",
 				"url": "https://www.manton.org/2026/10/16/at-the-hotel-lobby-a.html",
 				"tags": ["Photos"]
 			},
@@ -1252,8 +1341,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/10/15/hood-canal.html",
 				
-				"content_html": "<p>Hood Canal.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/8dfb6b5d-549e-4757-9f53-7148788678f1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "Hood Canal.\n\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/8dfb6b5d-549e-4757-9f53-7148788678f1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Hood Canal.</p>\n<img src=\"uploads/2026/8dfb6b5d-549e-4757-9f53-7148788678f1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hood Canal.\n\n\n<img src=\"uploads/2026/8dfb6b5d-549e-4757-9f53-7148788678f1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-10-15T20:21:02-07:00",
 				"url": "https://www.manton.org/2026/10/15/hood-canal.html",
 				"tags": ["Photos"]
@@ -1337,7 +1426,7 @@
 				
 				"content_html": "<p><a href=\"https://calebhailey.com/links/socialspec/\">Caleb Hailey has announced</a> socialspec.org, a suite of recommendations for making websites more social. Following lists, about pages, and contact info. &ldquo;The future of social media is websites.&rdquo;</p>\n",
 				"content_text": "[Caleb Hailey has announced](https://calebhailey.com/links/socialspec/) socialspec.org, a suite of recommendations for making websites more social. Following lists, about pages, and contact info. \"The future of social media is websites.\"\n",
-				"date_published": "2026-10-13T12:00:00-07:00",
+				"date_published": "2026-10-13T14:00:00-05:00",
 				"url": "https://www.manton.org/2026/10/13/caleb-hailey-has-announced-socialspecorg.html"
 			},
 			{
