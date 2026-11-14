@@ -24,6 +24,94 @@
 	
 	  <div class="h-entry">
 		
+
+		<a href="https://www.manton.org/2026/11/14/my-dot-isnt-usually-that.html" class="u-url"><time class="dt-published" datetime="2026-11-14 12:40:59 -0600">Nov 14, 2026</time></a>
+
+		<div class="e-content">
+			 <p>My dot isn&rsquo;t usually that proactive, but every once in a while it&rsquo;ll send me something unprompted that is generally useful. Magic. ✨</p>
+<img src="uploads/2026/paste-786f036b.png" alt="A brief announcement from AI chatbot highlights Bret Anthony Johnston's participation in a short-fiction panel at the Texas Book Festival, including event timing, location, and signing details.">
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://www.manton.org/2026/11/14/boris-mann-blogged-about-moving.html" class="u-url"><time class="dt-published" datetime="2026-11-14 11:55:00 -0600">Nov 14, 2026</time></a>
+
+		<div class="e-content">
+			 <p><a href="https://blog.bmannconsulting.com/3n22lqjl7bk2o">Boris Mann blogged</a> about moving on to the new Atmosphere Community Cooperative full time, and why a co-op:</p>
+<blockquote>
+<p>Something that anyone can join, including other organizations. Rather than &ldquo;the foundation isn&rsquo;t doing X or Y&rdquo; and pointing fingers, a co-op is a platform for joining and getting things done - with infrastructure and other resources available.</p>
+</blockquote>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://www.manton.org/2026/11/14/john-gruber-blogging-about-the.html" class="u-url"><time class="dt-published" datetime="2026-11-14 11:32:57 -0600">Nov 14, 2026</time></a>
+
+		<div class="e-content">
+			 <p>John Gruber <a href="https://daringfireball.net/linked/2026/11/14/snell-homeview">blogging about the HomeView</a>:</p>
+<blockquote>
+<p>&hellip; the hardware is top-notch but the software is like bits of iOS, WatchOS, tvOS, and CarPlay cut up and assembled into a ransom letter.</p>
+</blockquote>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://www.manton.org/2026/11/14/a-core-tension-between-ai.html" class="u-url"><time class="dt-published" datetime="2026-11-14 10:37:17 -0600">Nov 14, 2026</time></a>
+
+		<div class="e-content">
+			 <p>A core tension between AI skeptics and AI proponents is whether training data is theft or fair use. You can see it in the loaded words that people choose to use. Almost impossible to find compromise or nuance in debates when we all start at such far apart extremes. Sad, really.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://www.manton.org/2026/11/13/spurs-on-a-nice-game.html" class="u-url"><time class="dt-published" datetime="2026-11-13 23:56:23 -0600">Nov 13, 2026</time></a>
+
+		<div class="e-content">
+			 <p>Spurs on a nice 11-game winning steak. But there will be tough games ahead, and the season is so early that despite the wins they’re only tied for 1st in the west. Fun to watch, though… I think Wemby looks even better than last season. 🏀</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://www.manton.org/2026/11/13/watched-the-first-episode-of.html" class="u-url"><time class="dt-published" datetime="2026-11-13 22:22:17 -0600">Nov 13, 2026</time></a>
+
+		<div class="e-content">
+			 <img src="https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FzfAMvnN5pgAEA012r9myHA6I7J0.jpg" align="left" class="microblog_book" style="max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;">
+<p>Watched <a href="https://www.themoviedb.org/tv/254630/season/1/episode/1">the first episode of 12 12 12</a>. I’ll watch almost anything with a heist. Just hope they don’t get too clever going back and forth with flashbacks… Good start, though. 📺</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://www.manton.org/2026/11/13/parker-ortolani-is-impressed-with.html" class="u-url"><time class="dt-published" datetime="2026-11-13 16:08:51 -0600">Nov 13, 2026</time></a>
+
+		<div class="e-content">
+			 <p>Parker Ortolani <a href="https://parkerortolani.blog/2026/11/13/homeviews-first-day-in-the.html">is impressed with the HomeView</a>:</p>
+<blockquote>
+<p>It’s been shockingly fast and responsive when I’ve barked orders at it controlling the lights or changing the music that’s playing on it. The hardware feels incredibly premium, which is of course not surprising. But for a $299 device, it is next level.</p>
+</blockquote>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 			<h1><a href="https://www.manton.org/2026/11/13/easier-map-embeds.html">Easier map embeds</a></h1>
 		
 
@@ -32,9 +120,9 @@
 		<div class="e-content">
 			 <p>I have a new version of <a href="https://sunlit.io/">Sunlit</a> in review at Apple, and Android in development, so I wanted to improve how Micro.blog allows map embeds on your blog for check-ins. I&rsquo;ve updated the default theme Sumo to support this directly. The Hugo code is really simple now:</p>
 <pre tabindex="0"><code>{{ with .Params.location.map_url }}
-  &lt;img src={{ . }}&#34;&gt;
+  &lt;img src=&#34;{{ . }}&#34;&gt;
 {{ end }}
-</code></pre><p>You can also include a <code>size</code> parameter at the end for larger maps — &ldquo;s&rdquo;, &ldquo;m&rdquo;, &ldquo;l&rdquo;, or &ldquo;xl&rdquo; — like <code>?size=m</code> for a medium (600x600) map.</p>
+</code></pre><p>You can also include a <code>size</code> parameter at the end for larger maps — &ldquo;s&rdquo;, &ldquo;m&rdquo;, &ldquo;l&rdquo;, or &ldquo;xl&rdquo; — like <code>&amp;size=m</code> for a medium (600x600) map.</p>
 <p>It looks like this on my check-ins blog:</p>
 <img src="uploads/2026/paste-cf2e5a04.png" alt="Map thumbnail." style="max-width: 300px;">
 <p>We&rsquo;ll update the other themes over time, or you can edit the templates on your blog to include the above code. Some themes may need a little extra CSS so that maps look good. For more details about Micro.blog&rsquo;s support for locations, including sending location data via the API, check out <a href="https://help.micro.blog/t/location-api-data/106">this help page</a>.</p>
