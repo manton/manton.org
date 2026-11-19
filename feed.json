@@ -7,6 +7,65 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/11/18/from-the-artificial-trailer-the.html",
+				
+				"content_html": "<p>From <a href=\"https://www.youtube.com/watch?v=ufeJbTNq-BI&amp;t=2s\">the Artificial trailer</a>, the movie looks really well cast. I&rsquo;m going to see this, but the Sam Altman characterization is <em>so</em> over the top, I think it will be purely for entertainment value.</p>\n",
+				"content_text": "From [the Artificial trailer](https://www.youtube.com/watch?v=ufeJbTNq-BI&t=2s), the movie looks really well cast. I'm going to see this, but the Sam Altman characterization is _so_ over the top, I think it will be purely for entertainment value.\n",
+				"date_published": "2026-11-18T15:45:00-06:00",
+				"url": "https://www.manton.org/2026/11/18/from-the-artificial-trailer-the.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/18/warms-my-heart-seeing-floyd.html",
+				
+				"content_html": "<p>Warms my heart <a href=\"https://www.youtube.com/watch?v=AdDI1-Lze8s\">seeing Floyd Norman honored with an Oscar</a>. And at 91, still looks like he&rsquo;s doing really well! From his speech about early days at Disney:</p>\n<blockquote>\n<p>I grew up on those films. But the artists, the veterans were generous, and they shared their considerable knowledge with me. And a special thanks to the best mentor a filmmaker could ever have, Walt Disney.</p>\n</blockquote>\n<p>Years ago when I was spending a lot of my free time working on a short film, I&rsquo;d hang out in the Animation Nation forums and would sometimes see Floyd post there, sharing stories. Like he was just a normal person and not a legend.</p>\n",
+				"content_text": "Warms my heart [seeing Floyd Norman honored with an Oscar](https://www.youtube.com/watch?v=AdDI1-Lze8s). And at 91, still looks like he's doing really well! From his speech about early days at Disney:\n\n> I grew up on those films. But the artists, the veterans were generous, and they shared their considerable knowledge with me. And a special thanks to the best mentor a filmmaker could ever have, Walt Disney.\n\nYears ago when I was spending a lot of my free time working on a short film, I'd hang out in the Animation Nation forums and would sometimes see Floyd post there, sharing stories. Like he was just a normal person and not a legend.\n",
+				"date_published": "2026-11-18T15:08:22-06:00",
+				"url": "https://www.manton.org/2026/11/18/warms-my-heart-seeing-floyd.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/18/the-differences-between-openais-best.html",
+				
+				"content_html": "<p>The differences between OpenAI&rsquo;s best models and Anthropic&rsquo;s best models are mostly just vibes now. I think we&rsquo;re approaching a time when there won&rsquo;t be a model picker except for very advanced tasks. This is actually something I love about OpenAI dots. No model choice. You get Astra and that&rsquo;s it.</p>\n",
+				"content_text": "The differences between OpenAI's best models and Anthropic's best models are mostly just vibes now. I think we're approaching a time when there won't be a model picker except for very advanced tasks. This is actually something I love about OpenAI dots. No model choice. You get Astra and that's it.\n",
+				"date_published": "2026-11-18T14:30:00-06:00",
+				"url": "https://www.manton.org/2026/11/18/the-differences-between-openais-best.html",
+				"tags": ["Artificial Intelligence"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/18/wrote-a-longer-post-about.html",
+				
+				"content_html": "<p>Wrote a longer post about Jensen Huang, spent an hour editing it, but now uncertain whether to publish it. No one needs my opinion. And yet it&rsquo;s my blog, and I enjoy blogging. 🙂</p>\n<p>Whenever I feel this way, I file the draft away and go work on something else for a while. There&rsquo;s always code to write.</p>\n",
+				"content_text": "Wrote a longer post about Jensen Huang, spent an hour editing it, but now uncertain whether to publish it. No one needs my opinion. And yet it's my blog, and I enjoy blogging. 🙂\n\nWhenever I feel this way, I file the draft away and go work on something else for a while. There's always code to write.\n",
+				"date_published": "2026-11-18T14:01:17-06:00",
+				"url": "https://www.manton.org/2026/11/18/wrote-a-longer-post-about.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/18/weve-been-thinking-a-lot.html",
+				
+				"content_html": "<p>We&rsquo;ve been thinking a lot about our dog as he gets older. He had 8 brothers and sisters when we adopted him as a pup, and we just heard that all except 1 have passed away. Hoping for a couple more years. Here&rsquo;s a photo from earlier this month of him really wanting one of my fries.</p>\n<img src=\"uploads/2026/ollie-chick-fil-a.jpg\" alt=\"A man sitting at an outdoor table is smiling at a white dog while holding a Chick-fil-A fry, with sauce packets on the table.\">\n",
+				"content_text": "We've been thinking a lot about our dog as he gets older. He had 8 brothers and sisters when we adopted him as a pup, and we just heard that all except 1 have passed away. Hoping for a couple more years. Here's a photo from earlier this month of him really wanting one of my fries.\n\n<img src=\"uploads/2026/ollie-chick-fil-a.jpg\" alt=\"A man sitting at an outdoor table is smiling at a white dog while holding a Chick-fil-A fry, with sauce packets on the table.\">\n",
+				"date_published": "2026-11-18T12:24:35-06:00",
+				"url": "https://www.manton.org/2026/11/18/weve-been-thinking-a-lot.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/18/from-matt-mullenwegs-blog-post.html",
+				
+				"content_html": "<p>From <a href=\"https://ma.tt/2026/11/new-tlds/\">Matt Mullenweg&rsquo;s blog post</a> about new TLDs, I randomly clicked around some of the new potential TLDs. There are so many. Looks like Bluesky&rsquo;s application for <code>.bsky</code> was uncontested too.</p>\n",
+				"content_text": "From [Matt Mullenweg's blog post](https://ma.tt/2026/11/new-tlds/) about new TLDs, I randomly clicked around some of the new potential TLDs. There are so many. Looks like Bluesky's application for `.bsky` was uncontested too.\n",
+				"date_published": "2026-11-18T10:54:54-06:00",
+				"url": "https://www.manton.org/2026/11/18/from-matt-mullenwegs-blog-post.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/18/i-recorded-a-quick-minute.html",
+				
+				"content_html": "<p>I recorded a quick 2-minute demo of an improvement to Micro.blog theme editing. You can now drag files into a theme&rsquo;s &ldquo;static&rdquo; folder. Before this, it required putting the files on GitHub, much too fiddly.</p>\n<p><video src=\"https://cdn.uploads.micro.mov/10/2026/drop-static/playlist.m3u8\" poster=\"https://cdn.uploads.micro.blog/10/2026/frames/1898225-0-c72cfe.jpg\" width=\"1280\" height=\"866\" controls=\"controls\" playsinline=\"playsinline\" preload=\"metadata\"></video></p>\n",
+				"content_text": "I recorded a quick 2-minute demo of an improvement to Micro.blog theme editing. You can now drag files into a theme's \"static\" folder. Before this, it required putting the files on GitHub, much too fiddly.\n\n<video src=\"https://cdn.uploads.micro.mov/10/2026/drop-static/playlist.m3u8\" poster=\"https://cdn.uploads.micro.blog/10/2026/frames/1898225-0-c72cfe.jpg\" width=\"1280\" height=\"866\" controls=\"controls\" playsinline=\"playsinline\" preload=\"metadata\"></video>\n",
+				"date_published": "2026-11-18T10:41:21-06:00",
+				"url": "https://www.manton.org/2026/11/18/i-recorded-a-quick-minute.html",
+				"tags": ["Videos"]
+			},
+			{
 				"id": "http://manton.micro.blog/2026/11/17/while-i-was-in-the.html",
 				
 				"content_html": "<p>While I was in the air, OpenAI finally released GPT-6.2 Sol and Astra. I&rsquo;m taking them out for a spin. We are so used to AI models leap-frogging each other every month, maybe those days are over as OpenAI has been steering back to safety after the Hugging Face hack.</p>\n",
@@ -25,8 +84,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/11/16/blazers-vs-timberwolves.html",
 				
-				"content_html": "<p>Blazers vs. Timberwolves. 🏀</p>\n<img src=\"uploads/2026/3766762c-702e-4f2f-84b6-91b286084660.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "Blazers vs. Timberwolves. 🏀\n\n<img src=\"uploads/2026/3766762c-702e-4f2f-84b6-91b286084660.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Blazers vs. Timberwolves. 🏀</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/3766762c-702e-4f2f-84b6-91b286084660.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Blazers vs. Timberwolves. 🏀\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/3766762c-702e-4f2f-84b6-91b286084660.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-11-16T21:07:38-06:00",
 				"url": "https://www.manton.org/2026/11/16/blazers-vs-timberwolves.html",
 				"tags": ["Photos"]
@@ -182,8 +241,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/11/13/easier-map-embeds.html",
 				"title": "Easier map embeds",
-				"content_html": "<p>I have a new version of <a href=\"https://sunlit.io/\">Sunlit</a> in review at Apple, and Android in development, so I wanted to improve how Micro.blog allows map embeds on your blog for check-ins. I&rsquo;ve updated the default theme Sumo to support this directly. The Hugo code is really simple now:</p>\n<pre tabindex=\"0\"><code>{{ with .Params.location.map_url }}\n  &lt;img src=&#34;{{ . }}&#34;&gt;\n{{ end }}\n</code></pre><p>You can also include a <code>size</code> parameter at the end for larger maps — &ldquo;s&rdquo;, &ldquo;m&rdquo;, &ldquo;l&rdquo;, or &ldquo;xl&rdquo; — like <code>&amp;size=m</code> for a medium (600x600) map.</p>\n<p>It looks like this on my check-ins blog:</p>\n<img src=\"uploads/2026/paste-cf2e5a04.png\" alt=\"Map thumbnail.\" style=\"max-width: 300px;\">\n<p>We&rsquo;ll update the other themes over time, or you can edit the templates on your blog to include the above code. Some themes may need a little extra CSS so that maps look good. For more details about Micro.blog&rsquo;s support for locations, including sending location data via the API, check out <a href=\"https://help.micro.blog/t/location-api-data/106\">this help page</a>.</p>\n",
-				"content_text": "I have a new version of [Sunlit](https://sunlit.io/) in review at Apple, and Android in development, so I wanted to improve how Micro.blog allows map embeds on your blog for check-ins. I've updated the default theme Sumo to support this directly. The Hugo code is really simple now:\n\n```\n{{ with .Params.location.map_url }}\n  <img src=\"{{ . }}\">\n{{ end }}\n```\n\nYou can also include a `size` parameter at the end for larger maps — \"s\", \"m\", \"l\", or \"xl\" — like `&size=m` for a medium (600x600) map.\n\nIt looks like this on my check-ins blog:\n\n<img src=\"uploads/2026/paste-cf2e5a04.png\" alt=\"Map thumbnail.\" style=\"max-width: 300px;\">\n\nWe'll update the other themes over time, or you can edit the templates on your blog to include the above code. Some themes may need a little extra CSS so that maps look good. For more details about Micro.blog's support for locations, including sending location data via the API, check out [this help page](https://help.micro.blog/t/location-api-data/106).\n",
+				"content_html": "<p>I have a new version of <a href=\"https://sunlit.io/\">Sunlit</a> in review at Apple, and Android in development, so I wanted to improve how Micro.blog allows map embeds on your blog for check-ins. I&rsquo;ve updated the default theme Sumo to support this directly. The Hugo code is really simple now:</p>\n<pre tabindex=\"0\"><code>{{ with .Params.location.map_url }}\n  &lt;img src=&#34;{{ . }}&#34;&gt;\n{{ end }}\n</code></pre><p>You can also include a <code>size</code> parameter at the end for larger maps — &ldquo;s&rdquo;, &ldquo;m&rdquo;, &ldquo;l&rdquo;, or &ldquo;xl&rdquo; — like <code>&amp;size=m</code> for a medium (600x600) map.</p>\n<p>It looks like this on my check-ins blog:</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-cf2e5a04.png\" alt=\"Map thumbnail.\" style=\"max-width: 300px;\">\n<p>We&rsquo;ll update the other themes over time, or you can edit the templates on your blog to include the above code. Some themes may need a little extra CSS so that maps look good. For more details about Micro.blog&rsquo;s support for locations, including sending location data via the API, check out <a href=\"https://help.micro.blog/t/location-api-data/106\">this help page</a>.</p>\n",
+				"content_text": "I have a new version of [Sunlit](https://sunlit.io/) in review at Apple, and Android in development, so I wanted to improve how Micro.blog allows map embeds on your blog for check-ins. I've updated the default theme Sumo to support this directly. The Hugo code is really simple now:\n\n```\n{{ with .Params.location.map_url }}\n  <img src=\"{{ . }}\">\n{{ end }}\n```\n\nYou can also include a `size` parameter at the end for larger maps — \"s\", \"m\", \"l\", or \"xl\" — like `&size=m` for a medium (600x600) map.\n\nIt looks like this on my check-ins blog:\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-cf2e5a04.png\" alt=\"Map thumbnail.\" style=\"max-width: 300px;\">\n\nWe'll update the other themes over time, or you can edit the templates on your blog to include the above code. Some themes may need a little extra CSS so that maps look good. For more details about Micro.blog's support for locations, including sending location data via the API, check out [this help page](https://help.micro.blog/t/location-api-data/106).\n",
 				"date_published": "2026-11-13T13:04:59-06:00",
 				"url": "https://www.manton.org/2026/11/13/easier-map-embeds.html",
 				"tags": ["Photos","Essays"]
