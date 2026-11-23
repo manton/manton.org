@@ -7,6 +7,56 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/11/22/tired-dog.html",
+				
+				"content_html": "<p>Tired dog.</p>\n<img src=\"uploads/2026/a683b9f9-de81-484c-83b5-6eb5113c9621.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Tired dog.\n\n<img src=\"uploads/2026/a683b9f9-de81-484c-83b5-6eb5113c9621.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-11-22T15:25:00-06:00",
+				"url": "https://www.manton.org/2026/11/22/tired-dog.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/22/more-incredible-stats-from-victor.html",
+				
+				"content_html": "<p><a href=\"https://www.espn.com/nba/story/_/id/50559763/victor-wembanyama-shows-50-point-5-block-performance\">More incredible stats</a> from Victor Wembanyama last night:</p>\n<blockquote>\n<p>&hellip; he also became the first player in the play-by-play era to tally at least 30 points, 10 rebounds, three blocks and three steals in a half&hellip;</p>\n</blockquote>\n<p>Whenever I&rsquo;m feeling lucky he&rsquo;s on the Spurs, I think of that line from <em>Meet Me In St. Louis</em>&hellip; &ldquo;Wasn&rsquo;t I lucky to be born in my favorite city?&rdquo;</p>\n",
+				"content_text": "[More incredible stats](https://www.espn.com/nba/story/_/id/50559763/victor-wembanyama-shows-50-point-5-block-performance) from Victor Wembanyama last night:\n\n> ... he also became the first player in the play-by-play era to tally at least 30 points, 10 rebounds, three blocks and three steals in a half...\n\nWhenever I'm feeling lucky he's on the Spurs, I think of that line from _Meet Me In St. Louis_... \"Wasn't I lucky to be born in my favorite city?\"\n",
+				"date_published": "2026-11-22T15:00:00-06:00",
+				"url": "https://www.manton.org/2026/11/22/more-incredible-stats-from-victor.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/22/love-this-blog-post-about.html",
+				
+				"content_html": "<p><a href=\"https://silentbookclub.substack.com/p/celebrating-jolabokaflo-in-iceland\">Love this blog post</a> about Silent Book Club reading retreats to Iceland:</p>\n<blockquote>\n<p>Silent Book Club just wrapped two reading retreats in Iceland, and each trip felt like something out of a dream—or at least out of a very good novel with a lot of weather in it. The itinerary was full but never frantic. It was equal parts adventure and rest, balancing stunning scenery with time to cozy up with a good book.</p>\n</blockquote>\n<p>We took a break from holding Micro.camp events. Maybe we should pivot to Micro.blog group trips and meetups. Everyone is tired of Zoom.</p>\n",
+				"content_text": "[Love this blog post](https://silentbookclub.substack.com/p/celebrating-jolabokaflo-in-iceland) about Silent Book Club reading retreats to Iceland:\n\n> Silent Book Club just wrapped two reading retreats in Iceland, and each trip felt like something out of a dream—or at least out of a very good novel with a lot of weather in it. The itinerary was full but never frantic. It was equal parts adventure and rest, balancing stunning scenery with time to cozy up with a good book.\n\nWe took a break from holding Micro.camp events. Maybe we should pivot to Micro.blog group trips and meetups. Everyone is tired of Zoom.\n",
+				"date_published": "2026-11-22T13:48:41-06:00",
+				"url": "https://www.manton.org/2026/11/22/love-this-blog-post-about.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/22/my-opinion-hasnt-changed-about.html",
+				
+				"content_html": "<p>My opinion hasn&rsquo;t changed about LiDAR for self-driving. It just seems better. And while I&rsquo;m never going to buy a Tesla, I&rsquo;ve gotta admit that their FSD v15 is a little ming-boggling. Wish normal cars were adding more cameras and better software.</p>\n",
+				"content_text": "My opinion hasn't changed about LiDAR for self-driving. It just seems better. And while I'm never going to buy a Tesla, I've gotta admit that their FSD v15 is a little ming-boggling. Wish normal cars were adding more cameras and better software.\n",
+				"date_published": "2026-11-22T12:40:53-06:00",
+				"url": "https://www.manton.org/2026/11/22/my-opinion-hasnt-changed-about.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/22/openai-dot-seems-to-be.html",
+				
+				"content_html": "<p>OpenAI dot seems to be becoming more proactive. I got this message this weekend, unprompted. If you don&rsquo;t mind the creepiness of it knowing way too much about me, it&rsquo;s amazing.</p>\n<img src=\"uploads/2026/paste-f7a0a409.png\" width=\"600\" height=\"204\" alt=\"\">\n",
+				"content_text": "OpenAI dot seems to be becoming more proactive. I got this message this weekend, unprompted. If you don't mind the creepiness of it knowing way too much about me, it's amazing.\n\n<img src=\"uploads/2026/paste-f7a0a409.png\" width=\"600\" height=\"204\" alt=\"\">\n",
+				"date_published": "2026-11-22T12:03:09-06:00",
+				"url": "https://www.manton.org/2026/11/22/openai-dot-seems-to-be.html",
+				"tags": ["Photos","Artificial Intelligence"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/22/really-good-feedback-from-folks.html",
+				
+				"content_html": "<p>Really good feedback from folks about the new Bluesky cross-post threading this weekend. I&rsquo;ve now deployed several more improvements.</p>\n",
+				"content_text": "Really good feedback from folks about the new Bluesky cross-post threading this weekend. I've now deployed several more improvements.\n",
+				"date_published": "2026-11-22T11:32:52-06:00",
+				"url": "https://www.manton.org/2026/11/22/really-good-feedback-from-folks.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/11/21/watched-i-play-rocky-this.html",
 				
 				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FjKW6b89n5EGbJXtxTZYBcDHLpYg.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/movie/1286656\">I Play Rocky</a>. This was so good. Anthony Ippolito becomes Stallone completely. 🍿</p>\n",
@@ -26,8 +76,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/11/21/interesting-experiment-i-just-searched.html",
 				
-				"content_html": "<p>Interesting experiment: I just searched &ldquo;extraordinary&rdquo; on my blog. Here&rsquo;s a screenshot of some of the posts that come back in the Mac app.</p>\n<img src=\"uploads/2026/paste-27d3ee82.png\" width=\"478\" height=\"600\" alt=\"\">\n",
-				"content_text": "Interesting experiment: I just searched \"extraordinary\" on my blog. Here's a screenshot of some of the posts that come back in the Mac app.\n\n<img src=\"uploads/2026/paste-27d3ee82.png\" width=\"478\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Interesting experiment: I just searched &ldquo;extraordinary&rdquo; on my blog. Here&rsquo;s a screenshot of some of the posts that come back in the Mac app.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-27d3ee82.png\" width=\"478\" height=\"600\" alt=\"\">\n",
+				"content_text": "Interesting experiment: I just searched \"extraordinary\" on my blog. Here's a screenshot of some of the posts that come back in the Mac app.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-27d3ee82.png\" width=\"478\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-11-21T13:30:00-06:00",
 				"url": "https://www.manton.org/2026/11/21/interesting-experiment-i-just-searched.html",
 				"tags": ["Photos"]
@@ -43,8 +93,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/11/21/fixing-funny-edge-case-bugs.html",
 				
-				"content_html": "<p>Fixing funny edge case bugs in the new Bluesky threading. In this screenshot, Micro.blog tried to be smart and split the post after a period&hellip; But then the closing quotation mark fell to the next post. 🤪</p>\n<img src=\"uploads/2026/paste-e9d5e203.png\" width=\"600\" height=\"517\" alt=\"\">\n",
-				"content_text": "Fixing funny edge case bugs in the new Bluesky threading. In this screenshot, Micro.blog tried to be smart and split the post after a period... But then the closing quotation mark fell to the next post. 🤪\n\n<img src=\"uploads/2026/paste-e9d5e203.png\" width=\"600\" height=\"517\" alt=\"\">\n",
+				"content_html": "<p>Fixing funny edge case bugs in the new Bluesky threading. In this screenshot, Micro.blog tried to be smart and split the post after a period&hellip; But then the closing quotation mark fell to the next post. 🤪</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-e9d5e203.png\" width=\"600\" height=\"517\" alt=\"\">\n",
+				"content_text": "Fixing funny edge case bugs in the new Bluesky threading. In this screenshot, Micro.blog tried to be smart and split the post after a period... But then the closing quotation mark fell to the next post. 🤪\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-e9d5e203.png\" width=\"600\" height=\"517\" alt=\"\">\n",
 				"date_published": "2026-11-21T12:29:18-06:00",
 				"url": "https://www.manton.org/2026/11/21/fixing-funny-edge-case-bugs.html",
 				"tags": ["Photos"]
