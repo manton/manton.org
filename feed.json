@@ -7,10 +7,91 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/11/23/stayed-up-late-watching-the.html",
+				
+				"content_html": "<p>Stayed up late watching the Spurs while I run a long database migration. Trying to be extra careful with this one. Triple-checked backups and scripts.</p>\n<p>I designed the original Micro.blog database to be fairly easy to partition data, but I never really followed through on that. Might be time.</p>\n",
+				"content_text": "Stayed up late watching the Spurs while I run a long database migration. Trying to be extra careful with this one. Triple-checked backups and scripts.\n\nI designed the original Micro.blog database to be fairly easy to partition data, but I never really followed through on that. Might be time.\n",
+				"date_published": "2026-11-23T23:31:51-06:00",
+				"url": "https://www.manton.org/2026/11/23/stayed-up-late-watching-the.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/23/from-time-to-time-ive.html",
+				
+				"content_html": "<p>From time to time I&rsquo;ve seen a few blog posts about the <a href=\"https://ladybird.org/\">Ladybird</a> browser engine, but I never got a clear message about what the developers hoped to accomplish by creating a new renderer from scratch. Reading the website today after their alpha release:</p>\n<blockquote>\n<p>The web is the most important platform in computing, yet only a small number of browser engines power the entire thing, each controlled by a company with its own agenda.</p>\n</blockquote>\n<p>You know what, that&rsquo;s a good enough reason for a new take.</p>\n",
+				"content_text": "From time to time I've seen a few blog posts about the [Ladybird](https://ladybird.org/) browser engine, but I never got a clear message about what the developers hoped to accomplish by creating a new renderer from scratch. Reading the website today after their alpha release:\n\n> The web is the most important platform in computing, yet only a small number of browser engines power the entire thing, each controlled by a company with its own agenda.\n\nYou know what, that's a good enough reason for a new take.\n",
+				"date_published": "2026-11-23T15:46:17-06:00",
+				"url": "https://www.manton.org/2026/11/23/from-time-to-time-ive.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/23/apparently-its-a-good-day.html",
+				
+				"content_html": "<p>Apparently it&rsquo;s a good day for long-time bloggers to release new Mac apps. <a href=\"https://hypercritical.co/2026/11/23/jetty-pro\">John Siracusa</a> on the release of his app Jetty Pro:</p>\n<blockquote>\n<p>Now, after months of work, I’ve created a bit of a monster. But in the process, I’ve fulfilled a long-held dream of mine—a dream I had set aside years ago because I thought it was impossible. <em>I’ve replaced the Dock.</em></p>\n</blockquote>\n",
+				"content_text": "Apparently it's a good day for long-time bloggers to release new Mac apps. [John Siracusa](https://hypercritical.co/2026/11/23/jetty-pro) on the release of his app Jetty Pro:\n\n> Now, after months of work, I’ve created a bit of a monster. But in the process, I’ve fulfilled a long-held dream of mine—a dream I had set aside years ago because I thought it was impossible. _I’ve replaced the Dock._\n",
+				"date_published": "2026-11-23T14:32:14-06:00",
+				"url": "https://www.manton.org/2026/11/23/apparently-its-a-good-day.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/23/curious-about-at-protocol-if.html",
+				
+				"content_html": "<p>Curious about AT Protocol? If you&rsquo;re like me and learn by example, the best snapshot of what is happening in the atmosphere is to browse someone&rsquo;s public data. For example, look at the records <a href=\"https://pdsls.dev/at://did:plc:pko7wbcggok753hnvndxh3ni\">for me here on PDSls</a>. Click on blog.micro.book or site.standard.document, then click on any record.</p>\n",
+				"content_text": "Curious about AT Protocol? If you're like me and learn by example, the best snapshot of what is happening in the atmosphere is to browse someone's public data. For example, look at the records [for me here on PDSls](https://pdsls.dev/at://did:plc:pko7wbcggok753hnvndxh3ni). Click on blog.micro.book or site.standard.document, then click on any record.\n",
+				"date_published": "2026-11-23T13:27:43-06:00",
+				"url": "https://www.manton.org/2026/11/23/curious-about-at-protocol-if.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/23/stephen-hackett-built-an-app.html",
+				
+				"content_html": "<p>Stephen Hackett <a href=\"https://512pixels.net/2026/11/introducing-cruiser/\">built an app called Cruiser</a> to unify browser history and bookmarks. Looks handy. I can&rsquo;t try it yet because I still haven&rsquo;t upgraded to macOS 27! Need to do that soon.</p>\n<p>Bloggers who have been writing for years about apps and UIs probably have a good sense of how Mac apps should work.</p>\n",
+				"content_text": "Stephen Hackett [built an app called Cruiser](https://512pixels.net/2026/11/introducing-cruiser/) to unify browser history and bookmarks. Looks handy. I can't try it yet because I still haven't upgraded to macOS 27! Need to do that soon.\n\nBloggers who have been writing for years about apps and UIs probably have a good sense of how Mac apps should work.\n",
+				"date_published": "2026-11-23T13:02:54-06:00",
+				"url": "https://www.manton.org/2026/11/23/stephen-hackett-built-an-app.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/23/updated-my-nba-arenas-page.html",
+				
+				"content_html": "<p><audio src=\"https://www.manton.org/uploads/2026/narration.m4a\" preload=\"metadata\" style=\"display: none\"></audio>\nUpdated my <a href=\"https://www.manton.org/nba-arenas/\">NBA arenas page</a> for last week&rsquo;s Timberwolves game. Almost halfway to the goal after 11 years. 🏀</p>\n<p><audio controls=\"controls\" src=\"https://www.manton.org/uploads/2026/narration.m4a\" preload=\"metadata\" style=\"display: none;\"></audio></p>\n",
+				"content_text": "<audio src=\"https://www.manton.org/uploads/2026/narration.m4a\" preload=\"metadata\" style=\"display: none\"></audio>\nUpdated my [NBA arenas page](https://www.manton.org/nba-arenas/) for last week's Timberwolves game. Almost halfway to the goal after 11 years. 🏀\n\n<audio controls=\"controls\" src=\"https://www.manton.org/uploads/2026/narration.m4a\" preload=\"metadata\" style=\"display: none;\"></audio>\n",
+				"date_published": "2026-11-23T12:11:40-06:00",
+				"url": "https://www.manton.org/2026/11/23/updated-my-nba-arenas-page.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/23/kagi-released-the-public-beta.html",
+				
+				"content_html": "<p>Kagi released <a href=\"https://kagi.com/products/mail\">the public beta of Kagi Mail</a>. Looks thoughtful and fast. Some features a little reminiscent of Hey mail:</p>\n<blockquote>\n<p>Where we&rsquo;re headed is an inbox where the people who need you come first. New senders wait for your approval, newsletters get their own view, and the emails waiting on your reply get flagged.</p>\n</blockquote>\n",
+				"content_text": "Kagi released [the public beta of Kagi Mail](https://kagi.com/products/mail). Looks thoughtful and fast. Some features a little reminiscent of Hey mail:\n\n> Where we're headed is an inbox where the people who need you come first. New senders wait for your approval, newsletters get their own view, and the emails waiting on your reply get flagged.\n",
+				"date_published": "2026-11-23T11:49:57-06:00",
+				"url": "https://www.manton.org/2026/11/23/kagi-released-the-public-beta.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/23/pulling-up-the-tech-podcasts.html",
+				
+				"content_html": "<p>Pulling up the tech podcasts in my queue while walking to the coffee shop. Pretty much all obsolete with Jensen Huang back. Looking forward to all the new hot takes / emergency podcasts that will hit over the next 24 hours.</p>\n",
+				"content_text": "Pulling up the tech podcasts in my queue while walking to the coffee shop. Pretty much all obsolete with Jensen Huang back. Looking forward to all the new hot takes / emergency podcasts that will hit over the next 24 hours.\n",
+				"date_published": "2026-11-23T10:39:22-06:00",
+				"url": "https://www.manton.org/2026/11/23/pulling-up-the-tech-podcasts.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/23/my-blog-post-this-morning.html",
+				
+				"content_html": "<p><a href=\"https://www.manton.org/2026/11/23/bootstrapped.html\">My blog post this morning</a> is out of place with all the Nvidia news. I finished writing it over the weekend and just had it scheduled to go out, so I wouldn’t forget or change my mind publishing it.</p>\n",
+				"content_text": "[My blog post this morning](https://www.manton.org/2026/11/23/bootstrapped.html) is out of place with all the Nvidia news. I finished writing it over the weekend and just had it scheduled to go out, so I wouldn’t forget or change my mind publishing it.\n",
+				"date_published": "2026-11-23T09:34:36-06:00",
+				"url": "https://www.manton.org/2026/11/23/my-blog-post-this-morning.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/23/bootstrapped.html",
+				"title": "Bootstrapped",
+				"content_html": "<p><a href=\"https://cassidoo.co/post/dying-indies/\">Cassidy Williams had an interesting post</a> wondering about the small platforms that are shutting down, and the indie developers who can survive. What struck me about it is the &ldquo;bootstrapped, profitable&rdquo; tools section. The truth is, on the internet no one really knows if you&rsquo;re actually a profitable small business or if you&rsquo;re a side project that has no expectation of supporting a family or employees.</p>\n<p>Side projects are great! With AI-assisted coding, we are going to see more of them. But they do not carry the same stress and risk.</p>\n<p>I&rsquo;ve put my heart and soul into Micro.blog for 10 years. <a href=\"https://www.manton.org/2015/08/03/starting-over.html\">I quit</a> a great job. I gave up good benefits. I wrecked my retirement plans. I ignored credit card debt. I worked long hours. Not all indie businesses need to do this, of course, but I think many founders can probably relate to it.</p>\n<p>This is why it hit me so hard a couple years ago when someone encouraged people to leave Micro.blog. Indie developers support each other because we know how hard it is. It&rsquo;s a totally foreign concept to me that someone would actively celebrate customers leaving another indie&rsquo;s platform.</p>\n<p>I&rsquo;m happy to say that Micro.blog is doing well right now. I&rsquo;m so thankful to all the indie developers who have supported me over the years, my current small team with Sven, Vincent, and Bonnie, and all our customers.</p>\n<p>We are all stars of our own story. I get that. And I try to be empathetic with others, because you never know what someone is going through in the part of their life that isn&rsquo;t online. This post is only my perspective, with a few details that I don&rsquo;t usually share. It&rsquo;s quite personal for me.</p>\n",
+				"content_text": "[Cassidy Williams had an interesting post](https://cassidoo.co/post/dying-indies/) wondering about the small platforms that are shutting down, and the indie developers who can survive. What struck me about it is the \"bootstrapped, profitable\" tools section. The truth is, on the internet no one really knows if you're actually a profitable small business or if you're a side project that has no expectation of supporting a family or employees.\n\nSide projects are great! With AI-assisted coding, we are going to see more of them. But they do not carry the same stress and risk.\n\nI've put my heart and soul into Micro.blog for 10 years. [I quit](https://www.manton.org/2015/08/03/starting-over.html) a great job. I gave up good benefits. I wrecked my retirement plans. I ignored credit card debt. I worked long hours. Not all indie businesses need to do this, of course, but I think many founders can probably relate to it.\n\nThis is why it hit me so hard a couple years ago when someone encouraged people to leave Micro.blog. Indie developers support each other because we know how hard it is. It's a totally foreign concept to me that someone would actively celebrate customers leaving another indie's platform.\n\nI'm happy to say that Micro.blog is doing well right now. I'm so thankful to all the indie developers who have supported me over the years, my current small team with Sven, Vincent, and Bonnie, and all our customers.\n\nWe are all stars of our own story. I get that. And I try to be empathetic with others, because you never know what someone is going through in the part of their life that isn't online. This post is only my perspective, with a few details that I don't usually share. It's quite personal for me.\n",
+				"date_published": "2026-11-23T09:00:00-06:00",
+				"url": "https://www.manton.org/2026/11/23/bootstrapped.html",
+				"tags": ["Essays"]
+			},
+			{
 				"id": "http://manton.micro.blog/2026/11/22/tired-dog.html",
 				
-				"content_html": "<p>Tired dog.</p>\n<img src=\"uploads/2026/a683b9f9-de81-484c-83b5-6eb5113c9621.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "Tired dog.\n\n<img src=\"uploads/2026/a683b9f9-de81-484c-83b5-6eb5113c9621.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Tired dog.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/a683b9f9-de81-484c-83b5-6eb5113c9621.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Tired dog.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/a683b9f9-de81-484c-83b5-6eb5113c9621.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-11-22T15:25:00-06:00",
 				"url": "https://www.manton.org/2026/11/22/tired-dog.html",
 				"tags": ["Photos"]
@@ -42,8 +123,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/11/22/openai-dot-seems-to-be.html",
 				
-				"content_html": "<p>OpenAI dot seems to be becoming more proactive. I got this message this weekend, unprompted. If you don&rsquo;t mind the creepiness of it knowing way too much about me, it&rsquo;s amazing.</p>\n<img src=\"uploads/2026/paste-f7a0a409.png\" width=\"600\" height=\"204\" alt=\"\">\n",
-				"content_text": "OpenAI dot seems to be becoming more proactive. I got this message this weekend, unprompted. If you don't mind the creepiness of it knowing way too much about me, it's amazing.\n\n<img src=\"uploads/2026/paste-f7a0a409.png\" width=\"600\" height=\"204\" alt=\"\">\n",
+				"content_html": "<p>OpenAI dot seems to be becoming more proactive. I got this message this weekend, unprompted. If you don&rsquo;t mind the creepiness of it knowing way too much about me, it&rsquo;s amazing.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-f7a0a409.png\" width=\"600\" height=\"204\" alt=\"\">\n",
+				"content_text": "OpenAI dot seems to be becoming more proactive. I got this message this weekend, unprompted. If you don't mind the creepiness of it knowing way too much about me, it's amazing.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-f7a0a409.png\" width=\"600\" height=\"204\" alt=\"\">\n",
 				"date_published": "2026-11-22T12:03:09-06:00",
 				"url": "https://www.manton.org/2026/11/22/openai-dot-seems-to-be.html",
 				"tags": ["Photos","Artificial Intelligence"]
@@ -293,8 +374,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/11/18/weve-been-thinking-a-lot.html",
 				
-				"content_html": "<p>We&rsquo;ve been thinking a lot about our dog as he gets older. He had 8 brothers and sisters when we adopted him as a pup, and we just heard that all except 1 have passed away. Hoping for a couple more years. Here&rsquo;s a photo from earlier this month of him really wanting one of my fries.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/ollie-chick-fil-a.jpg\" alt=\"A man sitting at an outdoor table is smiling at a white dog while holding a Chick-fil-A fry, with sauce packets on the table.\">\n",
-				"content_text": "We've been thinking a lot about our dog as he gets older. He had 8 brothers and sisters when we adopted him as a pup, and we just heard that all except 1 have passed away. Hoping for a couple more years. Here's a photo from earlier this month of him really wanting one of my fries.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/ollie-chick-fil-a.jpg\" alt=\"A man sitting at an outdoor table is smiling at a white dog while holding a Chick-fil-A fry, with sauce packets on the table.\">\n",
+				"content_html": "<p>We&rsquo;ve been thinking a lot about our dog as he gets older. He had 8 brothers and sisters when we adopted him as a pup, and we just heard that all except 1 have passed away. Hoping for a couple more years. Here&rsquo;s a photo from earlier this month of him really wanting one of my fries.</p>\n<img src=\"uploads/2026/ollie-chick-fil-a.jpg\" alt=\"A man sitting at an outdoor table is smiling at a white dog while holding a Chick-fil-A fry, with sauce packets on the table.\">\n",
+				"content_text": "We've been thinking a lot about our dog as he gets older. He had 8 brothers and sisters when we adopted him as a pup, and we just heard that all except 1 have passed away. Hoping for a couple more years. Here's a photo from earlier this month of him really wanting one of my fries.\n\n<img src=\"uploads/2026/ollie-chick-fil-a.jpg\" alt=\"A man sitting at an outdoor table is smiling at a white dog while holding a Chick-fil-A fry, with sauce packets on the table.\">\n",
 				"date_published": "2026-11-18T12:24:35-06:00",
 				"url": "https://www.manton.org/2026/11/18/weve-been-thinking-a-lot.html",
 				"tags": ["Photos"]
