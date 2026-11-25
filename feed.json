@@ -7,6 +7,65 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/11/25/federico-viticci-explored-how-claudes.html",
+				
+				"content_html": "<p><a href=\"https://www.macstories.net/stories/a-closer-look-at-claudes-mac-apps/\">Federico Viticci explored</a> how Claude&rsquo;s new &ldquo;save as Mac app&rdquo; feature works. It reminds me of ChatGPT Sites more than Mac apps, just in terms of how it&rsquo;s tied to the AI company&rsquo;s infrastructure:</p>\n<blockquote>\n<p>&hellip;entirely bypassing the App Store or Apple’s notarization system for apps distributed outside the App Store, and by creating their own lock-in system around Claude’s identity and capabilities instead.</p>\n</blockquote>\n<p>Better would be building apps that could be distributed with Developer ID. But that is beyond what most users can deal with, and Anthropic&rsquo;s nature means they would prefer to have tight control anyway.</p>\n",
+				"content_text": "[Federico Viticci explored](https://www.macstories.net/stories/a-closer-look-at-claudes-mac-apps/) how Claude's new \"save as Mac app\" feature works. It reminds me of ChatGPT Sites more than Mac apps, just in terms of how it's tied to the AI company's infrastructure:\n\n> ...entirely bypassing the App Store or Apple’s notarization system for apps distributed outside the App Store, and by creating their own lock-in system around Claude’s identity and capabilities instead.\n\nBetter would be building apps that could be distributed with Developer ID. But that is beyond what most users can deal with, and Anthropic's nature means they would prefer to have tight control anyway.\n",
+				"date_published": "2026-11-25T12:31:49-06:00",
+				"url": "https://www.manton.org/2026/11/25/federico-viticci-explored-how-claudes.html",
+				"tags": ["Artificial Intelligence","App Store"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/24/train-bridge-and-west-austin.html",
+				
+				"content_html": "<p>Train bridge and west Austin from the library.</p>\n<img src=\"uploads/2026/1cd66a65-a58a-4bf7-a77f-9ac494cf7484.jpg\" width=\"600\" height=\"600\" alt=\"A train decorated with colorful graffiti is crossing a bridge over a road surrounded by lush green trees and open grassy areas.\">\n",
+				"content_text": "Train bridge and west Austin from the library.\n\n\n<img src=\"uploads/2026/1cd66a65-a58a-4bf7-a77f-9ac494cf7484.jpg\" width=\"600\" height=\"600\" alt=\"A train decorated with colorful graffiti is crossing a bridge over a road surrounded by lush green trees and open grassy areas.\">\n",
+				"date_published": "2026-11-24T14:56:59-06:00",
+				"url": "https://www.manton.org/2026/11/24/train-bridge-and-west-austin.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/24/i-forgot-to-click-send.html",
+				
+				"content_html": "<p>I forgot to click &ldquo;send&rdquo; on the Micro Monday email newsletter yesterday after <a href=\"https://micro.blog/BonnieRue\">@BonnieRue</a> had put it together. Whoops! It just went out now, and <a href=\"https://monday.micro.blog/2026/11/24/micro-monday-on-a-tuesday.html\">you can find it on the web here</a>.</p>\n<p>We&rsquo;re planning something special for December. A holiday photo challenge + giveaway. Working out the details now.</p>\n",
+				"content_text": "I forgot to click \"send\" on the Micro Monday email newsletter yesterday after [@BonnieRue](https://micro.blog/BonnieRue) had put it together. Whoops! It just went out now, and [you can find it on the web here](https://monday.micro.blog/2026/11/24/micro-monday-on-a-tuesday.html).\n\nWe're planning something special for December. A holiday photo challenge + giveaway. Working out the details now.\n",
+				"date_published": "2026-11-24T14:30:07-06:00",
+				"url": "https://www.manton.org/2026/11/24/i-forgot-to-click-send.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/24/its-actually-getting-cold-in.html",
+				
+				"content_html": "<p>It’s actually getting cold in Austin. Walked back from the coffee shop and hadn’t noticed it had started to rain a little while I was inside. Thinking about finding a cozy place to work this afternoon, like the library.</p>\n",
+				"content_text": "It’s actually getting cold in Austin. Walked back from the coffee shop and hadn’t noticed it had started to rain a little while I was inside. Thinking about finding a cozy place to work this afternoon, like the library.\n",
+				"date_published": "2026-11-24T13:12:28-06:00",
+				"url": "https://www.manton.org/2026/11/24/its-actually-getting-cold-in.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/24/u-tour-dates-for-north.html",
+				
+				"content_html": "<p><a href=\"https://www.u2.com/pages/tours\">U2 tour dates</a> for North America announced! Still digesting the new album, which I like a lot so far. This tour feels like a big deal.</p>\n",
+				"content_text": "[U2 tour dates](https://www.u2.com/pages/tours) for North America announced! Still digesting the new album, which I like a lot so far. This tour feels like a big deal.\n",
+				"date_published": "2026-11-24T11:45:00-06:00",
+				"url": "https://www.manton.org/2026/11/24/u-tour-dates-for-north.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/24/congrats-to-dan-moren-on.html",
+				
+				"content_html": "<p>Congrats to Dan Moren on another book release! <a href=\"https://dmoren.com/writing/eternitys-tomb/\">Eternity&rsquo;s Tomb</a> is out today. Sounds fun. 📚</p>\n",
+				"content_text": "Congrats to Dan Moren on another book release! [Eternity's Tomb](https://dmoren.com/writing/eternitys-tomb/) is out today. Sounds fun. 📚\n",
+				"date_published": "2026-11-24T11:30:00-06:00",
+				"url": "https://www.manton.org/2026/11/24/congrats-to-dan-moren-on.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/24/i-posted-a-short-video.html",
+				
+				"content_html": "<p>I posted <a href=\"https://www.youtube.com/watch?v=4QY7BMvM1rA\">a short video to YouTube</a> to demo how <a href=\"https://wavelength.micro.blog/\">Wavelength for Mac</a> works. It shows simple recording, editing, and adding audio narration to an existing blog post.</p>\n",
+				"content_text": "I posted [a short video to YouTube](https://www.youtube.com/watch?v=4QY7BMvM1rA) to demo how [Wavelength for Mac](https://wavelength.micro.blog/) works. It shows simple recording, editing, and adding audio narration to an existing blog post.\n",
+				"date_published": "2026-11-24T11:14:21-06:00",
+				"url": "https://www.manton.org/2026/11/24/i-posted-a-short-video.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/11/23/stayed-up-late-watching-the.html",
 				
 				"content_html": "<p>Stayed up late watching the Spurs while I run a long database migration. Trying to be extra careful with this one. Triple-checked backups and scripts.</p>\n<p>I designed the original Micro.blog database to be fairly easy to partition data, but I never really followed through on that. Might be time.</p>\n",
@@ -49,8 +108,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/11/23/updated-my-nba-arenas-page.html",
 				
-				"content_html": "<p><audio src=\"https://www.manton.org/uploads/2026/narration.m4a\" preload=\"metadata\" style=\"display: none\"></audio>\nUpdated my <a href=\"https://www.manton.org/nba-arenas/\">NBA arenas page</a> for last week&rsquo;s Timberwolves game. Almost halfway to the goal after 11 years. 🏀</p>\n<p><audio controls=\"controls\" src=\"https://www.manton.org/uploads/2026/narration.m4a\" preload=\"metadata\" style=\"display: none;\"></audio></p>\n",
-				"content_text": "<audio src=\"https://www.manton.org/uploads/2026/narration.m4a\" preload=\"metadata\" style=\"display: none\"></audio>\nUpdated my [NBA arenas page](https://www.manton.org/nba-arenas/) for last week's Timberwolves game. Almost halfway to the goal after 11 years. 🏀\n\n<audio controls=\"controls\" src=\"https://www.manton.org/uploads/2026/narration.m4a\" preload=\"metadata\" style=\"display: none;\"></audio>\n",
+				"content_html": "<p><audio src=\"https://cdn.uploads.micro.blog/10/2026/narration.m4a\" preload=\"metadata\" style=\"display: none\"></audio>\nUpdated my <a href=\"https://www.manton.org/nba-arenas/\">NBA arenas page</a> for last week&rsquo;s Timberwolves game. Almost halfway to the goal after 11 years. 🏀</p>\n<p><audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/10/2026/narration.m4a\" preload=\"metadata\" style=\"display: none;\"></audio></p>\n",
+				"content_text": "<audio src=\"https://cdn.uploads.micro.blog/10/2026/narration.m4a\" preload=\"metadata\" style=\"display: none\"></audio>\nUpdated my [NBA arenas page](https://www.manton.org/nba-arenas/) for last week's Timberwolves game. Almost halfway to the goal after 11 years. 🏀\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/10/2026/narration.m4a\" preload=\"metadata\" style=\"display: none;\"></audio>\n",
 				"date_published": "2026-11-23T12:11:40-06:00",
 				"url": "https://www.manton.org/2026/11/23/updated-my-nba-arenas-page.html"
 			},
@@ -374,8 +433,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/11/18/weve-been-thinking-a-lot.html",
 				
-				"content_html": "<p>We&rsquo;ve been thinking a lot about our dog as he gets older. He had 8 brothers and sisters when we adopted him as a pup, and we just heard that all except 1 have passed away. Hoping for a couple more years. Here&rsquo;s a photo from earlier this month of him really wanting one of my fries.</p>\n<img src=\"uploads/2026/ollie-chick-fil-a.jpg\" alt=\"A man sitting at an outdoor table is smiling at a white dog while holding a Chick-fil-A fry, with sauce packets on the table.\">\n",
-				"content_text": "We've been thinking a lot about our dog as he gets older. He had 8 brothers and sisters when we adopted him as a pup, and we just heard that all except 1 have passed away. Hoping for a couple more years. Here's a photo from earlier this month of him really wanting one of my fries.\n\n<img src=\"uploads/2026/ollie-chick-fil-a.jpg\" alt=\"A man sitting at an outdoor table is smiling at a white dog while holding a Chick-fil-A fry, with sauce packets on the table.\">\n",
+				"content_html": "<p>We&rsquo;ve been thinking a lot about our dog as he gets older. He had 8 brothers and sisters when we adopted him as a pup, and we just heard that all except 1 have passed away. Hoping for a couple more years. Here&rsquo;s a photo from earlier this month of him really wanting one of my fries.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/ollie-chick-fil-a.jpg\" alt=\"A man sitting at an outdoor table is smiling at a white dog while holding a Chick-fil-A fry, with sauce packets on the table.\">\n",
+				"content_text": "We've been thinking a lot about our dog as he gets older. He had 8 brothers and sisters when we adopted him as a pup, and we just heard that all except 1 have passed away. Hoping for a couple more years. Here's a photo from earlier this month of him really wanting one of my fries.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/ollie-chick-fil-a.jpg\" alt=\"A man sitting at an outdoor table is smiling at a white dog while holding a Chick-fil-A fry, with sauce packets on the table.\">\n",
 				"date_published": "2026-11-18T12:24:35-06:00",
 				"url": "https://www.manton.org/2026/11/18/weve-been-thinking-a-lot.html",
 				"tags": ["Photos"]
