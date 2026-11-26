@@ -108,8 +108,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/11/23/updated-my-nba-arenas-page.html",
 				
-				"content_html": "<p><audio src=\"https://cdn.uploads.micro.blog/10/2026/narration.m4a\" preload=\"metadata\" style=\"display: none\"></audio>\nUpdated my <a href=\"https://www.manton.org/nba-arenas/\">NBA arenas page</a> for last week&rsquo;s Timberwolves game. Almost halfway to the goal after 11 years. 🏀</p>\n<p><audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/10/2026/narration.m4a\" preload=\"metadata\" style=\"display: none;\"></audio></p>\n",
-				"content_text": "<audio src=\"https://cdn.uploads.micro.blog/10/2026/narration.m4a\" preload=\"metadata\" style=\"display: none\"></audio>\nUpdated my [NBA arenas page](https://www.manton.org/nba-arenas/) for last week's Timberwolves game. Almost halfway to the goal after 11 years. 🏀\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/10/2026/narration.m4a\" preload=\"metadata\" style=\"display: none;\"></audio>\n",
+				"content_html": "<p>Updated my <a href=\"https://www.manton.org/nba-arenas/\">NBA arenas page</a> for last week&rsquo;s Timberwolves game. Almost halfway to the goal after 11 years. 🏀</p>\n",
+				"content_text": "Updated my [NBA arenas page](https://www.manton.org/nba-arenas/) for last week's Timberwolves game. Almost halfway to the goal after 11 years. 🏀\n",
 				"date_published": "2026-11-23T12:11:40-06:00",
 				"url": "https://www.manton.org/2026/11/23/updated-my-nba-arenas-page.html"
 			},
@@ -182,8 +182,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/11/22/openai-dot-seems-to-be.html",
 				
-				"content_html": "<p>OpenAI dot seems to be becoming more proactive. I got this message this weekend, unprompted. If you don&rsquo;t mind the creepiness of it knowing way too much about me, it&rsquo;s amazing.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-f7a0a409.png\" width=\"600\" height=\"204\" alt=\"\">\n",
-				"content_text": "OpenAI dot seems to be becoming more proactive. I got this message this weekend, unprompted. If you don't mind the creepiness of it knowing way too much about me, it's amazing.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-f7a0a409.png\" width=\"600\" height=\"204\" alt=\"\">\n",
+				"content_html": "<p>OpenAI dot seems to be becoming more proactive. I got this message this weekend, unprompted. If you don&rsquo;t mind the creepiness of it knowing way too much about me, it&rsquo;s amazing.</p>\n<img src=\"uploads/2026/paste-f7a0a409.png\" width=\"600\" height=\"204\" alt=\"\">\n",
+				"content_text": "OpenAI dot seems to be becoming more proactive. I got this message this weekend, unprompted. If you don't mind the creepiness of it knowing way too much about me, it's amazing.\n\n<img src=\"uploads/2026/paste-f7a0a409.png\" width=\"600\" height=\"204\" alt=\"\">\n",
 				"date_published": "2026-11-22T12:03:09-06:00",
 				"url": "https://www.manton.org/2026/11/22/openai-dot-seems-to-be.html",
 				"tags": ["Photos","Artificial Intelligence"]
