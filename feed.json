@@ -7,6 +7,57 @@
 	"items": [
 		
 			{
+				"id": "http://manton.micro.blog/2026/11/27/spurs-vs-lakers.html",
+				
+				"content_html": "<p>Spurs vs. Lakers. 🏀</p>\n<img src=\"uploads/2026/60234425-8607-424a-902e-2f568fdbc749.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Spurs vs. Lakers. 🏀\n\n<img src=\"uploads/2026/60234425-8607-424a-902e-2f568fdbc749.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-11-27T22:36:30-06:00",
+				"url": "https://www.manton.org/2026/11/27/spurs-vs-lakers.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/27/there-are-so-many-random.html",
+				
+				"content_html": "<p>There are so many random AI rumors, I don&rsquo;t think it&rsquo;s useful to speculate too much. But I was curious if RSA is broken, does that mean anything for the encryption we use for Micro.blog notes? We use AES which if I understand things doesn&rsquo;t rely on factoring large prime numbers, so should be fine.</p>\n",
+				"content_text": "There are so many random AI rumors, I don't think it's useful to speculate too much. But I was curious if RSA is broken, does that mean anything for the encryption we use for Micro.blog notes? We use AES which if I understand things doesn't rely on factoring large prime numbers, so should be fine.\n",
+				"date_published": "2026-11-27T11:30:00-06:00",
+				"url": "https://www.manton.org/2026/11/27/there-are-so-many-random.html",
+				"tags": ["Artificial Intelligence"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/27/talking-about-tech-stuff-with.html",
+				
+				"content_html": "<p>Talking about tech stuff with family yesterday, I tried to say something intelligent-sounding about <a href=\"https://pequalnp.com/\">P=NP</a> and my words tumbled out like nonsense. For the first time in my life, I&rsquo;m actually feeling like I didn&rsquo;t learn enough math in college. Physics, too.</p>\n",
+				"content_text": "Talking about tech stuff with family yesterday, I tried to say something intelligent-sounding about [P=NP](https://pequalnp.com/) and my words tumbled out like nonsense. For the first time in my life, I'm actually feeling like I didn't learn enough math in college. Physics, too.\n",
+				"date_published": "2026-11-27T11:00:00-06:00",
+				"url": "https://www.manton.org/2026/11/27/talking-about-tech-stuff-with.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/27/thanks-dave-for-the-kind.html",
+				
+				"content_html": "<p>Thanks <a href=\"https://micro.blog/dave\">@dave</a> for <a href=\"http://scripting.com/2026/11/26.html\">the kind words yesterday</a>. I do like this:</p>\n<blockquote>\n<p>He eats new APIs for breakfast, lunch and dinner too.</p>\n</blockquote>\n<p>It&rsquo;s true. Let&rsquo;s connect everything. 🙂</p>\n",
+				"content_text": "Thanks [@dave](https://micro.blog/dave) for [the kind words yesterday](http://scripting.com/2026/11/26.html). I do like this:\n\n> He eats new APIs for breakfast, lunch and dinner too.\n\nIt's true. Let's connect everything. 🙂\n",
+				"date_published": "2026-11-27T10:29:58-06:00",
+				"url": "https://www.manton.org/2026/11/27/thanks-dave-for-the-kind.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/26/this-is-a-fun-logo.html",
+				
+				"content_html": "<p>This is a fun logo. Black Cat Coffee in Lafayette. ☕️</p>\n<img src=\"uploads/2026/ad173ac2-de2f-49eb-a6ae-c06709c25703.jpg\" width=\"600\" height=\"600\" alt=\"A large sign on a dark building wall displays the text Black Cat Coffee House with a steaming coffee cup featuring a black cat inside the cup.\">\n",
+				"content_text": "This is a fun logo. Black Cat Coffee in Lafayette. ☕️\n\n<img src=\"uploads/2026/ad173ac2-de2f-49eb-a6ae-c06709c25703.jpg\" width=\"600\" height=\"600\" alt=\"A large sign on a dark building wall displays the text Black Cat Coffee House with a steaming coffee cup featuring a black cat inside the cup.\">\n",
+				"date_published": "2026-11-26T15:06:41-06:00",
+				"url": "https://www.manton.org/2026/11/26/this-is-a-fun-logo.html",
+				"tags": ["Photos","Coffee"]
+			},
+			{
+				"id": "http://manton.micro.blog/2026/11/26/happy-thanksgiving-everyone-late-last.html",
+				
+				"content_html": "<p>Happy Thanksgiving everyone. Late last night had to wrangle with some kind of denial of service attack, so today I’m thankful for time with family without getting distracted by server problems. Hopefully! 🦃</p>\n",
+				"content_text": "Happy Thanksgiving everyone. Late last night had to wrangle with some kind of denial of service attack, so today I’m thankful for time with family without getting distracted by server problems. Hopefully! 🦃\n",
+				"date_published": "2026-11-26T12:50:26-06:00",
+				"url": "https://www.manton.org/2026/11/26/happy-thanksgiving-everyone-late-last.html"
+			},
+			{
 				"id": "http://manton.micro.blog/2026/11/25/federico-viticci-explored-how-claudes.html",
 				
 				"content_html": "<p><a href=\"https://www.macstories.net/stories/a-closer-look-at-claudes-mac-apps/\">Federico Viticci explored</a> how Claude&rsquo;s new &ldquo;save as Mac app&rdquo; feature works. It reminds me of ChatGPT Sites more than Mac apps, just in terms of how it&rsquo;s tied to the AI company&rsquo;s infrastructure:</p>\n<blockquote>\n<p>&hellip;entirely bypassing the App Store or Apple’s notarization system for apps distributed outside the App Store, and by creating their own lock-in system around Claude’s identity and capabilities instead.</p>\n</blockquote>\n<p>Better would be building apps that could be distributed with Developer ID. But that is beyond what most users can deal with, and Anthropic&rsquo;s nature means they would prefer to have tight control anyway.</p>\n",
@@ -18,8 +69,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/11/24/train-bridge-and-west-austin.html",
 				
-				"content_html": "<p>Train bridge and west Austin from the library.</p>\n<img src=\"uploads/2026/1cd66a65-a58a-4bf7-a77f-9ac494cf7484.jpg\" width=\"600\" height=\"600\" alt=\"A train decorated with colorful graffiti is crossing a bridge over a road surrounded by lush green trees and open grassy areas.\">\n",
-				"content_text": "Train bridge and west Austin from the library.\n\n\n<img src=\"uploads/2026/1cd66a65-a58a-4bf7-a77f-9ac494cf7484.jpg\" width=\"600\" height=\"600\" alt=\"A train decorated with colorful graffiti is crossing a bridge over a road surrounded by lush green trees and open grassy areas.\">\n",
+				"content_html": "<p>Train bridge and west Austin from the library.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/1cd66a65-a58a-4bf7-a77f-9ac494cf7484.jpg\" width=\"600\" height=\"600\" alt=\"A train decorated with colorful graffiti is crossing a bridge over a road surrounded by lush green trees and open grassy areas.\">\n",
+				"content_text": "Train bridge and west Austin from the library.\n\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/1cd66a65-a58a-4bf7-a77f-9ac494cf7484.jpg\" width=\"600\" height=\"600\" alt=\"A train decorated with colorful graffiti is crossing a bridge over a road surrounded by lush green trees and open grassy areas.\">\n",
 				"date_published": "2026-11-24T14:56:59-06:00",
 				"url": "https://www.manton.org/2026/11/24/train-bridge-and-west-austin.html",
 				"tags": ["Photos"]
@@ -182,8 +233,8 @@
 			{
 				"id": "http://manton.micro.blog/2026/11/22/openai-dot-seems-to-be.html",
 				
-				"content_html": "<p>OpenAI dot seems to be becoming more proactive. I got this message this weekend, unprompted. If you don&rsquo;t mind the creepiness of it knowing way too much about me, it&rsquo;s amazing.</p>\n<img src=\"uploads/2026/paste-f7a0a409.png\" width=\"600\" height=\"204\" alt=\"\">\n",
-				"content_text": "OpenAI dot seems to be becoming more proactive. I got this message this weekend, unprompted. If you don't mind the creepiness of it knowing way too much about me, it's amazing.\n\n<img src=\"uploads/2026/paste-f7a0a409.png\" width=\"600\" height=\"204\" alt=\"\">\n",
+				"content_html": "<p>OpenAI dot seems to be becoming more proactive. I got this message this weekend, unprompted. If you don&rsquo;t mind the creepiness of it knowing way too much about me, it&rsquo;s amazing.</p>\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-f7a0a409.png\" width=\"600\" height=\"204\" alt=\"\">\n",
+				"content_text": "OpenAI dot seems to be becoming more proactive. I got this message this weekend, unprompted. If you don't mind the creepiness of it knowing way too much about me, it's amazing.\n\n<img src=\"https://cdn.uploads.micro.blog/10/2026/paste-f7a0a409.png\" width=\"600\" height=\"204\" alt=\"\">\n",
 				"date_published": "2026-11-22T12:03:09-06:00",
 				"url": "https://www.manton.org/2026/11/22/openai-dot-seems-to-be.html",
 				"tags": ["Photos","Artificial Intelligence"]
